@@ -1,2 +1,2 @@
-# ztatlock-academic-website
+# tatlock.net
 Zachary Tatlock Academic Website
