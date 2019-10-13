@@ -14,7 +14,7 @@ body {
 #whoami li {
   margin-bottom: 0.25em;
 }
-#title-name {
+.title-name {
   font-size: 2em;
 }
 .news dd {
