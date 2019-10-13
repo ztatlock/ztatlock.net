@@ -1,48 +1,30 @@
 <html>
   <head>
     <title>Zachary Tatlock</title>
-    <style>
-      * {
-        font-family: sans-serif;
-      }
-      body {
-        margin: 20pt;
-        font-size: 12pt;
-      }
-      h1, h2, h3, h4, h5 {
-        font-weight: normal;
-      }
-      .section {
-        margin-left: 15pt;
-      }
-      #whoami {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-      }
-      #whoami li {
-        margin-bottom: 3pt;
-      }
-      .monospace {
-        font-family: monospace;
-      }
-      .news dd {
-        margin: 10pt 0 15pt 15pt;
-      }
-    </style>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' href='style.css'>
   </head>
   <body>
-    <h1>Zachary Tatlock</h1>
     <ul id='whoami'>
       <li>
-        <a class='monospace' href='mailto:ztatlock@cs.washington.edu'>
+        <span class='under-600' id='title-name'>
+          Zach Tatlock</span>
+        <span class='over-600' id='title-name'>
+          Zachary Tatlock</span>
+      </li><li>
+        <a href='mailto:ztatlock@cs.washington.edu'>
           ztatlock@cs.washington.edu</a>
       </li><li>
         Associate Professor
-      </li><li>
+      </li><li class='under-600'>
         <a href='https://www.cs.washington.edu/'>
-          Allen School of Computer Science and Engineering</a>
-      </li><li>
+          Allen School</a>,
+        <a href='http://www.washington.edu/'>
+          UW</a>
+      </li><li class='over-600'>
+        <a href='https://www.cs.washington.edu/'>
+          Paul G. Allen School of Computer Science &amp; Engineering</a>
+      </li><li class='over-600'>
         <a href='http://www.washington.edu/'>
           University of Washington</a>
       </li>
@@ -65,7 +47,7 @@
         </dd>
 
         <dt>
-          ???, 2019
+          August, 2019
         </dt><dd>
           Our paper on the Carpentry Compiler will appear at SIGGRAPH Asia.
           Congrats Chenming, Chandrakana, Haisen, Jeff, and Adriana!
