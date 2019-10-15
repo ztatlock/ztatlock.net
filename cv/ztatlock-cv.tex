@@ -1,6 +1,8 @@
 \documentclass[11pt,letterpaper]{article}
 
 \usepackage[in,empty]{fullpage}
+\usepackage[indent=0pt,skip=-1ex,parfill]{parskip}
+\usepackage{changepage}
 \usepackage{hyperref}
 
 \urlstyle{tt}
@@ -9,10 +11,16 @@
   urlcolor=blue
 }
 
-\setlength\parindent{0pt}
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{1pt}
+
 \newcommand{\cvWebsite}[0]{https://tatlock.net}
 \newcommand{\cvEmail}[0]{ztatlock@cs.washington.edu}
 \newcommand{\cvSection}[1]{\vspace{1em}{\Large #1}}
+\newcommand{\cvSectionIndent}[0]{1em}
+\newcommand{\cvSubSection}[1]{\vspace{0.1em}{\large #1}}
+\newcommand{\cvSubSectionIndent}[0]{1em}
+\newcommand{\studentSpace}[0]{0pt}
 
 \begin{document}
 
@@ -21,13 +29,100 @@
 Associate Professor \hfill
   \href{mailto:\cvEmail}{\texttt{\cvEmail}} \\
 Paul G. Allen School of Computer Science \& Engineering \\
-University of Washington
+University of Washington \\
 
 \cvSection{Education}
 
 \cvSection{Experience}
 
-\cvSection{Students}
+\cvSection{Current Students}
+\begin{adjustwidth}{\cvSectionIndent}{0pt}
+
+  \cvSubSection{PhD}
+  \begin{adjustwidth}{\cvSubSectionIndent}{0pt}
+    Steven Lyubomirsky \\
+
+    Chandrakana Nandi \\
+
+    Jared Roesch \\
+
+    Bill Zorn \\
+  \end{adjustwidth}
+
+  \cvSubSection{Masters}
+  \begin{adjustwidth}{\cvSubSectionIndent}{0pt}
+    Marisa Kirasame (Jerry Cheng) \\
+
+    Logan Weber \\
+  \end{adjustwidth}
+
+  \cvSubSection{Undergraduate}
+  \begin{adjustwidth}{\cvSubSectionIndent}{0pt}
+    Adam Anderson \\
+
+    Altan Haan \\
+
+    Joshua Pollock \\
+  \end{adjustwidth}
+
+\end{adjustwidth}
+
+\cvSection{Graduated Students}
+\begin{adjustwidth}{\cvSectionIndent}{0pt}
+
+  \cvSubSection{PhD}
+  \begin{adjustwidth}{\cvSubSectionIndent}{0pt}
+    Konstantin Weitz \\
+    PhD 2017 $\rightarrow$ Google \\
+
+    Eric Mullen \\
+    PhD 2018 $\rightarrow$ Google \\
+
+    Stuart Pernsteiner \\
+    PhD 2018 $\rightarrow$ Galois \\
+
+    Pavel Panchekha \\
+    PhD 2019 $\rightarrow$ Assistant Professor at the University of Utah \\
+
+    James Wilcox \\
+    PhD 2019 $\rightarrow$ CTO at Certora \\
+
+    Doug Woos \\
+    PhD 2019 $\rightarrow$ Lecturer at Brown University \\
+
+  \end{adjustwidth}
+
+  \cvSubSection{Masters}
+  \begin{adjustwidth}{\cvSubSectionIndent}{0pt}
+    Alex Sanchez-Stern \\
+    MS 2015 $\rightarrow$ PhD Student at UCSD \\
+  \end{adjustwidth}
+
+  \cvSubSection{Undergraduate}
+  \begin{adjustwidth}{\cvSubSectionIndent}{0pt}
+    Daryl Zuniga \\
+    BS 2015 $\rightarrow$ Microsoft \\
+
+    Seth Pendergrass \\
+    BS 2016 $\rightarrow$ Microsoft \\
+
+    Steve Anton \\
+    BS 2017 $\rightarrow$ Google \\
+
+    Ryan Doenges \\
+    BS 2018 $\rightarrow$ PhD Student at Cornell University \\
+
+    David Thien \\
+    BS 2019 $\rightarrow$ PhD Student at UCSD \\
+  \end{adjustwidth}
+
+  \cvSubSection{High School}
+  \begin{adjustwidth}{\cvSubSectionIndent}{0pt}
+    Juliet Oh \\
+    HS 2015 $\rightarrow$ Undergraduate Student at Princeton \\
+  \end{adjustwidth}
+
+\end{adjustwidth}
 
 \cvSection{Publications}
 

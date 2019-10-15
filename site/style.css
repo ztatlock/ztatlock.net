@@ -17,9 +17,22 @@ body {
 .title-name {
   font-size: 2em;
 }
+.section-heading {
+  font-size: 1.5em;
+  margin: 1em 0 1em 0;
+}
 .news dd {
   margin: 0.75em 0 0.75em 1em;
 }
+.students ul {
+  list-style-type: none;
+  margin: 0.75em 0 1em 1.25em;
+  padding: 0;
+}
+.students li {
+  margin-bottom: 0.75em;
+}
+
 
 @media screen and (max-width: 600px), print {
   .over-600 {
