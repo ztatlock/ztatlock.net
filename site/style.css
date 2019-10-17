@@ -21,7 +21,7 @@ body {
   font-size: 1.25em;
   margin: 1em 0 1em 0;
 }
-.news dd, #allen-school-service dd {
+.news dd, #allen-school-service dd, #contact dd {
   margin: 0.75em 0 0.75em 1em;
 }
 .students ul {
@@ -34,7 +34,7 @@ body {
   margin-bottom: 0.75em;
 }
 
-
+/* TODO figure out responsive resizing principles */
 @media screen and (max-width: 600px), print {
   .over-600 {
     display: none;
