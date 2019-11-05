@@ -1,7 +1,12 @@
-Expressing Dates: Use ISO 8601 https://en.wikipedia.org/wiki/ISO_8601
+Expressing Dates: Use ISO 8601
+  - https://en.wikipedia.org/wiki/ISO_8601
 
-Diverysity essay from Ann Nelson in Physics Today
-(h/t Jennifer Mankoff)
-https://physicstoday.scitation.org/doi/10.1063/PT.3.3536
+Diversity essay from Ann Nelson in Physics Today (h/t Jennifer Mankoff)
+  - https://physicstoday.scitation.org/doi/10.1063/PT.3.3536
 
+Diversity: Few faculty are first-generation or from low-income backgrounds
+  - https://educateinspirechange.org/alternative-news/how-many-people-of-the-world-have-a-college-degree/
+  - https://en.wikipedia.org/wiki/List_of_countries_by_tertiary_education_attainment
+  - https://en.wikipedia.org/wiki/Educational_attainment_in_the_United_States
+  - https://www.ofm.wa.gov/washington-data-research/statewide-data/washington-trends/social-economic-conditions/educational-attainment
 
