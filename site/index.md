@@ -1,6 +1,14 @@
 % Zachary Tatlock
 
+<img
+  style='width: 10rem; margin-right: 0.5rem; margin-bottom: 1rem;'
+  class='img-fluid img-thumbnail rounded float-left'
+  src='img/ztatlock-300x400.jpg'
+  alt='Zachary Tatlock'>
+
 Howdy! I am an Associate Professor at the University of Washington.
+
+<div style='clear: both'></div>
 
 ## News
 
