@@ -1,0 +1,6 @@
+from: markdown
+to: html5
+template: TEMPLATE.html
+standalone: true
+self-contained: false
+fail-if-warnings: true

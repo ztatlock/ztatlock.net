@@ -1,2 +1,3 @@
 # tatlock.net
-Zachary Tatlock Academic Website
+
+Zachary Tatlock's Website

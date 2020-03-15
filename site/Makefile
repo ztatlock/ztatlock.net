@@ -1,0 +1,24 @@
+PAGES=$(wildcard *.md)
+STAGE_PAGES=$(patsubst %.md,stage/%.html,$(PAGES))
+
+INCLUDE=$(wildcard include/*)
+STAGE_INCLUDE=$(patsubst include/%,stage/%,$(INCLUDE))
+
+.PHONY: stage
+stage: $(STAGE_PAGES) $(STAGE_INCLUDE)
+
+stage/%.html: %.md TEMPLATE.html
+	pandoc --defaults=pandoc-options.yaml $< --output=$@
+
+stage/%: include/%
+	cp -r $< stage/
+
+.PHONY: publish
+publish:
+	rsync --verbose --recursive --delete --force \
+		stage/ \
+		ztatlock@tatlock.net:/var/www/tatlock.net
+
+.PHONY: clean
+clean:
+	rm -rf stage/*
