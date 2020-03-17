@@ -6,7 +6,18 @@
   src='img/ztatlock-300x400.jpg'
   alt='Zachary Tatlock'>
 
-Howdy! I am an Associate Professor at the University of Washington.
+Zachary Tatlock \
+Associate Professor \
+[Paul G. Allen School of Computer Science &amp; Engineering](https://www.cs.washington.edu/) \
+[University of Washington](http://www.washington.edu/)
+
+
+I am a Computer Science researcher and educator.
+My goal is
+  to help graduate students become great researchers and
+  to help undergraduate students become great scientists and engineers.
+Together, we focus on techniques that
+  help programmers ensure their code is safe, simple, and fast.
 
 <div style='clear: both'></div>
 
