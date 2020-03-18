@@ -1,25 +1,21 @@
 % Zachary Tatlock
 
 <img
-  style='width: 10rem; margin-right: 0.5rem; margin-bottom: 1rem;'
+  style='width: 10rem; margin-right: 0.5rem'
   class='img-fluid img-thumbnail rounded float-left'
   src='img/ztatlock-300x400.jpg'
   alt='Zachary Tatlock'>
 
 Zachary Tatlock \
 Associate Professor \
-[Paul G. Allen School of Computer Science &amp; Engineering](https://www.cs.washington.edu/) \
-[University of Washington](http://www.washington.edu/)
+[Paul G. Allen School of Computer Science &amp; Engineering][PGAS] \
+[University of Washington][UW]
 
+Howdy! I am researcher at UW in the [PLSE] and [SAMPL] groups.
+My goal is to help students become great computer scientists.
+I primarily teach courses on [programming languages][teaching].
 
-I am a Computer Science researcher and educator.
-My goal is
-  to help graduate students become great researchers and
-  to help undergraduate students become great scientists and engineers.
-Together, we focus on techniques that
-  help programmers ensure their code is safe, simple, and fast.
-
-<div style='clear: both'></div>
+<div style='clear: both; margin-bottom: 1rem;'></div>
 
 ## News
 

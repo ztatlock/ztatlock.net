@@ -7,17 +7,27 @@ STAGE_INCLUDE=$(patsubst include/%,stage/%,$(INCLUDE))
 .PHONY: stage
 stage: $(STAGE_PAGES) $(STAGE_INCLUDE)
 
-stage/%.html: %.md TEMPLATE.html
-	pandoc --defaults=pandoc-options.yaml $< --output=$@
+stage/%.html: %.md TEMPLATE.html REFLINKS
+	@echo PANDOC $<
+	@pandoc \
+		--from=markdown \
+		--to=html5 \
+		--template=TEMPLATE.html \
+		--standalone \
+		--fail-if-warnings \
+		$< REFLINKS --output=$@
 
 stage/%: include/%
 	cp -r $< stage/
 
 .PHONY: publish
 publish:
-	rsync --verbose --recursive --delete --force \
-		stage/ \
-		ztatlock@tatlock.net:/var/www/tatlock.net
+	rsync \
+		--verbose \
+		--recursive \
+		--delete \
+		--force \
+		stage/ ztatlock@tatlock.net:/var/www/tatlock.net
 
 .PHONY: clean
 clean:
