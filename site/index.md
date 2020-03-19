@@ -11,7 +11,7 @@ Associate Professor \
 [Paul G. Allen School of Computer Science &amp; Engineering][PGAS] \
 [University of Washington][UW]
 
-Howdy! I am researcher at UW in the [PLSE] and [SAMPL] groups.
+Howdy! I am researcher in the [PLSE] and [SAMPL] groups.
 My goal is to help students become great computer scientists.
 I primarily teach courses on [programming languages][teaching].
 
