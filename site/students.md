@@ -2,6 +2,8 @@
 
 # Current Students
 
+::: indent
+
 ## PhD
 
   - Steven Lyubomirsky
@@ -22,7 +24,11 @@
   - Adam Anderson
   - Joshua Pollock
 
+:::
+
 # Graduated Students
+
+::: indent
 
 ## PhD
 
@@ -49,3 +55,5 @@
 ## High School
 
   - Juliet Oh : HS 2016 &rarr; Undergraduate Student at Princeton
+
+:::
