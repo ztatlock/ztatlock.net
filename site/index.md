@@ -6,7 +6,7 @@
   src='img/ztatlock-300x400.jpg'
   alt='Zachary Tatlock'>
 
-Zachary Tatlock \
+<span style='font-size: 1.25rem;'>Zachary Tatlock</span> \
 Associate Professor \
 [Paul G. Allen School of Computer Science &amp; Engineering][PGAS] \
 [University of Washington][UW]
