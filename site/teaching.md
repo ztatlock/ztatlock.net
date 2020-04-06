@@ -2,6 +2,10 @@
 
 # Teaching
 
+<!-- TODO avoid table -->
+
+::: indent
+
 ------------ -----------------------------------------------------------------
  Spring 2020 &nbsp; [CSE 505:  Graduate Programming Languages](https://courses.cs.washington.edu/courses/cse505/20sp/)
  Winter 2020 &nbsp; [CSE 341:  Programming Languages](https://sites.google.com/cs.washington.edu/cse-341-winter-2020)
@@ -23,3 +27,11 @@
  Winter 2014 &nbsp; [CSE 506:  Proof Assistants](http://courses.cs.washington.edu/courses/cse506/14wi/)
  Autumn 2013 &nbsp; [CSE 505:  Graduate Programming Languages](http://courses.cs.washington.edu/courses/cse505/13au/)
 ------------ -----------------------------------------------------------------
+
+:::
+
+&nbsp;
+
+I was honored to be nominated for the
+[UW Distinguished Teaching Award](https://www.washington.edu/teaching/programs/teaching-awards/nominees-award-recipients/awards-recipients/)
+in 2015.

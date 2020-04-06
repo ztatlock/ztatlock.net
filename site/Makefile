@@ -20,14 +20,17 @@ stage/%.html: %.md TEMPLATE.html REFLINKS
 stage/%: include/%
 	cp -r $< stage/
 
-.PHONY: publish
-publish:
+.PHONY: sync
+sync:
 	rsync \
 		--verbose \
 		--recursive \
 		--delete \
 		--force \
 		stage/ ztatlock@tatlock.net:/var/www/tatlock.net
+
+.PHONY: publish
+publish: stage sync
 
 .PHONY: clean
 clean:
