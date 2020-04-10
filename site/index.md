@@ -11,15 +11,23 @@ Associate Professor \
 [Paul G. Allen School of Computer Science &amp; Engineering][PGAS] \
 [University of Washington][UW]
 
+Howdy!
+My goal is to help students become great computer scientists.
+On the research side,
+I work toward this goal in the [PLSE] and [SAMPL] groups,
+and as part of the SRC-funded [ADA JUMP Center][ADA].
+On the teaching side,
+I work toward this goal by [teaching courses][teaching] on
+programming languages and related topics.
+
+I am also part of the incredible team at [OctoML].
+If you like hacking on machine learning compilers and systems
+or want blazing fast optimization, check us out!
+
 ![under construction](img/under-construction.gif)
 This site is slowly being migrated from
 [my old page](https://homes.cs.washington.edu/~ztatlock/).
-You may want to look there for more information
-on our projects and papers.
-
-Howdy! I am researcher in the [PLSE] and [SAMPL] groups.
-My goal is to help students become great computer scientists.
-I primarily teach courses on [programming languages][teaching].
+Please look there for more information on our projects and papers.
 
 <div style='clear: both; margin-bottom: 1rem;'></div>
 
