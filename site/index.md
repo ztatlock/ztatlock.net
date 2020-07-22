@@ -33,6 +33,11 @@ Please look there for more information on our projects and papers.
 
 ## News
 
+July, 2020
+
+- [Pavel] and I gave an invited talk on [Herbie] and [FPBench]
+  at [NSV 2020](https://nsv2020.github.io/).
+
 September, 2019
 
 - I got tenure and am now an Associate Professor
