@@ -38,6 +38,13 @@ July, 2020
 - [Pavel] and I gave an invited talk on [Herbie] and [FPBench]
   at [NSV 2020](https://nsv2020.github.io/).
 
+May, 2020
+
+- I was honored to receive a 2020
+  Faculty Appreciation for Career, Education, and Training (FACET) Award
+  from the UW College of Engineering.
+  Many thanks to the PLSE and SAMPL students for the nomination!
+
 September, 2019
 
 - I got tenure and am now an Associate Professor
