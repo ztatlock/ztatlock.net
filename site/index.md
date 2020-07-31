@@ -38,6 +38,21 @@ July, 2020
 - [Pavel] and I gave an invited talk on [Herbie] and [FPBench]
   at [NSV 2020](https://nsv2020.github.io/).
 
+June, 2020
+
+- [Chandrakana] gave a talk at PLDI 2020 on Szalinski from our paper
+  [Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations](TODO).
+
+  <iframe
+    width="600"
+    height="350"
+    src="https://www.youtube.com/embed/2KA602M8t7c"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+
+
 May, 2020
 
 - I was honored to receive a 2020
