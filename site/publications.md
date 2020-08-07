@@ -37,3 +37,16 @@
   [code](https://github.com/helm-compiler) &nbsp;
   [project](https://grail.cs.washington.edu/projects/carpentrycompiler/) &nbsp;
   [bib](pubs/2019-siga-carpentry-compiler.bib) &nbsp;
+
+- **Icing: Supporting Fast-Math Style Optimizations in a Verified Compiler** <br>
+  [Heiko Becker], [Eva Darulova], [Magnus O. Myreen], [Zachary Tatlock] <br>
+  *Computer-Aided Verification (CAV) 2019* <br>
+  [paper](pubs/2019-cav-icing-verified-fastmath.pdf) &nbsp;
+  [slides](pubs/2019-cav-icing-verified-fastmath-slides.pdf) &nbsp;
+
+# Aggregators
+
+- [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
+- [Google Scholar](https://scholar.google.com/citations?user=jz2Tvk4AAAAJ&hl=en)
+- [Semantic Scholar](https://www.semanticscholar.org/author/Zachary-Tatlock/2272813)
+- [ResearchGate](https://www.researchgate.net/profile/Zachary_Tatlock)
