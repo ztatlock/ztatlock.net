@@ -44,6 +44,14 @@
   [paper](pubs/2019-cav-icing-verified-fastmath.pdf) &nbsp;
   [slides](pubs/2019-cav-icing-verified-fastmath-slides.pdf) &nbsp;
 
+- **Teaching Rigorous Distributed Systems With Efficient Model Checking** <br>
+  [Ellis Michael], [Doug Woos], [Thomas E. Anderson], [Michael D. Ernst], [Zachary Tatlock] <br>
+  *European Conference on Computer Systems (EuroSys) 2019* <br>
+  [paper](pubs/2019-eurosys-dslabs.pdf) &nbsp;
+  [talk](https://youtu.be/zip-v2aR2WM?t=2693) &nbsp;
+  [slides](pubs/2019-eurosys-dslabs-slides.pdf) &nbsp;
+  [code](https://github.com/emichael/dslabs) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
