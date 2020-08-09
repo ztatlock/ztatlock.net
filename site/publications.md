@@ -38,6 +38,20 @@
   [project](https://grail.cs.washington.edu/projects/carpentrycompiler/) &nbsp;
   [bib](pubs/2019-siga-carpentry-compiler.bib) &nbsp;
 
+- **Theia: Automatically Generating Correct Program State Visualizations** <br>
+  [Josh Pollock], [Jared Roesch], [Doug Woos], [Zachary Tatlock] <br>
+  *ACM SIGPLAN Symposium on SPLASH-E 2019* <br>
+  [paper](pubs/2019-splashe-theia-psv-viz.pdf) &nbsp;
+
+- **Toward Multi-Precision, Multi-Format Numerics** <br>
+  [David Thien], [Bill Zorn], [Pavel Panchekha], [Zachary Tatlock] <br>
+  *International Workshop on Software Correctness for HPC Applications (CORRECTNESS@SC) 2019* <br>
+  [paper](pubs/2019-correctness-mpmf.pdf) &nbsp;
+  [slides](pubs/2019-correctness-mpmf-slides.pdf) &nbsp;
+  [FPBench] &nbsp;
+  [Titanic] &nbsp;
+  [Herbie] &nbsp;
+
 - **Icing: Supporting Fast-Math Style Optimizations in a Verified Compiler** <br>
   [Heiko Becker], [Eva Darulova], [Magnus O. Myreen], [Zachary Tatlock] <br>
   *Computer-Aided Verification (CAV) 2019* <br>
@@ -52,14 +66,10 @@
   [slides](pubs/2019-eurosys-dslabs-slides.pdf) &nbsp;
   [code](https://github.com/emichael/dslabs) &nbsp;
 
-- **Theia: Automatically Generating Correct Program State Visualizations** <br>
-  [Josh Pollock], [Jared Roesch], [Doug Woos], [Zachary Tatlock] <br>
-  *ACM SIGPLAN Symposium on SPLASH-E 2019* <br>
-  [paper](pubs/2019-splashe-theia-psv-viz.pdf) &nbsp;
-
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
 - [Google Scholar](https://scholar.google.com/citations?user=jz2Tvk4AAAAJ&hl=en)
 - [Semantic Scholar](https://www.semanticscholar.org/author/Zachary-Tatlock/2272813)
 - [ResearchGate](https://www.researchgate.net/profile/Zachary_Tatlock)
+- [ACM Digital Library](https://dl.acm.org/profile/81392605383)
