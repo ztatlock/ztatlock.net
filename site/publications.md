@@ -52,6 +52,11 @@
   [slides](pubs/2019-eurosys-dslabs-slides.pdf) &nbsp;
   [code](https://github.com/emichael/dslabs) &nbsp;
 
+- **Theia: Automatically Generating Correct Program State Visualizations** <br>
+  [Josh Pollock], [Jared Roesch], [Doug Woos], [Zachary Tatlock] <br>
+  *ACM SIGPLAN Symposium on SPLASH-E 2019* <br>
+  [paper](pubs/2019-splashe-theia-psv-viz.pdf) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)

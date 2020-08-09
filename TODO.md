@@ -3,6 +3,7 @@ TODO
   - get talk recording for Icing (CAV 2019)
   - get code for Icing (CAV 2019)
   - get project page for Icing (CAV 2019)
+  - get talk, slides, code, project for Theia (SPLASH-E 2019)
 
 
 
