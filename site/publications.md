@@ -6,8 +6,10 @@
   [Chandrakana Nandi], [Max Willsey], [Adam Anderson], [James R. Wilcox], [Eva Darulova], [Dan Grossman], [Zachary Tatlock] <br>
   *Programming Language Design and Implementation (PLDI) 2020* <br>
   [paper](pubs/2020-pldi-szalinski-cad-eqsat.pdf) &nbsp;
+  [teaser](https://youtu.be/dnIWBnpZqSo?list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd&t=139) &nbsp;
   [talk](https://www.youtube.com/watch?v=2KA602M8t7c) &nbsp;
   [slides](pubs/2020-pldi-szalinski-cad-eqsat-slides.pdf) &nbsp;
+  [poster](pubs/2020-pldi-szalinski-cad-eqsat-poster.png) &nbsp;
   [code](https://github.com/uwplse/szalinski/) &nbsp;
   [project](http://incarnate.uwplse.org/) &nbsp;
 
@@ -65,6 +67,16 @@
   [talk](https://youtu.be/zip-v2aR2WM?t=2693) &nbsp;
   [slides](pubs/2019-eurosys-dslabs-slides.pdf) &nbsp;
   [code](https://github.com/emichael/dslabs) &nbsp;
+
+- **Functional Programming for Compiling and Decompiling Computer-aided Design** <br>
+  [Chandrakana Nandi], [James R. Wilcox], [Pavel Panchekha], [Taylor Blau], [Dan Grossman], [Zachary Tatlock] <br>
+  *International Conference on Functional Programming (ICFP) 2018* <br>
+  [paper](pubs/2018-icfp-reincarnate-cad-decompiler.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=u3H70i4AUKs) &nbsp;
+  [slides](pubs/2018-icfp-reincarnate-cad-decompiler-slides.pdf) &nbsp;
+  [poster](pubs/2018-icfp-reincarnate-cad-decompiler-poster.pdf) &nbsp;
+  [code](https://github.com/uwplse/szalinski) &nbsp;
+  [project](http://reincarnate.uwplse.org) &nbsp;
 
 # Aggregators
 
