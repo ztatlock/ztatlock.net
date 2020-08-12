@@ -78,6 +78,15 @@
   [code](https://github.com/uwplse/szalinski) &nbsp;
   [project](http://reincarnate.uwplse.org) &nbsp;
 
+- **Programming and Proving with Distributed Protocols** <br>
+  [Ilya Sergey], [James R. Wilcox], [Zachary Tatlock] <br>
+  *Principles of Programming Languages (POPL) 2018* <br>
+  [paper](pubs/2018-popl-disel.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=zuuBEXhM4tU) &nbsp;
+  [slides](pubs/2018-popl-disel-slides.pdf) &nbsp;
+  [code](https://github.com/DistributedComponents/disel) &nbsp;
+  [project](https://distributedcomponents.net/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
