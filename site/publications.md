@@ -87,6 +87,14 @@
   [code](https://github.com/DistributedComponents/disel) &nbsp;
   [project](https://distributedcomponents.net/) &nbsp;
 
+- **Œuf: minimizing the Coq extraction TCB** <br>
+  [Eric Mullen], [Stuart Pernsteiner], [James R. Wilcox], [Zachary Tatlock], [Dan Grossman] <br>
+  *Certified Programs and Proofs (CPP) 2018* <br>
+  [paper](pubs/2018-cpp-oeuf-coq-compiler.pdf) &nbsp;
+  [slides](pubs/2018-cpp-oeuf-coq-compiler-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/oeuf) &nbsp;
+  [project](http://oeuf.uwplse.org/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
