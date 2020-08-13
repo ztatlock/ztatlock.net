@@ -6,6 +6,10 @@ TODO
   - get talk, slides, code, project for Theia (SPLASH-E 2019)
   - set up and link to OrcID
   - add Reincarnate teaser (?)
+  - serve .bib files as plain text
+    * https://clubmate.fi/display-any-file-in-a-browser-as-plain-text/
+  - add CI for w3c checks and link checks
+  - add NSV 2020 paper
 
 Links to particular gmail searches...
 

@@ -95,6 +95,15 @@
   [code](https://github.com/uwplse/oeuf) &nbsp;
   [project](http://oeuf.uwplse.org/) &nbsp;
 
+- **Combining Tools for Optimization and Analysis of Floating-Point Computations** <br>
+  [Heiko Becker], [Pavel Panchekha], [Eva Darulova], [Zachary Tatlock] <br>
+  *Forma Methods (FM) 2018* <br>
+  [paper](pubs/2018-fm-combining-fp-tools.pdf) &nbsp;
+  [slides](pubs/2018-fm-combining-fp-tools-slides.pdf) &nbsp;
+  [Daisy](https://github.com/malyzajko/daisy) &nbsp;
+  [Herbie](http://herbie.uwplse.org/) &nbsp;
+  [FPBench](http://fpbench.org/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
