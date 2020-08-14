@@ -55,10 +55,22 @@ June, 2020
 
 May, 2020
 
-- I was honored to receive a 2020
+- The [DTR](https://arxiv.org/abs/2006.09616) team made
+  a demo video for the ADA Annual Symposium. Funky!
+
+  <iframe
+    width="600"
+    height="350"
+    src="https://www.youtube.com/embed/kxlbpwBJzA4"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+
+- I was honored to receive a
   Faculty Appreciation for Career, Education, and Training (FACET) Award
   from the UW College of Engineering.
-  Many thanks to the PLSE and SAMPL students for the nomination!
+  Many thanks to the [PLSE] and [SAMPL] students for the nomination!
 
 September, 2019
 

@@ -88,7 +88,7 @@
   [FPBench](http://fpbench.org/) &nbsp;
 
 - **Software Verification with ITPs Should Use Binary Code Extraction to Reduce the TCB (Short Paper)** <br>
-  [Ramana Kumar], [Eric Mullen], [Zachary Tatlock], and [Magnus O. Myreen] <br>
+  [Ramana Kumar], [Eric Mullen], [Zachary Tatlock], [Magnus O. Myreen] <br>
   *Interactive Theorem Proving (ITP) 2018* <br>
   [paper](pubs/2018-itp-binary-code-extraction.pdf) &nbsp;
   [slides](https://easychair.org/smart-slide/slide/pCvQ#) &nbsp;
