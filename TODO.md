@@ -10,6 +10,7 @@ TODO
     * https://clubmate.fi/display-any-file-in-a-browser-as-plain-text/
   - add CI for w3c checks and link checks
   - add NSV 2020 paper
+  - get ITP 2018 slides from Ramana Kumar
 
 Links to particular gmail searches...
 

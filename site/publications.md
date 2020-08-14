@@ -78,6 +78,24 @@
   [code](https://github.com/uwplse/szalinski) &nbsp;
   [project](http://reincarnate.uwplse.org) &nbsp;
 
+- **Combining Tools for Optimization and Analysis of Floating-Point Computations** <br>
+  [Heiko Becker], [Pavel Panchekha], [Eva Darulova], [Zachary Tatlock] <br>
+  *Forma Methods (FM) 2018* <br>
+  [paper](pubs/2018-fm-combining-fp-tools.pdf) &nbsp;
+  [slides](pubs/2018-fm-combining-fp-tools-slides.pdf) &nbsp;
+  [Daisy](https://github.com/malyzajko/daisy) &nbsp;
+  [Herbie](http://herbie.uwplse.org/) &nbsp;
+  [FPBench](http://fpbench.org/) &nbsp;
+
+- **Software Verification with ITPs Should Use Binary Code Extraction to Reduce the TCB (Short Paper)** <br>
+  [Ramana Kumar], [Eric Mullen], [Zachary Tatlock], and [Magnus O. Myreen] <br>
+  *Interactive Theorem Proving (ITP) 2018* <br>
+  [paper](pubs/2018-itp-binary-code-extraction.pdf) &nbsp;
+  [slides](https://easychair.org/smart-slide/slide/pCvQ#) &nbsp;
+  [CakeML](https://cakeml.org/) &nbsp;
+  [Oeuf](http://oeuf.uwplse.org/) &nbsp;
+  [bib](pubs/2018-itp-binary-code-extraction.bib) &nbsp;
+
 - **Programming and Proving with Distributed Protocols** <br>
   [Ilya Sergey], [James R. Wilcox], [Zachary Tatlock] <br>
   *Principles of Programming Languages (POPL) 2018* <br>
@@ -95,14 +113,6 @@
   [code](https://github.com/uwplse/oeuf) &nbsp;
   [project](http://oeuf.uwplse.org/) &nbsp;
 
-- **Combining Tools for Optimization and Analysis of Floating-Point Computations** <br>
-  [Heiko Becker], [Pavel Panchekha], [Eva Darulova], [Zachary Tatlock] <br>
-  *Forma Methods (FM) 2018* <br>
-  [paper](pubs/2018-fm-combining-fp-tools.pdf) &nbsp;
-  [slides](pubs/2018-fm-combining-fp-tools-slides.pdf) &nbsp;
-  [Daisy](https://github.com/malyzajko/daisy) &nbsp;
-  [Herbie](http://herbie.uwplse.org/) &nbsp;
-  [FPBench](http://fpbench.org/) &nbsp;
 
 # Aggregators
 
