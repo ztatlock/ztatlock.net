@@ -113,6 +113,14 @@
   [code](https://github.com/uwplse/oeuf) &nbsp;
   [project](http://oeuf.uwplse.org/) &nbsp;
 
+- **Verifying that web pages have accessible layout** <br>
+  [Pavel Panchekha], [Adam T. Geller], [Michael D. Ernst], [Zachary Tatlock], [Shoaib Kamil] <br>
+  *Programming Language Design and Implementation (PLDI) 2018* <br>
+  [paper](pubs/2018-pldi-vizassert-web-layout.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=07efSFKC8XY) &nbsp;
+  [slides](pubs/2018-pldi-vizassert-web-layout-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/cassius/) &nbsp;
+  [project](https://cassius.uwplse.org/) &nbsp;
 
 # Aggregators
 
