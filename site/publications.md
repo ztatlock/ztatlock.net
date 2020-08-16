@@ -47,7 +47,7 @@
 
 - **Toward Multi-Precision, Multi-Format Numerics** <br>
   [David Thien], [Bill Zorn], [Pavel Panchekha], [Zachary Tatlock] <br>
-  *International Workshop on Software Correctness for HPC Applications (CORRECTNESS@SC) 2019* <br>
+  *Software Correctness for HPC Applications (CORRECTNESS) 2019* <br>
   [paper](pubs/2019-correctness-mpmf.pdf) &nbsp;
   [slides](pubs/2019-correctness-mpmf-slides.pdf) &nbsp;
   [FPBench] &nbsp;
@@ -121,6 +121,14 @@
   [slides](pubs/2018-pldi-vizassert-web-layout-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/cassius/) &nbsp;
   [project](https://cassius.uwplse.org/) &nbsp;
+
+- **Relay: a New IR for Machine Learning Frameworks** <br>
+  [Jared Roesch], [Steven Lyubomirsky], [Logan Weber], [Josh Pollock], [Marisa Kirisame], [Tianqi Chen], [Zachary Tatlock] <br>
+  *Machine Learning and Programming Languages (MAPL) 2018* <br>
+  [paper](pubs/2018-mapl-relay-ir.pdf) &nbsp;
+  [slides](pubs/2018-mapl-relay-ir-slides.pdf) &nbsp;
+  [code](https://github.com/apache/incubator-tvm/issues/1673) &nbsp;
+  [project](https://sampl.cs.washington.edu/projects/relay.html) &nbsp;
 
 # Aggregators
 

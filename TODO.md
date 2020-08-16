@@ -11,6 +11,7 @@ TODO
   - add CI for w3c checks and link checks
   - add NSV 2020 paper
   - get ITP 2018 slides from Ramana Kumar
+  - add PNW PLSE events to the news
 
 Links to particular gmail searches...
 

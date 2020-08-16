@@ -72,6 +72,11 @@ May, 2020
   from the UW College of Engineering.
   Many thanks to the [PLSE] and [SAMPL] students for the nomination!
 
+December, 2019
+
+- I gave a [talk on Relay the IR](https://youtu.be/npqO0hVXZwU?t=1812)
+  at the [TVM Conference 2019](https://sampl.cs.washington.edu/tvmconf/).
+
 September, 2019
 
 - I got tenure and am now an Associate Professor
