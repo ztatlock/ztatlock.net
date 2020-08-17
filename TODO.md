@@ -12,6 +12,11 @@ TODO
   - add NSV 2020 paper
   - get ITP 2018 slides from Ramana Kumar
   - add PNW PLSE events to the news
+  - figure out a way to get a copy of Herbgrind PLDI 2018 slides backed up
+
+
+
+
 
 Links to particular gmail searches...
 

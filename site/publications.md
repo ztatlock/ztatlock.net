@@ -130,6 +130,15 @@
   [code](https://github.com/apache/incubator-tvm/issues/1673) &nbsp;
   [project](https://sampl.cs.washington.edu/projects/relay.html) &nbsp;
 
+- **Finding Root Causes of Floating Point Error** <br>
+  [Alex Sanchez-Stern], [Pavel Panchekha], [Sorin Lerner], [Zachary Tatlock] <br>
+  *Programming Language Design and Implementation (PLDI) 2018* <br>
+  [paper](pubs/2018-pldi-herbgrind-fp-error.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=bFL6PaPrz8Y) &nbsp;
+  [slides](http://herbgrind.ucsd.edu/pldi18-talk/) &nbsp;
+  [code](https://github.com/uwplse/herbgrind) &nbsp;
+  [project](http://herbgrind.ucsd.edu/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
