@@ -33,6 +33,11 @@ Please look there for more information on our projects and papers.
 
 ## News
 
+August, 2020
+
+- I gave a talk at [Wisconsin's madPL seminar](https://madpl.cs.wisc.edu/pl-seminar/) on
+  [Synthesizing Backward through the Geometry Pipeline](https://madpl.cs.wisc.edu/pl-seminar/20200819-zach_tatlock/).
+
 July, 2020
 
 - [Pavel] and I gave an invited talk on [Herbie] and [FPBench]
