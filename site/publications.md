@@ -139,6 +139,15 @@
   [code](https://github.com/uwplse/herbgrind) &nbsp;
   [project](http://herbgrind.ucsd.edu/) &nbsp;
 
+- **SpaceSearch: A Library for Building and Verifying Solver-aided Tools** <br>
+  [Konstantin Weitz], [Steven Lyubomirsky], [Stefan Heule], [Emina Torlak], [Michael D. Ernst], [Zachary Tatlock] <br>
+  *International Conference on Functional Programming (ICFP) 2017* <br>
+  [paper](pubs/2017-icfp-spacesearch-verifying-solver-aided-tools.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=dCx_E2SqcWE) &nbsp;
+  [slides](pubs/2017-icfp-spacesearch-verifying-solver-aided-tools-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/bagpipe) &nbsp;
+  [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
