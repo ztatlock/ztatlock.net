@@ -96,3 +96,10 @@ August, 2019
 
 - Our paper on the Carpentry Compiler will appear at SIGGRAPH Asia.
   Congrats Chenming, Chandrakana, Haisen, Jeff, and Adriana!
+
+May, 2017
+
+- Had a blast at [SNAPL 2017](https://snapl.org/2017/)
+  catching up with folks and discussing new, big ideas in PL research!
+
+  ![SNAPL 2017 Group](https://snapl.org/2017/images/SNAPLers.jpg){width=600px} \
