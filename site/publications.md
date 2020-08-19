@@ -148,6 +148,13 @@
   [code](https://github.com/uwplse/bagpipe) &nbsp;
   [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
 
+- **Programming Language Tools and Techniques for 3D Printing** <br>
+  [Chandrakana Nandi], [Anat Caspi], [Dan Grossman] <br>
+  *Summit oN Advances in Programming Languages (SNAPL) 2017* <br>
+  [paper](pubs/2017-snapl-incarnate-pl-for-3d-printing.pdf) &nbsp;
+  [slides](pubs/2017-snapl-incarnate-pl-for-3d-printing-slides.pdf) &nbsp;
+  [project](http://incarnate.uwplse.org/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
