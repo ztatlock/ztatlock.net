@@ -155,6 +155,14 @@
   [slides](pubs/2017-snapl-incarnate-pl-for-3d-printing-slides.pdf) &nbsp;
   [project](http://incarnate.uwplse.org/) &nbsp;
 
+- **Programming Language Abstractions for Modularly Verified Distributed Systems** <br>
+  [James R. Wilcox], [Ilya Sergey], [Zachary Tatlock] <br>
+  *Summit oN Advances in Programming Languages (SNAPL) 2017* <br>
+  [paper](pubs/2017-snapl-disel-pl-for-distributed-systems.pdf) &nbsp;
+  [slides](pubs/2017-snapl-disel-pl-for-distributed-systems-slides.pdf) &nbsp;
+  [project](https://distributedcomponents.net) &nbsp;
+
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
