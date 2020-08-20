@@ -13,6 +13,9 @@ TODO
   - get ITP 2018 slides from Ramana Kumar
   - add PNW PLSE events to the news
   - figure out a way to get a copy of Herbgrind PLDI 2018 slides backed up
+  - add date in comments to pubs
+    * [//]: # (This syntax works like a comment, and won't appear in any output.)
+  - sort pubs by date
 
 
 

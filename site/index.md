@@ -77,6 +77,13 @@ May, 2020
   from the UW College of Engineering.
   Many thanks to the [PLSE] and [SAMPL] students for the nomination!
 
+February, 2020
+
+- [Max] and [Chandrakana] gave a talk on
+  [egg](https://github.com/mwillsey/egg) and how it is used in
+  [Szalinski](http://incarnate.uwplse.org/) at the
+  [Firedrake 2020 workshop](https://firedrakeproject.org/firedrake_usa_20.html).
+
 December, 2019
 
 - I gave a [talk on Relay the IR](https://youtu.be/npqO0hVXZwU?t=1812)
