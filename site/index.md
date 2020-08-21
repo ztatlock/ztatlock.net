@@ -104,9 +104,30 @@ August, 2019
 - Our paper on the Carpentry Compiler will appear at SIGGRAPH Asia.
   Congrats Chenming, Chandrakana, Haisen, Jeff, and Adriana!
 
+August, 2017
+
+- A [CACM article](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
+  on "Hacker Proof Coding" reported on some of our work
+  [analyzing radiotherapy control software](http://neutrons.uwplse.org).
+
 May, 2017
 
 - Had a blast at [SNAPL 2017](https://snapl.org/2017/)
   catching up with folks and discussing new, big ideas in PL research!
 
   ![SNAPL 2017 Group](https://snapl.org/2017/images/SNAPLers.jpg){width=600px} \
+
+March, 2016
+
+- [Emina] and I did an "I Am CSE" video on our work
+  [analyzing radiotherapy control software](http://neutrons.uwplse.org).
+
+  <iframe
+    width="600"
+    height="350"
+    src="https://www.youtube.com/embed/QdR9_TJ1br8"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+
