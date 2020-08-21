@@ -162,6 +162,13 @@
   [slides](pubs/2017-snapl-disel-pl-for-distributed-systems-slides.pdf) &nbsp;
   [project](https://distributedcomponents.net) &nbsp;
 
+- **Investigating Safety of a Radiotherapy Machine Using System Models with Pluggable Checkers** <br>
+  [Stuart Pernsteiner], [Calvin Loncaric], [Emina Torlak], [Zachary Tatlock], [Xi Wang], [Michael D. Ernst], [Jonathan Jacky] <br>
+  *Computer-Aided Verification (CAV) 2016* <br>
+  [paper](pubs/2016-cav-neutrons-radiotherapy-safety.pdf) &nbsp;
+  [slides](pubs/2016-cav-neutrons-radiotherapy-safety-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/neutrons) &nbsp;
+  [project](http://neutrons.uwplse.org) &nbsp;
 
 # Aggregators
 
