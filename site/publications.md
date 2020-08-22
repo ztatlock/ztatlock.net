@@ -170,6 +170,15 @@
   [code](https://github.com/uwplse/neutrons) &nbsp;
   [project](http://neutrons.uwplse.org) &nbsp;
 
+- **Toward a Standard Benchmark Format and Suite for Floating-Point Analysis** <br>
+  [Nasrine Damouche], [Matthieu Martel], [Pavel Panchekha], [Chen Qiu], [Alexander Sanchez-Stern], [Zachary Tatlock] <br>
+  *Numerical Software Verification (NSV) 2016* <br>
+  [paper](pubs/2016-nsv-fpbench.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=SRE2Gky381M) &nbsp;
+  [slides](pubs/2016-nsv-fpbench-slides.pdf) &nbsp;
+  [code](https://github.com/FPBench/FPBench) &nbsp;
+  [project](http://fpbench.org/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
