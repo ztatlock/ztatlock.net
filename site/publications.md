@@ -179,6 +179,16 @@
   [code](https://github.com/FPBench/FPBench) &nbsp;
   [project](http://fpbench.org/) &nbsp;
 
+- **Planning for Change in a Formal Verification of the Raft Consensus Protocol** <br>
+  [Doug Woos], [James R. Wilcox], [Steve Anton], [Zachary Tatlock], [Michael D. Ernst], [Thomas E. Anderson] <br>
+  *Certified Programs and Proofs (CPP) 2016* <br>
+  [paper](pubs/2016-cpp-verdi-raft-proof-engineering.pdf) &nbsp;
+  [slides](pubs/2016-cpp-verdi-raft-proof-engineering-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/verdi-raft) &nbsp;
+  [Verdi](http://verdi.uwplse.org) &nbsp;
+  [Proof Engineering](https://proofengineering.org) &nbsp;
+
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
