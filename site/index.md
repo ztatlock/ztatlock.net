@@ -145,3 +145,10 @@ March, 2016
     allowfullscreen>
   </iframe>
 
+December 2015
+
+- [Doug] gave a presentation on type theory, Coq, and verifying distributed
+  systems in [Verdi] at the Vermont Functional User Group (part
+  [1](https://vimeo.com/155383739),
+  [2](https://vimeo.com/155384206),
+  [3](https://vimeo.com/155385336)).
