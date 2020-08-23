@@ -77,6 +77,20 @@ May, 2020
   from the UW College of Engineering.
   Many thanks to the [PLSE] and [SAMPL] students for the nomination!
 
+March, 2020
+
+- [Chandrakana] did an "I Am CSE" video on our work
+  [decompiling meshes to CAD for 3D printing](http://reincarnate.uwplse.org).
+
+  <iframe
+    width="600"
+    height="350"
+    src="https://www.youtube.com/embed/G7v3kegE9_g"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+
 February, 2020
 
 - [Max] and [Chandrakana] gave a talk on

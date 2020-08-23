@@ -77,6 +77,7 @@
   [poster](pubs/2018-icfp-reincarnate-cad-decompiler-poster.pdf) &nbsp;
   [code](https://github.com/uwplse/szalinski) &nbsp;
   [project](http://reincarnate.uwplse.org) &nbsp;
+  [I Am CSE](https://www.youtube.com/watch?v=G7v3kegE9_g) &nbsp;
 
 - **Combining Tools for Optimization and Analysis of Floating-Point Computations** <br>
   [Heiko Becker], [Pavel Panchekha], [Eva Darulova], [Zachary Tatlock] <br>
@@ -169,6 +170,7 @@
   [slides](pubs/2016-cav-neutrons-radiotherapy-safety-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/neutrons) &nbsp;
   [project](http://neutrons.uwplse.org) &nbsp;
+  [I Am CSE](https://www.youtube.com/watch?v=QdR9_TJ1br8) &nbsp;
 
 - **Toward a Standard Benchmark Format and Suite for Floating-Point Analysis** <br>
   [Nasrine Damouche], [Matthieu Martel], [Pavel Panchekha], [Chen Qiu], [Alexander Sanchez-Stern], [Zachary Tatlock] <br>
