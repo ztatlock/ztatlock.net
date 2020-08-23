@@ -131,6 +131,13 @@ May, 2017
 
   ![SNAPL 2017 Group](https://snapl.org/2017/images/SNAPLers.jpg){width=600px} \
 
+February, 2017
+
+- I gave
+  [a talk at Utah](https://www.cs.utah.edu/calendar/colloquium-zach-tatlock/)
+  on [Herbie], [Herbgrind], and [FPBench].
+  Great to sync up with the Utes!
+
 March, 2016
 
 - [Emina] and I did an "I Am CSE" video on our work

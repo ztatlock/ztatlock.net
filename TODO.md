@@ -16,6 +16,7 @@ TODO
   - add date in comments to pubs
     * [//]: # (This syntax works like a comment, and won't appear in any output.)
   - sort pubs by date
+  - Add slides from 2017 Utah Herbie talk
 
 
 
