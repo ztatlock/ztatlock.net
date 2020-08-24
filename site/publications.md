@@ -190,6 +190,15 @@
   [Verdi](http://verdi.uwplse.org) &nbsp;
   [Proof Engineering](https://proofengineering.org) &nbsp;
 
+- **Scalable Verification of Border Gateway Protocol Configurations with an SMT Solver** <br>
+  [Konstantin Weitz], [Doug Woos], [Emina Torlak], [Michael D. Ernst], [Arvind Krishnamurthy], [Zachary Tatlock] <br>
+  *Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2016* <br>
+  [paper](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=ErvRZVNI3rc) &nbsp;
+  [slides](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/bagpipe) &nbsp;
+  [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
+
 
 # Aggregators
 
