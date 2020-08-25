@@ -81,7 +81,7 @@
 
 - **Combining Tools for Optimization and Analysis of Floating-Point Computations** <br>
   [Heiko Becker], [Pavel Panchekha], [Eva Darulova], [Zachary Tatlock] <br>
-  *Forma Methods (FM) 2018* <br>
+  *Formal Methods (FM) 2018* <br>
   [paper](pubs/2018-fm-combining-fp-tools.pdf) &nbsp;
   [slides](pubs/2018-fm-combining-fp-tools-slides.pdf) &nbsp;
   [Daisy](https://github.com/malyzajko/daisy) &nbsp;
@@ -199,6 +199,13 @@
   [code](https://github.com/uwplse/bagpipe) &nbsp;
   [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
 
+- **Verified Peephole Optimizations for CompCert** <br>
+  [Eric Mullen], [Daryl Zuniga], [Zachary Tatlock], [Dan Grossman] <br>
+  *Programming Language Design and Implementation (PLDI) 2016* <br>
+  [paper](pubs/2016-pldi-peek-verified-peepholes-compcert.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=h4KoLyTh0zY) &nbsp;
+  [code](https://github.com/uwplse/peek) &nbsp;
+  [project](http://peek.uwplse.org/) &nbsp;
 
 # Aggregators
 
