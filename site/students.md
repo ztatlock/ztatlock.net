@@ -13,18 +13,16 @@
   - [Gus Smith]
   - [Amy Zhu]
 
-## Masters
-
-  - [Marisa Kirisame]
-  - [Logan Weber]
-
 ## Undergraduate
 
-  - [Josh Pollock]
   - [Adam Anderson]
-  - [Brett Saiki]
   - [Mike He]
+  - [Brett Saiki]
   - [Andrew Liu]
+
+## High School
+
+  - Grace Oh
 
 :::
 
@@ -34,28 +32,50 @@
 
 ## PhD
 
-  - [Konstantin Weitz] : PhD 2017 &rarr; Google
-  - [Eric Mullen] : PhD 2018 &rarr; Google
-  - [Stuart Pernsteiner] : PhD 2018 &rarr; Galois Inc.
-  - [Pavel Panchekha] : PhD 2019 &rarr; Assistant Professor at Utah
-  - [James Wilcox] : PhD 2019 &rarr; CTO at Certora
-  - [Doug Woos] : PhD 2019 &rarr; Lecturer at Brown
+  - [Pavel Panchekha], PhD 2019 <br>
+      &nbsp; &nbsp; &rarr; Assistant Professor at Utah
+  - [James Wilcox], PhD 2019 <br>
+      &nbsp; &nbsp; &rarr; CTO at Certora
+  - [Doug Woos], PhD 2019 <br>
+      &nbsp; &nbsp; &rarr; Lecturer at Brown
+  - [Stuart Pernsteiner], PhD 2018 <br>
+      &nbsp; &nbsp; &rarr; Galois Inc.
+  - [Eric Mullen], PhD 2018 <br>
+      &nbsp; &nbsp; &rarr; Google
+  - [Konstantin Weitz], PhD 2017 <br>
+      &nbsp; &nbsp; &rarr; Google
 
 ## Masters
 
-  - [Alex Sanchez-Stern] : MS 2015 &rarr; PhD Student at UCSD
+  - [Marisa Kirisame], MS 2020 <br>
+      &nbsp; &nbsp; &rarr; PhD Student at Utah
+  - [Logan Weber], MS 2020 <br>
+      &nbsp; &nbsp; &rarr; PhD Student at MIT
+  - [Alex Sanchez-Stern], MS 2015 <br>
+      &nbsp; &nbsp; &rarr; PhD Student at UCSD
 
 ## Undergraduate
 
-  - [Daryl Zuniga] : BS 2015 &rarr; Microsoft
-  - [Seth Pendergrass] : BS 2016 &rarr; Microsoft
-  - [Steve Anton] : BS 2017 &rarr; Google
-  - [Ryan Doenges] : BS 2017 &rarr; PhD Student at Cornell
-  - [Adam Geller] : BS 2018 &rarr; PhD Student at UBC
-  - [David Thien] : BS 2019 &rarr; PhD Student at UCSD
+  - [Josh Pollock], BS 2020 <br>
+      &nbsp; &nbsp; &rarr; PhD Student at MIT
+  - [David Thien], BS 2019 <br>
+      &nbsp; &nbsp; &rarr; PhD Student at UCSD
+  - [Adam Geller], BS 2018 <br>
+      &nbsp; &nbsp; &rarr; PhD Student at UBC
+  - [Luke Nelson], BS 2017 <br>
+      &nbsp; &nbsp; &rarr; PhD Student at UW
+  - [Steve Anton], BS 2017 <br>
+      &nbsp; &nbsp; &rarr; Google
+  - [Ryan Doenges], BS 2017 <br>
+      &nbsp; &nbsp; &rarr; PhD Student at Cornell
+  - [Seth Pendergrass], BS 2016 <br>
+      &nbsp; &nbsp; &rarr; Microsoft
+  - [Daryl Zuniga], BS 2015 <br>
+      &nbsp; &nbsp; &rarr; Microsoft
 
 ## High School
 
-  - [Juliet Oh] : HS 2016 &rarr; Undergraduate Student at Princeton
+  - [Juliet Oh], HS 2016 <br>
+      &nbsp; &nbsp; &rarr; BA Student at Princeton
 
 :::
