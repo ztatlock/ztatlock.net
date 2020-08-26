@@ -6,18 +6,18 @@
 
 ## PhD
 
-  - [Bill Zorn]
+  - [Bill Zorn]^1^
   - [Jared Roesch]
-  - [Chandrakana Nandi]
+  - [Chandrakana Nandi]^1^
   - [Steven Lyubomirsky]
-  - [Gus Smith]
-  - [Amy Zhu]
+  - [Gus Smith]^5^
+  - [Amy Zhu]^6^
 
 ## Undergraduate
 
   - [Adam Anderson]
   - [Mike He]
-  - [Brett Saiki]
+  - [Brett Saiki]^7^
   - [Andrew Liu]
 
 ## High School
@@ -32,17 +32,17 @@
 
 ## PhD
 
-  - [Pavel Panchekha], PhD 2019 <br>
+  - [Pavel Panchekha]^2^, PhD 2019 <br>
       &nbsp; &nbsp; &rarr; Assistant Professor at Utah
   - [James Wilcox], PhD 2019 <br>
       &nbsp; &nbsp; &rarr; CTO at Certora
-  - [Doug Woos], PhD 2019 <br>
+  - [Doug Woos]^2,3^, PhD 2019 <br>
       &nbsp; &nbsp; &rarr; Lecturer at Brown
-  - [Stuart Pernsteiner], PhD 2018 <br>
+  - [Stuart Pernsteiner]^2^, PhD 2018 <br>
       &nbsp; &nbsp; &rarr; Galois Inc.
-  - [Eric Mullen], PhD 2018 <br>
+  - [Eric Mullen]^1^, PhD 2018 <br>
       &nbsp; &nbsp; &rarr; Google
-  - [Konstantin Weitz], PhD 2017 <br>
+  - [Konstantin Weitz]^2^, PhD 2017 <br>
       &nbsp; &nbsp; &rarr; Google
 
 ## Masters
@@ -62,7 +62,7 @@
       &nbsp; &nbsp; &rarr; PhD Student at UCSD
   - [Adam Geller], BS 2018 <br>
       &nbsp; &nbsp; &rarr; PhD Student at UBC
-  - [Luke Nelson], BS 2017 <br>
+  - [Luke Nelson]^4^, BS 2017 <br>
       &nbsp; &nbsp; &rarr; PhD Student at UW
   - [Steve Anton], BS 2017 <br>
       &nbsp; &nbsp; &rarr; Google
@@ -70,7 +70,7 @@
       &nbsp; &nbsp; &rarr; PhD Student at Cornell
   - [Seth Pendergrass], BS 2016 <br>
       &nbsp; &nbsp; &rarr; Microsoft
-  - [Daryl Zuniga], BS 2015 <br>
+  - [Daryl Zuniga]^1^, BS 2015 <br>
       &nbsp; &nbsp; &rarr; Microsoft
 
 ## High School
@@ -79,3 +79,13 @@
       &nbsp; &nbsp; &rarr; BA Student at Princeton
 
 :::
+
+Co-advised with:
+
+  1. [Dan Grossman]
+  2. [Michael Ernst]
+  3. [Tom Anderson]
+  4. [Xi Wang]
+  5. [Luis Ceze]
+  6. [Adriana Schulz]
+  7. [Pavel Panchekha]
