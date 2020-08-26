@@ -79,7 +79,7 @@
   [project](http://reincarnate.uwplse.org) &nbsp;
   [I Am CSE](https://www.youtube.com/watch?v=G7v3kegE9_g) &nbsp;
 
-- **Combining Tools for Optimization and Analysis of Floating-Point Computations** <br>
+- **Combining Tools for Optimization and Analysis of Floating-Point Computations (Short Paper)** <br>
   [Heiko Becker], [Pavel Panchekha], [Eva Darulova], [Zachary Tatlock] <br>
   *Formal Methods (FM) 2018* <br>
   [paper](pubs/2018-fm-combining-fp-tools.pdf) &nbsp;
@@ -206,6 +206,15 @@
   [talk](https://www.youtube.com/watch?v=h4KoLyTh0zY) &nbsp;
   [code](https://github.com/uwplse/peek) &nbsp;
   [project](http://peek.uwplse.org/) &nbsp;
+
+- **Visual Robot Programming for Generalizable Mobile Manipulation Tasks (Extended Abstract)** <br>
+  [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] <br>
+  *Human Robot Interaction (HRI) 2015* <br>
+  [paper](pubs/2015-hri-roboflow-visual-robot-programming.pdf) &nbsp;
+  [teaser video](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
+  [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
+  [code](https://github.com/sonyaa/roboflow) &nbsp;
+  [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
 
 # Aggregators
 
