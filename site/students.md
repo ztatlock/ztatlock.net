@@ -56,6 +56,8 @@
 
 ## Undergraduate
 
+  - [Altan Haan], BS 2020 <br>
+      &nbsp; &nbsp; &rarr; [OctoML]
   - [Josh Pollock], BS 2020 <br>
       &nbsp; &nbsp; &rarr; PhD Student at MIT
   - [David Thien], BS 2019 <br>
