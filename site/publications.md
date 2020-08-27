@@ -210,7 +210,16 @@
 - **Visual Robot Programming for Generalizable Mobile Manipulation Tasks (Extended Abstract)** <br>
   [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] <br>
   *Human Robot Interaction (HRI) 2015* <br>
-  [paper](pubs/2015-hri-roboflow-visual-robot-programming.pdf) &nbsp;
+  [paper](pubs/2015-hri-roboflow-visual-robot-programming-language.pdf) &nbsp;
+  [teaser video](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
+  [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
+  [code](https://github.com/sonyaa/roboflow) &nbsp;
+  [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
+
+- **RoboFlow: A Flow-based Visual Programming Language for Mobile Manipulation Tasks** <br>
+  [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] <br>
+  *International Conference on Robotics and Automation (ICRA) 2015* <br>
+  [paper](pubs/2015-icra-roboflow-visual-robot-programming-language.pdf) &nbsp;
   [teaser video](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
   [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
   [code](https://github.com/sonyaa/roboflow) &nbsp;
