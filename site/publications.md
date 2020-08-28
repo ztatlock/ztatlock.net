@@ -211,7 +211,7 @@
   [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] <br>
   *Human Robot Interaction (HRI) 2015* <br>
   [paper](pubs/2015-hri-roboflow-visual-robot-programming-language.pdf) &nbsp;
-  [teaser video](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
+  [teaser](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
   [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
   [code](https://github.com/sonyaa/roboflow) &nbsp;
   [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
@@ -220,10 +220,21 @@
   [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] <br>
   *International Conference on Robotics and Automation (ICRA) 2015* <br>
   [paper](pubs/2015-icra-roboflow-visual-robot-programming-language.pdf) &nbsp;
-  [teaser video](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
+  [teaser](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
   [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
   [code](https://github.com/sonyaa/roboflow) &nbsp;
   [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
+
+- **Automatically Improving Accuracy for Floating Point Expressions** <br>
+  [Pavel Panchekha], [Alex Sanchez-Stern], [James R. Wilcox], [Zachary Tatlock] <br>
+  *Programming Language Design and Implementation (PLDI) 2016* <br>
+  [paper](pubs/2015-pldi-herbie-floating-point-accuracy.pdf) &nbsp;
+  [teaser](https://www.youtube.com/watch?v=qnkElmpTtBw) &nbsp;
+  [talk](https://www.youtube.com/watch?v=RNzsvp6NLOY) &nbsp;
+  [slides](pubs/2015-pldi-herbie-floating-point-accuracy-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/herbie) &nbsp;
+  [project](http://herbie.uwplse.org/) &nbsp; <br>
+  *Distinguished Paper Award*
 
 # Aggregators
 
