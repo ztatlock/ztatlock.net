@@ -227,7 +227,7 @@
 
 - **Automatically Improving Accuracy for Floating Point Expressions** <br>
   [Pavel Panchekha], [Alex Sanchez-Stern], [James R. Wilcox], [Zachary Tatlock] <br>
-  *Programming Language Design and Implementation (PLDI) 2016* <br>
+  *Programming Language Design and Implementation (PLDI) 2015* <br>
   [paper](pubs/2015-pldi-herbie-floating-point-accuracy.pdf) &nbsp;
   [teaser](https://www.youtube.com/watch?v=qnkElmpTtBw) &nbsp;
   [talk](https://www.youtube.com/watch?v=RNzsvp6NLOY) &nbsp;
