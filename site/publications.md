@@ -236,6 +236,15 @@
   [project](http://herbie.uwplse.org/) &nbsp; <br>
   *Distinguished Paper Award*
 
+- **Verdi: a Framework for Implementing and Formally Verifying Distributed Systems** <br>
+  [James R. Wilcox], [Doug Woos], [Pavel Panchekha], [Zachary Tatlock], [Xi Wang], [Michael D. Ernst], [Thomas E. Anderson] <br>
+  *Programming Language Design and Implementation (PLDI) 2015* <br>
+  [paper](pubs/2015-pldi-verdi-verifying-distributed-systems.pdf) &nbsp;
+  [slides](pubs/2015-pldi-verdi-verifying-distributed-systems-slides.pdf) &nbsp;
+  [poster](pubs/2015-pldi-verdi-verifying-distributed-systems-poster.pdf) &nbsp;
+  [code](https://github.com/uwplse/verdi) &nbsp;
+  [project](http://verdi.uwplse.org/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
