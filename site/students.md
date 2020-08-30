@@ -66,6 +66,8 @@
       &nbsp; &nbsp; &rarr; PhD Student at UBC
   - [Luke Nelson]^4^, BS 2017 <br>
       &nbsp; &nbsp; &rarr; PhD Student at UW
+  - [Chen Qiu](https://www.linkedin.com/in/jasonqiu951/) <br>
+      &nbsp; &nbsp; &rarr; Facebook
   - [Steve Anton], BS 2017 <br>
       &nbsp; &nbsp; &rarr; Google
   - [Ryan Doenges], BS 2017 <br>
