@@ -246,6 +246,14 @@
   [code](https://github.com/uwplse/verdi) &nbsp;
   [project](http://verdi.uwplse.org/) &nbsp;
 
+- **Toward a Dependability Case Language and Workflow for a Radiation Therapy System** <br>
+  [Michael D. Ernst], [Dan Grossman], [Jon Jacky], [Calvin Loncaric], [Stuart Pernsteiner], [Zachary Tatlock], [Emina Torlak], [Xi Wang] <br>
+  *Summit oN Advances in Programming Languages (SNAPL) 2015* <br>
+  [paper](pubs/2015-snapl-neutrons-radiotherapy-safety.pdf) &nbsp;
+  [slides](pubs/2015-snapl-neutrons-radiotherapy-safety-slides.pdf) &nbsp;
+  [project](http://neutrons.uwplse.org/) &nbsp;
+  [I Am CSE](https://www.youtube.com/watch?v=QdR9_TJ1br8) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
