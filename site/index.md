@@ -118,6 +118,13 @@ August, 2019
 - Our paper on the Carpentry Compiler will appear at SIGGRAPH Asia.
   Congrats Chenming, Chandrakana, Haisen, Jeff, and Adriana!
 
+September, 2018
+
+- I gave [a talk at Galois](https://galois.com/blog/2018/09/public-tech-talk-formally-verifying-implementations-of-distributed-systems/)
+  on [Verdi]
+  ([slides](pubs/2018-09-13-galois-verdi.pdf)).
+  It's always a blast to catch up with the group there and I learned a bunch :)
+
 August, 2017
 
 - A [CACM article](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
