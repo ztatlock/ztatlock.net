@@ -254,6 +254,12 @@
   [project](http://neutrons.uwplse.org/) &nbsp;
   [I Am CSE](https://www.youtube.com/watch?v=QdR9_TJ1br8) &nbsp;
 
+- **SafeDispatch: Securing C++ Virtual Calls from Memory Corruption Attacks** <br>
+  [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] <br>
+  *Network and Distributed System Security (NDSS) 2014* <br>
+  [paper](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense.pdf) &nbsp;
+  [slides](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense-slides.pdf) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
