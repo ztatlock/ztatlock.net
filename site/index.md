@@ -125,6 +125,17 @@ September, 2018
   ([slides](pubs/2018-09-13-galois-verdi.pdf)).
   It's always a blast to catch up with the group there and I learned a bunch :)
 
+July, 2018
+
+- I taught about [Verdi] and
+  [Distributed Components](https://distributedcomponents.net/) at the
+  [DeepSpec Summer School](https://deepspec.org/event/dsss18/) in Princeton;
+  see the [tutorials, exercises, slides](https://github.com/DeepSpec/dsss18/tree/master/verdi)
+  and [videos](https://www.youtube.com/playlist?list=PLF8nG15tV6C8VAUCZfsIMDnGxjTrh016I).
+  Thanks to the organizers for a spectacular event!
+
+  ![DeepSpec Summer School 2018](img/2018-07-deepspec-summer-school.png){width=600px} \
+
 August, 2017
 
 - A [CACM article](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
