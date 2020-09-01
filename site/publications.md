@@ -260,6 +260,16 @@
   [paper](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense.pdf) &nbsp;
   [slides](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense-slides.pdf) &nbsp;
 
+- **Jitk: A Trustworthy In-Kernel Interpreter Infrastructure** <br>
+  [Xi Wang], [David Lazar], [Nickolai Zeldovich], [Adam Chlipala], [Zachary Tatlock] <br>
+  *Operating Systems Design and Implementation (OSDI) 2014* <br>
+  [paper](pubs/2014-osdi-jitk-verified-bpf.pdf) &nbsp;
+  [talk](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/wang_xi) &nbsp;
+  [slides](pubs/2014-osdi-jitk-verified-bpf-slides.pdf) &nbsp;
+  [code](https://css.csail.mit.edu/jitk/) &nbsp;
+  [project](https://css.csail.mit.edu/jitk/) &nbsp;
+  [bib](pubs/2014-osdi-jitk-verified-bpf.bib) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
