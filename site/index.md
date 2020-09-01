@@ -136,6 +136,12 @@ July, 2018
 
   ![DeepSpec Summer School 2018](img/2018-07-deepspec-summer-school.png){width=600px} \
 
+- I gave an invited talk on verifying distributed systems at the
+  [Coq Workshop](https://coqworkshop2018.inria.fr/)
+  in Oxford. Check out the
+  [slides](https://easychair.org/smart-slide/slide/gJSP#)
+  for more.
+
 August, 2017
 
 - A [CACM article](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
