@@ -270,6 +270,15 @@
   [project](https://css.csail.mit.edu/jitk/) &nbsp;
   [bib](pubs/2014-osdi-jitk-verified-bpf.bib) &nbsp;
 
+- **Automating Formal Proofs for Reactive Systems** <br>
+  [Daniel Ricketts], [Valentin Robert], [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] <br>
+  *Programming Language Design and Implementation (PLDI) 2014* <br>
+  [paper](pubs/2014-pldi-reflex-reactive-systems-coq.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=phwVo66aChc) &nbsp;
+  [slides](pubs/2014-pldi-reflex-reactive-systems-coq-slides.pdf) &nbsp;
+  [code](https://github.com/UCSD-PL/kraken) &nbsp;
+  [project](http://goto.ucsd.edu/reflex/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
