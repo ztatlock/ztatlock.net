@@ -142,6 +142,14 @@ July, 2018
   [slides](https://easychair.org/smart-slide/slide/gJSP#)
   for more.
 
+June, 2018
+
+- I had the honor of speaking during
+  [PLMW @ PLDI](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers).
+  It was a great event for junior researchers in PL;
+  many thanks to the wonderful participants and
+  to the organizers for all the hard work!
+
 August, 2017
 
 - A [CACM article](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
