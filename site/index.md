@@ -36,12 +36,32 @@ Please look there for more information on our projects and papers.
 August, 2020
 
 - I gave a talk at [Wisconsin's madPL seminar](https://madpl.cs.wisc.edu/pl-seminar/) on
-  [Synthesizing Backward through the Geometry Pipeline](https://madpl.cs.wisc.edu/pl-seminar/20200819-zach_tatlock/).
+  [Synthesizing Backward through the Geometry Pipeline](https://madpl.cs.wisc.edu/pl-seminar/20200819-zach_tatlock/)
+  ([slides](pubs/talks/2020-08-madpl-synthesizing-backward-through-geometry-pipeline/2020-08-madpl-synthesizing-backward-through-geometry-pipeline-slides.pdf)).
+
+  <iframe
+    width="600"
+    height="350"
+    src="https://www.youtube.com/embed/vOUP2wT-k1U"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 
 July, 2020
 
-- [Pavel] and I gave an invited talk on [Herbie] and [FPBench]
-  at [NSV 2020](https://nsv2020.github.io/).
+- [Pavel] and I gave an invited talk at [NSV 2020](https://nsv2020.github.io/)
+  on [Herbie] and [FPBench]
+  ([slides](pubs/talks/2020-07-nsv-herbie-fpbench/2020-07-nsv-herbie-fpbench-slides.pdf)).
+
+  <iframe
+    width="600"
+    height="350"
+    src="https://www.youtube.com/embed/m_tRUSCRM1M"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 
 June, 2020
 
