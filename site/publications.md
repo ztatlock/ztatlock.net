@@ -279,6 +279,18 @@
   [code](https://github.com/UCSD-PL/kraken) &nbsp;
   [project](http://goto.ucsd.edu/reflex/) &nbsp;
 
+- **Establishing Browser Security Guarantees through Formal Shim Verification** <br>
+  [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] <br>
+  *USENIX Security Symposium 2012* <br>
+  [paper](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser.pdf) &nbsp;
+  [extended](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser-extended.pdf) &nbsp;
+  [teaser](https://www.youtube.com/watch?v=bfLOJQEfqjM) &nbsp;
+  [talk](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/jang) &nbsp;
+  [slides](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser-slides.pdf) &nbsp;
+  [poster](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser-poster.pdf) &nbsp;
+  [code](http://goto.ucsd.edu/quark/quark-0807.tar.gz) &nbsp;
+  [project](http://goto.ucsd.edu/quark/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
