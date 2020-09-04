@@ -291,6 +291,21 @@
   [code](http://goto.ucsd.edu/quark/quark-0807.tar.gz) &nbsp;
   [project](http://goto.ucsd.edu/quark/) &nbsp;
 
+- **Equality Saturation: A New Approach to Optimization** <br>
+  [Ross Tate], [Michael Stepp], [Zachary Tatlock], [Sorin Lerner] <br>
+  *Logical Methods in Computer Science (LMCS) 2011* <br>
+  [paper](pubs/2011-lmcs-equality-saturation-optimizations-egraphs.pdf) &nbsp;
+  [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
+
+- **Equality Saturation: A New Approach to Optimization** <br>
+  [Ross Tate], [Michael Stepp], [Zachary Tatlock], [Sorin Lerner] <br>
+  *Principles of Programming Languages (POPL) 2009* <br>
+  [paper](pubs/2009-popl-equality-saturation-optimizations-egraphs.pdf) &nbsp;
+  [talk](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
+  [slides](pubs/2009-popl-equality-saturation-optimizations-egraphs-slides.pdf) &nbsp;
+  [code](http://goto.ucsd.edu/~mstepp/peggy/) &nbsp;
+  [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
