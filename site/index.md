@@ -170,6 +170,19 @@ June, 2018
   many thanks to the wonderful participants and
   to the organizers for all the hard work!
 
+May, 2018
+
+- I organized [PNW PLSE 2018](http://pnwplse.org/).
+  If you hang out in the Pacific Northwest and are working in
+  software engineering, programming languages, systems, or related areas
+  make sure to stay tuned for future events!
+
+  ![PNW PLSE 2018](img/2018-05-pnw-plse.jpg){width=600px} \
+
+  [James] was particularly stoked throughout the day:
+
+  ![PNW PLSE 2018](img/2018-05-pnw-plse-jrw.jpg){width=600px} \
+
 August, 2017
 
 - A [CACM article](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
