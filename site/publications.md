@@ -297,6 +297,13 @@
   [paper](pubs/2011-lmcs-equality-saturation-optimizations-egraphs.pdf) &nbsp;
   [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
 
+- **Bringing Extensibility to Verified Compilers** <br>
+  [Zachary Tatlock], [Sorin Lerner] <br>
+  *Programming Language Design and Implementation (PLDI) 2010* <br>
+  [paper](pubs/2010-pldi-xcert-extensible-verified-compilers.pdf) &nbsp;
+  [slides](pubs/2010-pldi-xcert-extensible-verified-compilers-slides.pdf) &nbsp;
+  [project](http://cseweb.ucsd.edu/~lerner/collider.html) &nbsp;
+
 - **Equality Saturation: A New Approach to Optimization** <br>
   [Ross Tate], [Michael Stepp], [Zachary Tatlock], [Sorin Lerner] <br>
   *Principles of Programming Languages (POPL) 2009* <br>
