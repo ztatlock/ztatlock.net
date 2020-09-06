@@ -313,6 +313,15 @@
   [code](http://goto.ucsd.edu/~mstepp/peggy/) &nbsp;
   [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
 
+- **Proving Optimizations Correct using Parameterized Program Equivalence** <br>
+  [Sudipta Kundu], [Zachary Tatlock], [Sorin Lerner] <br>
+  *Programming Language Design and Implementation (PLDI) 2009* <br>
+  [paper](pubs/2009-pldi-pec-compiler-optimization-verification.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=H2H3tAv695A) &nbsp;
+  [slides](pubs/2009-pldi-pec-compiler-optimization-verification-slides.pdf) &nbsp;
+  [code](https://github.com/ztatlock/pec) &nbsp;
+  [project](http://cseweb.ucsd.edu/~lerner/collider.html) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
