@@ -322,6 +322,14 @@
   [code](https://github.com/ztatlock/pec) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/collider.html) &nbsp;
 
+- **Deep Typechecking and Refactoring** <br>
+  [Zachary Tatlock], [Chris Tucker], [David Shuffelton], [Ranjit Jhala], [Sorin Lerner] <br>
+  *Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2008* <br>
+  [paper](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring.pdf) &nbsp;
+  [slides](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-slides.pptx) &nbsp;
+  [poster](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-poster.pdf) &nbsp;
+  [project](http://cseweb.ucsd.edu/~lerner/quail.html) &nbsp;
+
 # Aggregators
 
 - [DBLP](https://dblp.org/pers/t/Tatlock:Zachary.html)
