@@ -12,6 +12,7 @@
   [poster](pubs/2020-pldi-szalinski-cad-eqsat-poster.png) &nbsp;
   [code](https://github.com/uwplse/szalinski/) &nbsp;
   [project](http://incarnate.uwplse.org/) &nbsp;
+  [bib](pubs/2020-pldi-szalinski-cad-eqsat.bib) &nbsp;
 
 - **QED at Large: A Survey of Engineering of Formally Verified Software** <br>
   [Talia Ringer], [Karl Palmskog], [Ilya Sergey], [Milos Gligoric], [Zachary Tatlock] <br>
@@ -337,3 +338,4 @@
 - [Semantic Scholar](https://www.semanticscholar.org/author/Zachary-Tatlock/2272813)
 - [ResearchGate](https://www.researchgate.net/profile/Zachary_Tatlock)
 - [ACM Digital Library](https://dl.acm.org/profile/81392605383)
+- [ztatlock.bib](ztatlock.bib)
