@@ -2,7 +2,10 @@
 
 # Publications
 
-- **Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations** <br>
+<div id='pubs'>
+
+<div id='2020-pldi-szalinski-cad-eqsat' class='pub-entry'>
+  **Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations** <br>
   [Chandrakana Nandi], [Max Willsey], [Adam Anderson], [James R. Wilcox], [Eva Darulova], [Dan Grossman], [Zachary Tatlock] <br>
   *Programming Language Design and Implementation (PLDI) 2020* <br>
   [paper](pubs/2020-pldi-szalinski-cad-eqsat.pdf) &nbsp;
@@ -13,14 +16,19 @@
   [code](https://github.com/uwplse/szalinski/) &nbsp;
   [project](http://incarnate.uwplse.org/) &nbsp;
   [bib](ztatlock-bib.html#2020-pldi-szalinski-cad-eqsat) &nbsp;
+</div>
 
-- **QED at Large: A Survey of Engineering of Formally Verified Software** <br>
+<div id='2019-ftpl-qed-at-large' class='pub-entry'>
+  **QED at Large: A Survey of Engineering of Formally Verified Software** <br>
   [Talia Ringer], [Karl Palmskog], [Ilya Sergey], [Milos Gligoric], [Zachary Tatlock] <br>
   *Foundations and Trends in Programming Languages (FTPL) 2019* <br>
   [paper](pubs/2019-ftpl-qed-at-large.pdf) &nbsp;
   [errata](https://proofengineering.org/qed_errata.html) &nbsp;
   [project](https://proofengineering.org/) &nbsp;
   [bib](ztatlock-bib.html#2019-ftpl-qed-at-large) &nbsp;
+</div>
+
+<!-- HERE -->
 
 - **Modular Verification of Web Page Layout** <br>
   [Pavel Panchekha], [Michael D. Ernst], [Zachary Tatlock], [Shoaib Kamil] <br>
@@ -331,6 +339,8 @@
   [slides](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-slides.pptx) &nbsp;
   [poster](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-poster.pdf) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/quail.html) &nbsp;
+
+</div> <!-- close pubs div -->
 
 # Aggregators
 
