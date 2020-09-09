@@ -4,8 +4,9 @@
 
 ::: bib
 
-<a id='2020-pldi-szalinski-cad-eqsat'></a>
+<div class='bib-entry' id='2020-pldi-szalinski-cad-eqsat'>
 ```
+
 @inproceedings{2020-pldi-szalinski-cad-eqsat,
   author    = {Chandrakana Nandi and
                Max Willsey and
@@ -29,9 +30,11 @@
   timestamp = {Tue, 09 Jun 2020 13:45:15 +0200},
 }
 ```
+</div>
 
 <a id='2019-ftpl-qed-at-large'></a>
 ```
+
 @article{2019-ftpl-qed-at-large,
   author    = {Talia Ringer and
                Karl Palmskog and
