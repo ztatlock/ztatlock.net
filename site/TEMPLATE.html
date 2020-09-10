@@ -14,6 +14,9 @@
       html {
         font-size: 1rem;
       }
+      body {
+        padding-top: 4.5rem;
+      }
       h1 {
         font-size: 1.75rem;
       }
@@ -51,14 +54,23 @@
         margin-left: 2rem;
       }
 
+      /* shift anchors down to compensate for fixed header */
+      .anchor:target::before {
+        display: block;
+        content: " ";
+        height: 3.5rem;
+        visibility: hidden;
+        pointer-events: none;
+      }
+
       /* publications */
       .pub-entry {
-        padding: 1em;
+        padding: 1rem;
       }
       .pub-entry p {
         margin-bottom: 0;
       }
-      .pub-entry:target {
+      .anchor:target .pub-entry {
         background: #ffffcc;
         border: 1px solid #ffeb3b;
       }
@@ -73,16 +85,17 @@
       .bib-entry pre, .bib-entry p {
         margin-bottom: 0;
       }
-      .bib-entry:target {
+      .anchor:target .bib-entry {
         background: #ffffcc;
         border: 1px solid #ffeb3b;
       }
+
     </style>
     <title>$title$</title>
   </head>
   <body>
-    <div class="container">
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark rounded-bottom">
+    <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
+      <div class="container">
         <a class="navbar-brand" href="https://tatlock.net">Zachary Tatlock</a>
         <button
           class="navbar-toggler"
@@ -119,8 +132,8 @@
             </li>
           </div>
         </div>
-      </nav>
-    </div>
+      </div>
+    </nav>
     <div class="container">
       $body$
     </div>

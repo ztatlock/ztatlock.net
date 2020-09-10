@@ -4,7 +4,8 @@
 
 <div id='pubs'>
 
-<div id='2020-pldi-szalinski-cad-eqsat' class='pub-entry'>
+<div id='2020-pldi-szalinski-cad-eqsat' class='anchor'>
+<div class='pub-entry'>
   **Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations** <br>
   [Chandrakana Nandi], [Max Willsey], [Adam Anderson], [James R. Wilcox], [Eva Darulova], [Dan Grossman], [Zachary Tatlock] <br>
   *Programming Language Design and Implementation (PLDI) 2020* <br>
@@ -17,10 +18,12 @@
   [project](http://incarnate.uwplse.org/) &nbsp;
   [bib](ztatlock-bib.html#2020-pldi-szalinski-cad-eqsat) &nbsp;
 </div>
+</div>
 
 <!-- HERE -->
 
-<div id='2019-ftpl-qed-at-large' class='pub-entry'>
+<div id='2019-ftpl-qed-at-large' class='anchor'>
+<div class='pub-entry'>
   **QED at Large: A Survey of Engineering of Formally Verified Software** <br>
   [Talia Ringer], [Karl Palmskog], [Ilya Sergey], [Milos Gligoric], [Zachary Tatlock] <br>
   *Foundations and Trends in Programming Languages (FTPL) 2019* <br>
@@ -28,6 +31,7 @@
   [errata](https://proofengineering.org/qed_errata.html) &nbsp;
   [project](https://proofengineering.org/) &nbsp;
   [bib](ztatlock-bib.html#2019-ftpl-qed-at-large) &nbsp;
+</div>
 </div>
 
 - **Modular Verification of Web Page Layout** <br>

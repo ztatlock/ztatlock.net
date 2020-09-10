@@ -4,7 +4,8 @@
 
 <div id='bib'>
 
-<div id='2020-pldi-szalinski-cad-eqsat' class='bib-entry'>
+<div id='2020-pldi-szalinski-cad-eqsat' class='anchor'>
+<div class='bib-entry'>
 ```
 
 @inproceedings{2020-pldi-szalinski-cad-eqsat,
@@ -32,12 +33,14 @@
 ```
 &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp;
-[pub](publications.html#2020-pldi-szalinski-cad-eqsat)
+[publication](publications.html#2020-pldi-szalinski-cad-eqsat)
+</div>
 </div>
 
 <!-- HERE -->
 
-<div id='2019-ftpl-qed-at-large' class='bib-entry'>
+<div id='2019-ftpl-qed-at-large' class='anchor'>
+<div class='bib-entry'>
 ```
 
 @article{2019-ftpl-qed-at-large,
@@ -57,7 +60,12 @@
   timestamp = {Wed, 20 May 2020 01:00:00 +0200},
 }
 ```
+&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
+[publication](publications.html#2019-ftpl-qed-at-large)
 </div>
+</div>
+
 
 ```
 @article{DBLP:journals/pacmpl/PanchekhaETK19,
