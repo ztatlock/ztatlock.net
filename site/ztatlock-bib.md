@@ -30,7 +30,12 @@
   timestamp = {Tue, 09 Jun 2020 13:45:15 +0200},
 }
 ```
+&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
+[pub](publications.html#2020-pldi-szalinski-cad-eqsat)
 </div>
+
+<!-- HERE -->
 
 <div id='2019-ftpl-qed-at-large' class='bib-entry'>
 ```
@@ -53,8 +58,6 @@
 }
 ```
 </div>
-
-<!-- HERE -->
 
 ```
 @article{DBLP:journals/pacmpl/PanchekhaETK19,

@@ -18,6 +18,8 @@
   [bib](ztatlock-bib.html#2020-pldi-szalinski-cad-eqsat) &nbsp;
 </div>
 
+<!-- HERE -->
+
 <div id='2019-ftpl-qed-at-large' class='pub-entry'>
   **QED at Large: A Survey of Engineering of Formally Verified Software** <br>
   [Talia Ringer], [Karl Palmskog], [Ilya Sergey], [Milos Gligoric], [Zachary Tatlock] <br>
@@ -27,8 +29,6 @@
   [project](https://proofengineering.org/) &nbsp;
   [bib](ztatlock-bib.html#2019-ftpl-qed-at-large) &nbsp;
 </div>
-
-<!-- HERE -->
 
 - **Modular Verification of Web Page Layout** <br>
   [Pavel Panchekha], [Michael D. Ernst], [Zachary Tatlock], [Shoaib Kamil] <br>
