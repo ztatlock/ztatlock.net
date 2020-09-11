@@ -2,37 +2,97 @@
 
 # Publications
 
-<div id='pubs'>
+::: {.pubs}
 
-<div id='2020-pldi-szalinski-cad-eqsat' class='anchor'>
-<div class='pub-entry'>
-  **Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations** <br>
-  [Chandrakana Nandi], [Max Willsey], [Adam Anderson], [James R. Wilcox], [Eva Darulova], [Dan Grossman], [Zachary Tatlock] <br>
-  *Programming Language Design and Implementation (PLDI) 2020* <br>
-  [paper](pubs/2020-pldi-szalinski-cad-eqsat.pdf) &nbsp;
-  [teaser](https://youtu.be/dnIWBnpZqSo?list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd&t=139) &nbsp;
-  [talk](https://www.youtube.com/watch?v=2KA602M8t7c) &nbsp;
-  [slides](pubs/2020-pldi-szalinski-cad-eqsat-slides.pdf) &nbsp;
-  [poster](pubs/2020-pldi-szalinski-cad-eqsat-poster.png) &nbsp;
-  [code](https://github.com/uwplse/szalinski/) &nbsp;
-  [project](http://incarnate.uwplse.org/) &nbsp;
-  [bib](ztatlock-bib.html#2020-pldi-szalinski-cad-eqsat) &nbsp;
-</div>
-</div>
+<!-- 2020 PLDI : Szalinski -->
+
+::: {#pub-2020-pldi-szalinski-cad-eqsat .anchor}
+::: {.pub-entry}
+
+**Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations** <br>
+[Chandrakana Nandi], [Max Willsey], [Adam Anderson], [James R. Wilcox], [Eva Darulova], [Dan Grossman], [Zachary Tatlock] <br>
+*Programming Language Design and Implementation (PLDI) 2020* <br>
+[paper](pubs/2020-pldi-szalinski-cad-eqsat.pdf) &nbsp;
+[teaser](https://youtu.be/dnIWBnpZqSo?list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd&t=139) &nbsp;
+[talk](https://www.youtube.com/watch?v=2KA602M8t7c) &nbsp;
+[slides](pubs/2020-pldi-szalinski-cad-eqsat-slides.pdf) &nbsp;
+[poster](pubs/2020-pldi-szalinski-cad-eqsat-poster.png) &nbsp;
+[code](https://github.com/uwplse/szalinski/) &nbsp;
+[project](http://incarnate.uwplse.org/) &nbsp;
+[bib](#bib-2020-pldi-szalinski-cad-eqsat){aria-controls='bib-2020-pldi-szalinski-cad-eqsat' data-toggle='collapse' role='button' aria-expanded='false'}
+
+:::
+:::
+::: {#bib-2020-pldi-szalinski-cad-eqsat .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2020-pldi-szalinski-cad-eqsat,
+  author    = {Chandrakana Nandi and
+               Max Willsey and
+               Adam Anderson and
+               James R. Wilcox and
+               Eva Darulova and
+               Dan Grossman and
+               Zachary Tatlock},
+  editor    = {Alastair F. Donaldson and
+               Emina Torlak},
+  title     = {Synthesizing Structured {CAD} Models with Equality Saturation and
+               Inverse Transformations},
+  booktitle = {Proceedings of the 41st {ACM} {SIGPLAN} International Conference on
+               Programming Language Design and Implementation, {PLDI} 2020,
+               London, UK, June 15-20, 2020},
+  pages     = {31--44},
+  publisher = {{ACM}},
+  year      = {2020},
+  url       = {https://doi.org/10.1145/3385412.3386012},
+  doi       = {10.1145/3385412.3386012},
+}
+```
+:::
+:::
+
+<!-- 2019 FTPL : QED at Large -->
+
+::: {#pub-2019-ftpl-qed-at-large .anchor}
+::: {.pub-entry}
+
+**QED at Large: A Survey of Engineering of Formally Verified Software** <br>
+[Talia Ringer], [Karl Palmskog], [Ilya Sergey], [Milos Gligoric], [Zachary Tatlock] <br>
+*Foundations and Trends in Programming Languages (FTPL) 2019* <br>
+[paper](pubs/2019-ftpl-qed-at-large.pdf) &nbsp;
+[errata](https://proofengineering.org/qed_errata.html) &nbsp;
+[project](https://proofengineering.org/) &nbsp;
+[bib](#bib-2019-ftpl-qed-at-large){aria-controls='bib-2019-ftpl-qed-at-large' data-toggle='collapse' role='button' aria-expanded='false'}
+
+:::
+:::
+::: {#bib-2019-ftpl-qed-at-large .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@article{2019-ftpl-qed-at-large,
+  author    = {Talia Ringer and
+               Karl Palmskog and
+               Ilya Sergey and
+               Milos Gligoric and
+               Zachary Tatlock},
+  title     = {{QED} at Large: {A} Survey of Engineering of Formally Verified Software},
+  journal   = {Foundations and Trends in Programming Languages},
+  volume    = {5},
+  number    = {2-3},
+  pages     = {102--281},
+  year      = {2019},
+  url       = {https://doi.org/10.1561/2500000045},
+  doi       = {10.1561/2500000045},
+}
+```
+:::
+:::
+
 
 <!-- HERE -->
 
-<div id='2019-ftpl-qed-at-large' class='anchor'>
-<div class='pub-entry'>
-  **QED at Large: A Survey of Engineering of Formally Verified Software** <br>
-  [Talia Ringer], [Karl Palmskog], [Ilya Sergey], [Milos Gligoric], [Zachary Tatlock] <br>
-  *Foundations and Trends in Programming Languages (FTPL) 2019* <br>
-  [paper](pubs/2019-ftpl-qed-at-large.pdf) &nbsp;
-  [errata](https://proofengineering.org/qed_errata.html) &nbsp;
-  [project](https://proofengineering.org/) &nbsp;
-  [bib](ztatlock-bib.html#2019-ftpl-qed-at-large) &nbsp;
-</div>
-</div>
 
 - **Modular Verification of Web Page Layout** <br>
   [Pavel Panchekha], [Michael D. Ernst], [Zachary Tatlock], [Shoaib Kamil] <br>
@@ -344,7 +404,7 @@
   [poster](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-poster.pdf) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/quail.html) &nbsp;
 
-</div> <!-- close pubs div -->
+:::
 
 # Aggregators
 

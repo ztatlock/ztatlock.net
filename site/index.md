@@ -66,7 +66,7 @@ July, 2020
 June, 2020
 
 - [Chandrakana] gave a great talk at PLDI 2020 on Szalinski from our paper
-  [Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations](publications.html#2020-pldi-szalinski-cad-eqsat).
+  [Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations](publications.html#pub-2020-pldi-szalinski-cad-eqsat).
 
   <iframe
     width="600"
