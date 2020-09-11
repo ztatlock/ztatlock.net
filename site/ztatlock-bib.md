@@ -4,39 +4,6 @@
 
 <div id='bib'>
 
-<div id='2020-pldi-szalinski-cad-eqsat' class='anchor'>
-<div class='bib-entry'>
-```
-
-@inproceedings{2020-pldi-szalinski-cad-eqsat,
-  author    = {Chandrakana Nandi and
-               Max Willsey and
-               Adam Anderson and
-               James R. Wilcox and
-               Eva Darulova and
-               Dan Grossman and
-               Zachary Tatlock},
-  editor    = {Alastair F. Donaldson and
-               Emina Torlak},
-  title     = {Synthesizing Structured {CAD} Models with Equality Saturation and
-               Inverse Transformations},
-  booktitle = {Proceedings of the 41st {ACM} {SIGPLAN} International Conference on
-               Programming Language Design and Implementation, {PLDI} 2020,
-               London, UK, June 15-20, 2020},
-  pages     = {31--44},
-  publisher = {{ACM}},
-  year      = {2020},
-  url       = {https://doi.org/10.1145/3385412.3386012},
-  doi       = {10.1145/3385412.3386012},
-  timestamp = {Tue, 09 Jun 2020 13:45:15 +0200},
-}
-```
-&nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp;
-[publication](publications.html#2020-pldi-szalinski-cad-eqsat)
-</div>
-</div>
-
 <!-- HERE -->
 
 <div id='2019-ftpl-qed-at-large' class='anchor'>

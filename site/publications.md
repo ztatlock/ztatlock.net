@@ -13,7 +13,7 @@
 [Chandrakana Nandi], [Max Willsey], [Adam Anderson], [James R. Wilcox], [Eva Darulova], [Dan Grossman], [Zachary Tatlock] <br>
 *Programming Language Design and Implementation (PLDI) 2020* <br>
 [paper](pubs/2020-pldi-szalinski-cad-eqsat.pdf) &nbsp;
-[teaser](https://youtu.be/dnIWBnpZqSo?list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd&t=139) &nbsp;
+[teaser](https://www.youtube.com/watch?v=dnIWBnpZqSo&t=135) &nbsp;
 [talk](https://www.youtube.com/watch?v=2KA602M8t7c) &nbsp;
 [slides](pubs/2020-pldi-szalinski-cad-eqsat-slides.pdf) &nbsp;
 [poster](pubs/2020-pldi-szalinski-cad-eqsat-poster.png) &nbsp;
@@ -52,6 +52,10 @@
 :::
 :::
 
+
+<!-- HERE -->
+
+
 <!-- 2019 FTPL : QED at Large -->
 
 ::: {#pub-2019-ftpl-qed-at-large .anchor}
@@ -89,9 +93,6 @@
 ```
 :::
 :::
-
-
-<!-- HERE -->
 
 
 - **Modular Verification of Web Page Layout** <br>
