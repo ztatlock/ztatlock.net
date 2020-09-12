@@ -1,0 +1,105 @@
+html {
+  font-size: 1rem;
+}
+body {
+  padding-top: 4.5rem;
+}
+h1 {
+  font-size: 1.75rem;
+}
+h2 {
+  font-size: 1.50rem;
+}
+h3 {
+  font-size: 1.25rem;
+}
+h4 {
+  font-size: 1.20rem;
+}
+h5 {
+  font-size: 1.15rem;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 1.1rem;
+  }
+}
+@media (min-width: 992px) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+@media (min-width: 1200px) {
+  html {
+    font-size: 1.25rem;
+  }
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+.indent {
+  margin-left: 2rem;
+}
+
+/* shift anchors down to compensate for fixed header */
+.anchor:target::before {
+  display: block;
+  content: " ";
+  height: 3.5rem;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* PUBLICATIONS */
+.pub-entry {
+  padding: 1rem;
+}
+.pub-entry p {
+  margin-bottom: 0;
+}
+.anchor:target .pub-entry {
+  background: #ffffcc;
+  border: 1px solid #ffeb3b;
+}
+.bib-card {
+  font-size: 0.8rem;
+  background: #ebf8ff;
+}
+.bib-card pre {
+  margin: 0;
+  margin-top: -1rem;
+}
+
+/* TALKS */
+.talk-entry {
+  padding: 1rem;
+}
+.talk-entry p {
+  margin-bottom: 0;
+}
+.anchor:target .talk-entry {
+  background: #ffffcc;
+  border: 1px solid #ffeb3b;
+}
+.abs-card {
+  font-size: 0.8rem;
+  background: #ebf8ff;
+}
+
+/* bibliography */
+#bib {
+  font-size: 0.8rem;
+}
+.bib-entry {
+  padding-bottom: 1em;
+}
+.bib-entry pre, .bib-entry p {
+  margin-bottom: 0;
+}
+.anchor:target .bib-entry {
+  background: #ffffcc;
+  border: 1px solid #ffeb3b;
+}
+
