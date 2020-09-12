@@ -1,8 +1,8 @@
 % Zachary Tatlock
 
 <img
-  style='width: 10rem; margin-right: 0.5rem'
-  class='img-fluid img-thumbnail rounded float-left'
+  style='height: 10rem; margin-right: 1rem;'
+  class='img-fluid rounded float-left'
   src='img/ztatlock-300x400.jpg'
   alt='Zachary Tatlock'>
 
@@ -11,25 +11,20 @@ Associate Professor \
 [Paul G. Allen School of Computer Science &amp; Engineering][PGAS] \
 [University of Washington][UW]
 
-Howdy!
+::: clear
+:::
+
 My goal is to help students become great computer scientists.
-On the research side,
-I work toward this goal in the [PLSE] and [SAMPL] groups,
-and as part of the SRC-funded [ADA JUMP Center][ADA].
-On the teaching side,
-I work toward this goal by [teaching courses][teaching] on
-programming languages and related topics.
-
+For research,
+  I work toward this goal with my [students](students.html)
+  in the [PLSE] and [SAMPL] groups,
+  and as part of the SRC-funded [ADA JUMP Center][ADA].
+For education,
+  I work toward this goal by [teaching courses][teaching] on
+  programming languages and related topics.
 I am also part of the incredible team at [OctoML].
-If you like hacking on machine learning compilers and systems
-or want blazing fast optimization, check us out!
-
-![under construction](img/under-construction.gif)
-This site is slowly being migrated from
-[my old page](https://homes.cs.washington.edu/~ztatlock/).
-Please look there for more information on our projects and papers.
-
-<div style='clear: both; margin-bottom: 1rem;'></div>
+If you like building machine learning compilers and systems
+  or want blazing fast optimization, check us out!
 
 ## News
 

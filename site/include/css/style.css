@@ -29,15 +29,17 @@ h5 {
   html {
     font-size: 1.2rem;
   }
-}
-@media (min-width: 1200px) {
-  html {
-    font-size: 1.25rem;
+  .container {
+    max-width: 900px;
   }
 }
 
 .navbar {
   margin-bottom: 20px;
+}
+.clear {
+  clear: both;
+  margin-bottom: 0.75rem;
 }
 .indent {
   margin-left: 2rem;
