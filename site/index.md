@@ -26,36 +26,60 @@ I am also part of the incredible team at [OctoML].
 If you like building machine learning compilers and systems
   or want blazing fast optimization, check us out!
 
-## News
+### Recent News
 
-August, 2020
+::: {.card .news-item}
 
-- I gave a talk at [Wisconsin's madPL seminar](https://madpl.cs.wisc.edu/pl-seminar/) on
-  [Synthesizing Backward through the Geometry Pipeline](talks.html#talk-2020-08-madpl-backward-geometry-synthesis).
+[![madPL 2020](talks/2020-08-madpl-backward-geometry-synthesis-thumb-play.png){.card-img-top}](https://www.youtube.com/watch?v=vOUP2wT-k1U)
 
-  <iframe
-    width="600"
-    height="350"
-    src="https://www.youtube.com/embed/vOUP2wT-k1U"
-    frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+::: {.card-body}
 
-July, 2020
+I gave a talk at
+[Wisconsin's madPL seminar](https://madpl.cs.wisc.edu/pl-seminar/) on
+[Synthesizing Backward through the Geometry Pipeline](talks.html#talk-2020-08-madpl-backward-geometry-synthesis)
+in August, 2020.
 
-- [Pavel] and I gave an invited talk at [NSV 2020](https://nsv2020.github.io/)
-  on [Herbie] and [FPBench]
-  ([slides](pubs/talks/2020-07-nsv-herbie-fpbench/2020-07-nsv-herbie-fpbench-slides.pdf)).
+:::
+:::
 
-  <iframe
-    width="600"
-    height="350"
-    src="https://www.youtube.com/embed/m_tRUSCRM1M"
-    frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+<!-- -->
+
+::: {.card .news-item}
+
+[![NSV 2020](talks/2020-07-nsv-herbie-fpbench-slides-thumb-play.png){.card-img-top}](https://www.youtube.com/watch?v=m_tRUSCRM1M)
+
+::: {.card-body}
+
+[Pavel] and I gave an invited talk
+on [Herbie] and [FPBench],
+[Towards Numerical Assistants](talks.html#talk-2020-07-nsv-herbie-fpbench),
+at [NSV 2020](https://nsv2020.github.io/)
+in July, 2020.
+
+:::
+:::
+
+<!-- -->
+
+::: {.card .news-item}
+
+[![PNW PLSE 2018](img/2018-05-pnw-plse-with-logo.jpg){.card-img-top}](http://pnwplse.org/)
+
+::: {.card-body}
+
+I organized the [PNW PLSE](http://pnwplse.org/)
+  meeting for May 14, 2018.
+If you hang out in the Pacific Northwest
+  and are working in software engineering,
+  programming languages, systems, or related areas
+  stay tuned for future events!
+
+:::
+:::
+
+
+<!-- HERE -->
+
 
 June, 2020
 

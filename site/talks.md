@@ -5,12 +5,13 @@
 ::: {#talk-2020-08-madpl-backward-geometry-synthesis .anchor}
 ::: {.talk-entry}
 
-**Synthesizing Backward through the Geometry Pipeline** <br>
-madPL Seminar, University of Wisconsin on 2020-08-19 <br>
+**Synthesizing Backward through the Geometry Pipeline** \
+[Zachary Tatlock] \
+madPL Seminar, University of Wisconsin on 2020-08-19 \
 [abstract](#abs-2020-08-madpl-backward-geometry-synthesis){aria-controls='abs-2020-08-madpl-backward-geometry-synthesis' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
 [talk](https://www.youtube.com/watch?v=vOUP2wT-k1U) &nbsp;
 [slides](talks/2020-08-madpl-backward-geometry-synthesis-slides.pdf) &nbsp;
-[event](https://madpl.cs.wisc.edu/pl-seminar/20200819-zach_tatlock/)
+[event](https://madpl.cs.wisc.edu/pl-seminar/20200819-zach_tatlock/) &nbsp;
 
 :::
 :::
@@ -46,6 +47,46 @@ See also:
 
 - [Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations](publications.html#pub-2020-pldi-szalinski-cad-eqsat)
 <!-- TODO Reincarnate -->
+
+:::
+:::
+
+<!-- -->
+
+::: {#talk-2020-07-nsv-herbie-fpbench .anchor}
+::: {.talk-entry}
+
+**Towards Numerical Assistants** \
+[Pavel Panchekha], [Zachary Tatlock] \
+Numerical Software Verification @ CAV on 2020-07-21 \
+[abstract](#abs-2020-07-nsv-herbie-fpbench){aria-controls='abs-2020-07-nsv-herbie-fpbench' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+[talk](https://www.youtube.com/watch?v=m_tRUSCRM1M) &nbsp;
+[slides](talks/2020-07-nsv-herbie-fpbench-slides.pdf) &nbsp;
+[event](https://nsv2020.github.io/) &nbsp;
+
+:::
+:::
+::: {#abs-2020-07-nsv-herbie-fpbench .collapse}
+::: {.card .card-body .abs-card}
+
+The last few years have seen an explosion of work on tools that address
+numerical error in scientific, mathematical, and engineering software.
+The resulting tools can provide essential guidance to expert non-experts:
+scientists, mathematicians, and engineers for whom mathematical computation
+is essential but who may have little formal training in numerical methods.
+It is high time these tools move into practice.
+
+Practitioners need a "numerical workbench" that not only succeeds as a research
+artifact but as a daily tool. We describe our experience adapting [Herbie],
+a tool for numerical error repair, from a research prototype to a reliable
+workhorse for daily use. In particular, we focus on how we worked to increase
+user trust and use internal measurement to polish the tool. Looking more
+broadly, we show that community development and an investment in the generality
+of our tools, such as through the [FPBench] project, will better support users
+and strengthen our research community.
+
+<!-- See also: -->
+<!-- TODO NSV 2016 -->
 
 :::
 :::
