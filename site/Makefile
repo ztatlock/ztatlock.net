@@ -1,16 +1,21 @@
+PUBS_DIR=$(HOME)/Dropbox/ztatlock-pubs
+
+TALKS_DIR=$(HOME)/Dropbox/ztatlock-talks
+
 PAGES=$(wildcard *.md)
 STAGE_PAGES=$(patsubst %.md,stage/%.html,$(PAGES))
 
 INCLUDE=$(wildcard include/*)
 STAGE_INCLUDE=$(patsubst include/%,stage/%,$(INCLUDE))
 
-PUBS_DIR=$(HOME)/Dropbox/ztatlock-pubs
-
 .PHONY: stage
-stage: stage/pubs $(STAGE_PAGES) $(STAGE_INCLUDE)
+stage: stage/pubs stage/talks $(STAGE_PAGES) $(STAGE_INCLUDE)
 
 stage/pubs:
 	[ -d "$(PUBS_DIR)" ] && ln -s $(PUBS_DIR) stage/pubs
+
+stage/talks:
+	[ -d "$(TALKS_DIR)" ] && ln -s $(TALKS_DIR) stage/talks
 
 stage/%.html: %.md TEMPLATE.html REFLINKS
 	@echo PANDOC $<

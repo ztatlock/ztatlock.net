@@ -2,8 +2,6 @@
 
 # Publications
 
-::: {.pubs}
-
 <!-- 2020 PLDI : Szalinski -->
 
 ::: {#pub-2020-pldi-szalinski-cad-eqsat .anchor}
@@ -359,7 +357,6 @@
   *USENIX Security Symposium 2012* <br>
   [paper](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser.pdf) &nbsp;
   [extended](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser-extended.pdf) &nbsp;
-  [teaser](https://www.youtube.com/watch?v=bfLOJQEfqjM) &nbsp;
   [talk](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/jang) &nbsp;
   [slides](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser-slides.pdf) &nbsp;
   [poster](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser-poster.pdf) &nbsp;
@@ -404,8 +401,6 @@
   [slides](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-slides.pptx) &nbsp;
   [poster](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-poster.pdf) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/quail.html) &nbsp;
-
-:::
 
 # Aggregators
 

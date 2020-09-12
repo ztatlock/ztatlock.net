@@ -36,8 +36,7 @@ Please look there for more information on our projects and papers.
 August, 2020
 
 - I gave a talk at [Wisconsin's madPL seminar](https://madpl.cs.wisc.edu/pl-seminar/) on
-  [Synthesizing Backward through the Geometry Pipeline](https://madpl.cs.wisc.edu/pl-seminar/20200819-zach_tatlock/)
-  ([slides](pubs/talks/2020-08-madpl-synthesizing-backward-through-geometry-pipeline/2020-08-madpl-synthesizing-backward-through-geometry-pipeline-slides.pdf)).
+  [Synthesizing Backward through the Geometry Pipeline](talks.html#talk-2020-08-madpl-backward-geometry-synthesis).
 
   <iframe
     width="600"
