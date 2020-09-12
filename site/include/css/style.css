@@ -1,5 +1,6 @@
 html {
   font-size: 1rem;
+  scroll-behavior: smooth;
 }
 body {
   padding-top: 4.5rem;
@@ -47,17 +48,14 @@ h5 {
 }
 
 /* shift anchors down to compensate for fixed header */
-.anchor:target::before {
-  display: block;
-  content: "";
-  height: 3.5rem;
-  visibility: hidden;
-  pointer-events: none;
+.anchor {
+  padding-top: 3.75rem;
+  margin-top: -3.75rem;
 }
 
 /* NEWS */
 .news-item {
-  margin: 2.5rem auto 0;
+  margin: 1.5rem auto;
   max-width: 600px;
 }
 .news-item .card-body {
