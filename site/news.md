@@ -64,28 +64,19 @@
 
 ::: {.card .news-item}
 
-  [![PNW PLSE 2018](thumb/2018-05-pnw-plse-with-logo.jpg){.card-img-top}](http://pnwplse.org/)
+  <!-- TODO award link -->
+  ![FACET Award 2020](thumb/2020-05-facet-award.png){.card-img-top}
 
 ::: {.card-body}
-  I organized the [PNW PLSE](http://pnwplse.org/)
-    meeting for Spring 2018.
-  If you hang out in the Pacific Northwest
-    and are working in software engineering,
-    programming languages, systems, or related areas
-    stay tuned for future events!
+  I was honored to receive a
+    Faculty Appreciation for Career, Education, and Training (FACET) Award
+    from the UW College of Engineering in April 2020.
+  Many thanks to the [PLSE] and [SAMPL] students for the nomination &#x1F64F;
 :::
 :::
 
 
 <!-- HERE -->
-
-
-May, 2020
-
-- I was honored to receive a
-  Faculty Appreciation for Career, Education, and Training (FACET) Award
-  from the UW College of Engineering.
-  Many thanks to the [PLSE] and [SAMPL] students for the nomination!
 
 March, 2020
 
@@ -160,18 +151,20 @@ June, 2018
   many thanks to the wonderful participants and
   to the organizers for all the hard work!
 
-May, 2018
 
-- I organized [PNW PLSE 2018](http://pnwplse.org/).
-  If you hang out in the Pacific Northwest and are working in
-  software engineering, programming languages, systems, or related areas
-  make sure to stay tuned for future events!
+::: {.card .news-item}
 
-  ![PNW PLSE 2018](img/2018-05-pnw-plse.jpg){width=600px} \
+  [![PNW PLSE 2018](thumb/2018-05-pnw-plse-with-logo.jpg){.card-img-top}](http://pnwplse.org/)
 
-  [James] was particularly stoked throughout the day:
-
-  ![PNW PLSE 2018](img/2018-05-pnw-plse-jrw.jpg){width=600px} \
+::: {.card-body}
+  I organized the [PNW PLSE](http://pnwplse.org/)
+    meeting for Spring 2018.
+  If you hang out in the Pacific Northwest
+    and are working in software engineering,
+    programming languages, systems, or related areas
+    stay tuned for future events!
+:::
+:::
 
 August, 2017
 
