@@ -29,6 +29,18 @@ If you like building machine learning compilers and systems
 #### Recent News
 
 ::: {.card .news-item}
+
+  [![egg e-graphs Website](thumb/2020-09-egg-website.png){.card-img-top}][egg]
+
+::: {.card-body}
+  [Max] pushed a new website for [egg] in September 2020.
+  Check out the [egg tutorial](https://docs.rs/egg/*/egg/tutorials/),
+  use e-graphs to advance the state of the art in your domain,
+  and get your project added to the growing list of pioneering users &#x1F423;
+:::
+:::
+
+::: {.card .news-item}
 ::: {.play-btn .play-btn-shadow}
   [![madPL 2020](thumb/2020-08-madpl.png){.card-img-top}](https://www.youtube.com/watch?v=vOUP2wT-k1U)
 :::
@@ -73,6 +85,6 @@ If you like building machine learning compilers and systems
 :::
 :::
 
-::: {#all-news}
-  [All News](news.html)
+::: {#more-news}
+  [More News](news.html#more-news)
 :::

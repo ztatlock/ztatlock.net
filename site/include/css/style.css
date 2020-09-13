@@ -67,6 +67,9 @@ h5 {
 .play-btn {
   position: relative;
 }
+.play-btn img:hover {
+  filter: contrast(0.9);
+}
 .play-btn:after {
   content: "";
   display: block;
@@ -76,7 +79,7 @@ h5 {
   top: 0px;
   left: 0px;
   background-image: url("../thumb/play-btn.png");
-  background-size: 6rem 6rem;
+  background-size: 4rem 4rem;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   opacity: 0.85;
@@ -85,7 +88,7 @@ h5 {
 .play-btn-shadow:after {
   background-image: url("../thumb/play-btn-shadow.png");
 }
-#all-news {
+#more-news {
   text-align: center;
   font-size: 1.5rem;
 }
