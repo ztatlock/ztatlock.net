@@ -10,7 +10,7 @@
   I gave a talk at
   [Wisconsin's madPL seminar](https://madpl.cs.wisc.edu/pl-seminar/) on
   [Synthesizing Backward through the Geometry Pipeline](talks.html#talk-2020-08-madpl-backward-geometry-synthesis)
-  in August, 2020.
+  in August 2020.
 :::
 :::
 
@@ -21,8 +21,19 @@
 ::: {.card-body}
   [Pavel] and I gave an invited talk on [Herbie] and [FPBench],
   [Towards Numerical Assistants](talks.html#talk-2020-07-nsv-herbie-fpbench),
-  at [NSV 2020](https://nsv2020.github.io/)
-  in July, 2020.
+  at [NSV](https://nsv2020.github.io/)
+  in July 2020.
+:::
+:::
+
+::: {.card .news-item}
+::: {.play-btn}
+  [![PLDI 2020](thumb/2020-06-pldi-szalinski.png){.card-img-top}](https://www.youtube.com/watch?v=2KA602M8t7c)
+:::
+::: {.card-body}
+  [Chandrakana] gave a great talk at PLDI in June 2020 on Szalinski from our paper
+  [Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations](publications.html#pub-2020-pldi-szalinski-cad-eqsat)
+  &#x1F44F;
 :::
 :::
 

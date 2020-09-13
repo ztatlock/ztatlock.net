@@ -55,11 +55,11 @@ h5 {
 
 /* NEWS */
 .news-item {
-  margin: 1.5rem auto;
+  margin: 1.75rem auto;
   max-width: 600px;
 }
 .news-item .card-body {
-  padding: 0 1rem 1rem;
+  padding: 0.5rem 1rem 1rem;
 }
 .news-item p:last-child {
   margin-bottom: 0;

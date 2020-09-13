@@ -28,7 +28,6 @@ If you like building machine learning compilers and systems
 
 #### Recent News
 
-
 ::: {.card .news-item}
 ::: {.play-btn}
   [![madPL 2020](thumb/2020-08-madpl.png){.card-img-top}](https://www.youtube.com/watch?v=vOUP2wT-k1U)
@@ -37,7 +36,7 @@ If you like building machine learning compilers and systems
   I gave a talk at
   [Wisconsin's madPL seminar](https://madpl.cs.wisc.edu/pl-seminar/) on
   [Synthesizing Backward through the Geometry Pipeline](talks.html#talk-2020-08-madpl-backward-geometry-synthesis)
-  in August, 2020.
+  in August 2020.
 :::
 :::
 
@@ -48,8 +47,19 @@ If you like building machine learning compilers and systems
 ::: {.card-body}
   [Pavel] and I gave an invited talk on [Herbie] and [FPBench],
   [Towards Numerical Assistants](talks.html#talk-2020-07-nsv-herbie-fpbench),
-  at [NSV 2020](https://nsv2020.github.io/)
-  in July, 2020.
+  at [NSV](https://nsv2020.github.io/)
+  in July 2020.
+:::
+:::
+
+::: {.card .news-item}
+::: {.play-btn}
+  [![PLDI 2020](thumb/2020-06-pldi-szalinski.png){.card-img-top}](https://www.youtube.com/watch?v=2KA602M8t7c)
+:::
+::: {.card-body}
+  [Chandrakana] gave a great talk at PLDI in June 2020 on Szalinski from our paper
+  [Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations](publications.html#pub-2020-pldi-szalinski-cad-eqsat)
+  &#x1F44F;
 :::
 :::
 
@@ -69,21 +79,6 @@ If you like building machine learning compilers and systems
 
 
 <!-- HERE -->
-
-
-June, 2020
-
-- [Chandrakana] gave a great talk at PLDI 2020 on Szalinski from our paper
-  [Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations](publications.html#pub-2020-pldi-szalinski-cad-eqsat).
-
-  <iframe
-    width="600"
-    height="350"
-    src="https://www.youtube.com/embed/2KA602M8t7c"
-    frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
 
 
 May, 2020
