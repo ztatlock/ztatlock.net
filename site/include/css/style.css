@@ -4,10 +4,10 @@ html {
 }
 body {
   padding-top: 4.5rem;
-  padding-bottom: 1000px;
+  padding-bottom: 5rem;
 }
 h1 {
-  font-size: 1.75rem;
+  font-size: 1.7rem;
 }
 h2 {
   font-size: 1.5rem;
@@ -75,12 +75,19 @@ h5 {
   position: absolute;
   top: 0px;
   left: 0px;
-  background-image: url("../img/play-btn.png");
+  background-image: url("../thumb/play-btn.png");
   background-size: 6rem 6rem;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   opacity: 0.85;
   pointer-events: none;
+}
+.play-btn-shadow:after {
+  background-image: url("../thumb/play-btn-shadow.png");
+}
+#all-news {
+  text-align: center;
+  font-size: 1.5rem;
 }
 
 
