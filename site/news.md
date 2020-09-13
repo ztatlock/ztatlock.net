@@ -75,22 +75,22 @@
 :::
 :::
 
+::: {.card .news-item}
+::: {.play-btn}
+  [![Reincarnate I Am CSE](thumb/2020-03-cnandi-iamcse-reincarnate.png){.card-img-top}](https://www.youtube.com/watch?v=G7v3kegE9_g)
+:::
+::: {.card-body}
+  [Chandrakana] showed off her work on
+  [Reincarnate](publications.html#pub-2018-icfp-reincarnate-cad-decompiler) (ICFP 2018)
+  to decompile triangle meshes to 3D CAD for a new
+  [I Am CSE](https://www.youtube.com/watch?v=G7v3kegE9_g)
+  video in March 2020.
+:::
+:::
+
+
 
 <!-- HERE -->
-
-March, 2020
-
-- [Chandrakana] did an "I Am CSE" video on our work
-  [decompiling meshes to CAD for 3D printing](http://reincarnate.uwplse.org).
-
-  <iframe
-    width="600"
-    height="350"
-    src="https://www.youtube.com/embed/G7v3kegE9_g"
-    frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
 
 February, 2020
 

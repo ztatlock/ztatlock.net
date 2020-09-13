@@ -139,27 +139,6 @@
 ```
 
 ```
-@article{DBLP:journals/pacmpl/NandiWPBGT18,
-  author    = {Chandrakana Nandi and
-               James R. Wilcox and
-               Pavel Panchekha and
-               Taylor Blau and
-               Dan Grossman and
-               Zachary Tatlock},
-  title     = {Functional programming for compiling and decompiling computer-aided
-               design},
-  journal   = {Proc. {ACM} Program. Lang.},
-  volume    = {2},
-  number    = {{ICFP}},
-  pages     = {99:1--99:31},
-  year      = {2018},
-  url       = {https://doi.org/10.1145/3236794},
-  doi       = {10.1145/3236794},
-  timestamp = {Thu, 16 Apr 2020 01:00:00 +0200},
-}
-```
-
-```
 @article{DBLP:journals/pacmpl/SergeyWT18,
   author    = {Ilya Sergey and
                James R. Wilcox and
