@@ -19,10 +19,9 @@
   [![NSV 2020](thumb/2020-07-nsv.png){.card-img-top}](https://www.youtube.com/watch?v=m_tRUSCRM1M)
 :::
 ::: {.card-body}
-  [Pavel] and I gave an invited talk on [Herbie] and [FPBench],
-  [Towards Numerical Assistants](talks.html#talk-2020-07-nsv-herbie-fpbench),
-  at [NSV](https://nsv2020.github.io/)
-  in July 2020.
+  [Pavel] and I gave an invited talk
+  [Towards Numerical Assistants](talks.html#talk-2020-07-nsv-herbie-fpbench)
+  on [Herbie] and [FPBench] at [NSV](https://nsv2020.github.io/) in July 2020.
 :::
 :::
 
