@@ -105,7 +105,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn}
-  [![TVM Relay 2019](thumb/2019-12-tvm-relay.png){.card-img-top}](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814)
+  [![TVMConf Zachary Tatlock  Relay 2019](thumb/2019-12-tvm-relay.png){.card-img-top}](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814)
 :::
 ::: {.card-body}
   I gave a [talk on the TVM Relay IR](talks.html#talk-2019-12-tvm-relay)
@@ -117,14 +117,23 @@
 :::
 :::
 
+::: {.card .news-item}
+
+  <!-- -->
+  ![Tenure 2019](thumb/2019-09-tenure.png){.card-img-top}
+
+::: {.card-body}
+  I got tenure in September 2019 and
+  am now an Associate Professor
+  at the University of Washington
+  &#x1F468;&zwj;&#x1F3EB;
+:::
+:::
+
+
 
 
 <!-- HERE -->
-
-September, 2019
-
-- I got tenure and am now an Associate Professor
-  at the University of Washington!
 
 August, 2019
 
