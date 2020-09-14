@@ -103,15 +103,23 @@
 :::
 :::
 
+::: {.card .news-item}
+::: {.play-btn}
+  [![TVM Relay 2019](thumb/2019-12-tvm-relay.png){.card-img-top}](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814)
+:::
+::: {.card-body}
+  I gave a [talk on the TVM Relay IR](talks.html#talk-2019-12-tvm-relay)
+  at the [TVM Conference](https://sampl.cs.washington.edu/tvmconf/)
+  in December 2019.
+  I also got to chair the lightning talks,
+  so many stellar contributions from
+  our incredible community &#x1F91D;
+:::
+:::
 
 
 
 <!-- HERE -->
-
-December, 2019
-
-- I gave a [talk on Relay the IR](https://youtu.be/npqO0hVXZwU?t=1812)
-  at the [TVM Conference 2019](https://sampl.cs.washington.edu/tvmconf/).
 
 September, 2019
 

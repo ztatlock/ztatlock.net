@@ -2,17 +2,19 @@
 
 # Talks
 
+
+<!-- -->
+
+
 ::: {#talk-2020-08-madpl-backward-geometry-synthesis .anchor}
 ::: {.talk-entry}
-
-**Synthesizing Backward through the Geometry Pipeline** \
-[Zachary Tatlock] \
-madPL Seminar, University of Wisconsin on 2020-08-19 \
-[abstract](#abs-2020-08-madpl-backward-geometry-synthesis){aria-controls='abs-2020-08-madpl-backward-geometry-synthesis' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
-[talk](https://www.youtube.com/watch?v=vOUP2wT-k1U) &nbsp;
-[slides](talks/2020-08-madpl-backward-geometry-synthesis-slides.pdf) &nbsp;
-[event](https://madpl.cs.wisc.edu/pl-seminar/20200819-zach_tatlock/) &nbsp;
-
+  **Synthesizing Backward through the Geometry Pipeline** \
+  [Zachary Tatlock] \
+  madPL Seminar, University of Wisconsin on 2020-08-19 \
+  [abstract](#abs-2020-08-madpl-backward-geometry-synthesis){aria-controls='abs-2020-08-madpl-backward-geometry-synthesis' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [talk](https://www.youtube.com/watch?v=vOUP2wT-k1U) &nbsp;
+  [slides](talks/2020-08-madpl-backward-geometry-synthesis-slides.pdf) &nbsp;
+  [event](https://madpl.cs.wisc.edu/pl-seminar/20200819-zach_tatlock/) &nbsp;
 :::
 :::
 ::: {#abs-2020-08-madpl-backward-geometry-synthesis .collapse}
@@ -51,19 +53,19 @@ See also:
 :::
 :::
 
+
 <!-- -->
+
 
 ::: {#talk-2020-07-nsv-herbie-fpbench .anchor}
 ::: {.talk-entry}
-
-**Towards Numerical Assistants** \
-[Pavel Panchekha], [Zachary Tatlock] \
-Numerical Software Verification @ CAV on 2020-07-21 \
-[abstract](#abs-2020-07-nsv-herbie-fpbench){aria-controls='abs-2020-07-nsv-herbie-fpbench' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
-[talk](https://www.youtube.com/watch?v=m_tRUSCRM1M) &nbsp;
-[slides](talks/2020-07-nsv-herbie-fpbench-slides.pdf) &nbsp;
-[event](https://nsv2020.github.io/) &nbsp;
-
+  **Towards Numerical Assistants** \
+  [Pavel Panchekha], [Zachary Tatlock] \
+  Numerical Software Verification @ CAV on 2020-07-21 \
+  [abstract](#abs-2020-07-nsv-herbie-fpbench){aria-controls='abs-2020-07-nsv-herbie-fpbench' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [talk](https://www.youtube.com/watch?v=m_tRUSCRM1M) &nbsp;
+  [slides](talks/2020-07-nsv-herbie-fpbench-slides.pdf) &nbsp;
+  [event](https://nsv2020.github.io/) &nbsp;
 :::
 :::
 ::: {#abs-2020-07-nsv-herbie-fpbench .collapse}
@@ -90,4 +92,39 @@ and strengthen our research community.
 
 :::
 :::
+
+
+<!-- -->
+
+
+::: {#talk-2019-12-tvm-relay .anchor}
+::: {.talk-entry}
+  **TVM Relay: A Functional IR for Analysis and Optimization** \
+  [Zachary Tatlock] \
+  TVM Conference on 2019-12-05 \
+  [abstract](#abs-2019-12-tvm-relay){aria-controls='abs-2019-12-tvm-relay' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [talk](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814) &nbsp;
+  [slides](talks/2019-12-tvm-relay-slides.pdf) &nbsp;
+  [event](https://sampl.cs.washington.edu/tvmconf/) &nbsp;
+:::
+:::
+::: {#abs-2019-12-tvm-relay .collapse}
+::: {.card .card-body .abs-card}
+
+In this talk, I briefly sketch Relay's key design features
+and survey all the amazing progress that's made using it
+to develop and extend tools in the TVM ecosystem.
+
+<!-- TODO flesh out abstract -->
+
+<!-- See also: -->
+<!-- TODO -->
+
+:::
+:::
+
+
+<!-- -->
+
+
 

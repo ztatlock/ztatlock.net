@@ -26,6 +26,8 @@ I am also part of the incredible team at [OctoML].
 If you like building machine learning compilers and systems
   or want blazing fast optimization, check us out!
 
+<!-- TODO add research vision -->
+
 #### Recent News
 
 ::: {.card .news-item}
