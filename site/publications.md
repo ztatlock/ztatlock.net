@@ -17,7 +17,7 @@
 <!-- HERE -->
 
 
-<!-- -->
+<!-- 2020-06 -->
 
 
 ::: {#pub-2020-pldi-szalinski-cad-eqsat .anchor}
@@ -66,7 +66,57 @@
 :::
 
 
-<!-- -->
+<!-- 2019-11 -->
+
+
+::: {#pub-2019-siga-carpentry-compiler .anchor}
+::: {.pub-entry}
+  **Carpentry Compiler** \
+  [Chenming Wu], [Haisen Zhao], [Chandrakana Nandi], \
+  [Jeffrey I. Lipton], [Zachary Tatlock], [Adriana Schulz] \
+  ACM Transactions on Graphics (SIGGRAPH ASIA) 2019 \
+  [paper](pubs/2019-siga-carpentry-compiler.pdf) &nbsp;
+  [appendix](pubs/2019-siga-carpentry-compiler-appendix.pdf) &nbsp;
+  [teaser](https://www.youtube.com/watch?v=yaXKP7lv-CI) &nbsp;
+  [slides](pubs/2019-siga-carpentry-compiler-slides.pptx) &nbsp;
+  [code](https://github.com/helm-compiler) &nbsp;
+  [project](https://grail.cs.washington.edu/projects/carpentrycompiler/) &nbsp;
+  [bib](pubs/2019-siga-carpentry-compiler.bib) &nbsp;
+:::
+:::
+
+
+<!-- 2019-10 -->
+
+
+::: {#pub-2019-oopsla-troika-modular-layout-verification .anchor}
+::: {.pub-entry}
+  **Modular Verification of Web Page Layout** \
+  [Pavel Panchekha], [Michael D. Ernst], [Zachary Tatlock], [Shoaib Kamil] \
+  Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2019 \
+  [paper](pubs/2019-oopsla-troika-modular-layout-verification.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=4nFuMh5y9F8) &nbsp;
+  [slides](pubs/2019-oopsla-troika-modular-layout-verification-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/cassius/) &nbsp;
+  [project](https://cassius.uwplse.org/) &nbsp;
+:::
+:::
+
+
+<!-- 2019-10 -->
+
+
+::: {#pub-2019-splashe-theia-psv-viz .anchor}
+::: {.pub-entry}
+  **Theia: Automatically Generating Correct Program State Visualizations** \
+  [Josh Pollock], [Jared Roesch], [Doug Woos], [Zachary Tatlock] \
+  ACM SIGPLAN Symposium on SPLASH-E 2019 \
+  [paper](pubs/2019-splashe-theia-psv-viz.pdf) &nbsp;
+:::
+:::
+
+
+<!-- 2019-09 -->
 
 
 ::: {#pub-2019-ftpl-qed-at-large .anchor}
@@ -107,57 +157,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
-::: {.pub-entry}
-  **Modular Verification of Web Page Layout** \
-  [Pavel Panchekha], [Michael D. Ernst], [Zachary Tatlock], [Shoaib Kamil] \
-  Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2019 \
-  [paper](pubs/2019-oopsla-troika-modular-layout-verification.pdf) &nbsp;
-  [talk](https://www.youtube.com/watch?v=4nFuMh5y9F8) &nbsp;
-  [slides](pubs/2019-oopsla-troika-modular-layout-verification-slides.pdf) &nbsp;
-  [code](https://github.com/uwplse/cassius/) &nbsp;
-  [project](https://cassius.uwplse.org/) &nbsp;
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#TODO .anchor}
-::: {.pub-entry}
-  **Carpentry Compiler** \
-  [Chenming Wu], [Haisen Zhao], [Chandrakana Nandi], \
-  [Jeffrey I. Lipton], [Zachary Tatlock], [Adriana Schulz] \
-  ACM Transactions on Graphics (SIGGRAPH ASIA) 2019 \
-  [paper](pubs/2019-siga-carpentry-compiler.pdf) &nbsp;
-  [appendix](pubs/2019-siga-carpentry-compiler-appendix.pdf) &nbsp;
-  [teaser](https://www.youtube.com/watch?v=yaXKP7lv-CI) &nbsp;
-  [slides](pubs/2019-siga-carpentry-compiler-slides.pptx) &nbsp;
-  [code](https://github.com/helm-compiler) &nbsp;
-  [project](https://grail.cs.washington.edu/projects/carpentrycompiler/) &nbsp;
-  [bib](pubs/2019-siga-carpentry-compiler.bib) &nbsp;
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#TODO .anchor}
-::: {.pub-entry}
-  **Theia: Automatically Generating Correct Program State Visualizations** \
-  [Josh Pollock], [Jared Roesch], [Doug Woos], [Zachary Tatlock] \
-  ACM SIGPLAN Symposium on SPLASH-E 2019 \
-  [paper](pubs/2019-splashe-theia-psv-viz.pdf) &nbsp;
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Toward Multi-Precision, Multi-Format Numerics** \
   [David Thien], [Bill Zorn], [Pavel Panchekha], [Zachary Tatlock] \
@@ -174,7 +174,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Icing: Supporting Fast-Math Style Optimizations in a Verified Compiler** \
   [Heiko Becker], [Eva Darulova], [Magnus O. Myreen], [Zachary Tatlock] \
@@ -188,7 +188,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Teaching Rigorous Distributed Systems With Efficient Model Checking** \
   [Ellis Michael], [Doug Woos], [Thomas E. Anderson], [Michael D. Ernst], [Zachary Tatlock] \
@@ -249,7 +249,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Combining Tools for Optimization and Analysis of Floating-Point Computations** \
   [Heiko Becker], [Pavel Panchekha], [Eva Darulova], [Zachary Tatlock] \
@@ -266,7 +266,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Software Verification with ITPs Should Use Binary Code Extraction to Reduce the TCB** \
   [Ramana Kumar], [Eric Mullen], [Zachary Tatlock], [Magnus O. Myreen] \
@@ -283,7 +283,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Programming and Proving with Distributed Protocols** \
   [Ilya Sergey], [James R. Wilcox], [Zachary Tatlock] \
@@ -300,7 +300,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Œuf: minimizing the Coq extraction TCB** \
   [Eric Mullen], [Stuart Pernsteiner], [James R. Wilcox], [Zachary Tatlock], [Dan Grossman] \
@@ -316,7 +316,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Verifying that web pages have accessible layout** \
   [Pavel Panchekha], [Adam T. Geller], [Michael D. Ernst], [Zachary Tatlock], [Shoaib Kamil] \
@@ -333,7 +333,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Relay: a New IR for Machine Learning Frameworks** \
   [Jared Roesch], [Steven Lyubomirsky], [Logan Weber], [Josh Pollock], [Marisa Kirisame], \
@@ -350,7 +350,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Finding Root Causes of Floating Point Error** \
   [Alex Sanchez-Stern], [Pavel Panchekha], [Sorin Lerner], [Zachary Tatlock] \
@@ -367,7 +367,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **SpaceSearch: A Library for Building and Verifying Solver-aided Tools** \
   [Konstantin Weitz], [Steven Lyubomirsky], [Stefan Heule], \
@@ -385,7 +385,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Programming Language Tools and Techniques for 3D Printing** \
   [Chandrakana Nandi], [Anat Caspi], [Dan Grossman] \
@@ -400,7 +400,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Programming Language Abstractions for Modularly Verified Distributed Systems** \
   [James R. Wilcox], [Ilya Sergey], [Zachary Tatlock] \
@@ -415,7 +415,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Investigating Safety of a Radiotherapy Machine Using System Models with Pluggable Checkers** \
   [Stuart Pernsteiner], [Calvin Loncaric], [Emina Torlak], [Zachary Tatlock], \
@@ -433,7 +433,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Toward a Standard Benchmark Format and Suite for Floating-Point Analysis** \
   [Nasrine Damouche], [Matthieu Martel], [Pavel Panchekha], \
@@ -451,7 +451,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Planning for Change in a Formal Verification of the Raft Consensus Protocol** \
   [Doug Woos], [James R. Wilcox], [Steve Anton], [Zachary Tatlock], [Michael D. Ernst], [Thomas E. Anderson] \
@@ -468,7 +468,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Scalable Verification of Border Gateway Protocol Configurations with an SMT Solver** \
   [Konstantin Weitz], [Doug Woos], [Emina Torlak], [Michael D. Ernst], [Arvind Krishnamurthy], [Zachary Tatlock] \
@@ -485,7 +485,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Verified Peephole Optimizations for CompCert** \
   [Eric Mullen], [Daryl Zuniga], [Zachary Tatlock], [Dan Grossman] \
@@ -501,7 +501,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Visual Robot Programming for Generalizable Mobile Manipulation Tasks (Extended Abstract)** \
   [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] \
@@ -518,7 +518,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **RoboFlow: A Flow-based Visual Programming Language for Mobile Manipulation Tasks** \
   [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] \
@@ -535,7 +535,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Automatically Improving Accuracy for Floating Point Expressions** \
   [Pavel Panchekha], [Alex Sanchez-Stern], [James R. Wilcox], [Zachary Tatlock] \
@@ -554,7 +554,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Verdi: A Framework for Implementing and Formally Verifying Distributed Systems** \
   [James R. Wilcox], [Doug Woos], [Pavel Panchekha], [Zachary Tatlock], \
@@ -573,7 +573,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Toward a Dependability Case Language and Workflow for a Radiation Therapy System** \
   [Michael D. Ernst], [Dan Grossman], [Jon Jacky], [Calvin Loncaric], \
@@ -590,7 +590,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **SafeDispatch: Securing C++ Virtual Calls from Memory Corruption Attacks** \
   [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] \
@@ -604,7 +604,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Jitk: A Trustworthy In-Kernel Interpreter Infrastructure** \
   [Xi Wang], [David Lazar], [Nickolai Zeldovich], [Adam Chlipala], [Zachary Tatlock] \
@@ -622,7 +622,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Automating Formal Proofs for Reactive Systems** \
   [Daniel Ricketts], [Valentin Robert], [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] \
@@ -639,7 +639,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Establishing Browser Security Guarantees through Formal Shim Verification** \
   [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] \
@@ -658,7 +658,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Equality Saturation: A New Approach to Optimization** \
   [Ross Tate], [Michael Stepp], [Zachary Tatlock], [Sorin Lerner] \
@@ -672,7 +672,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Bringing Extensibility to Verified Compilers** \
   [Zachary Tatlock], [Sorin Lerner] \
@@ -687,7 +687,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Equality Saturation: A New Approach to Optimization** \
   [Ross Tate], [Michael Stepp], [Zachary Tatlock], [Sorin Lerner] \
@@ -704,7 +704,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Proving Optimizations Correct using Parameterized Program Equivalence** \
   [Sudipta Kundu], [Zachary Tatlock], [Sorin Lerner] \
@@ -721,7 +721,7 @@
 <!-- -->
 
 
-::: {#TODO .anchor}
+::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Deep Typechecking and Refactoring** \
   [Zachary Tatlock], [Chris Tucker], [David Shuffelton], [Ranjit Jhala], [Sorin Lerner] \

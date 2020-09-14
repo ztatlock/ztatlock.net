@@ -105,7 +105,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn}
-  [![TVMConf Zachary Tatlock  Relay 2019](thumb/2019-12-tvm-relay.png){.card-img-top}](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814)
+  [![TVMConf Zachary Tatlock Relay 2019](thumb/2019-12-tvm-relay.png){.card-img-top}](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814)
 :::
 ::: {.card-body}
   I gave a [talk on the TVM Relay IR](talks.html#talk-2019-12-tvm-relay)
@@ -114,6 +114,29 @@
   I also got to chair the lightning talks,
   so many stellar contributions from
   our incredible community &#x1F91D;
+:::
+:::
+
+::: {.card .news-item}
+::: {.play-btn .play-btn-shadow}
+  [![Carpentry Compiler SIGGRAPH Asia 2019](thumb/2019-11-carpentry-compiler.png){.card-img-top}](https://www.youtube.com/watch?v=yaXKP7lv-CI)
+:::
+::: {.card-body}
+  [Haisen] gave a talk showing off our work on the
+  [Carpentry Compiler](publications.html#pub-2019-siga-carpentry-compiler)
+  at SIGGRAPH Asia in November 2019 &#x1F6E0;
+:::
+:::
+
+::: {.card .news-item}
+
+  [![Theia SPLASH-E 2019](thumb/2019-10-theia.png){.card-img-top}](publications.html#pub-2019-splashe-theia-psv-viz)
+
+::: {.card-body}
+  [Josh] gave a great talk on
+  [Theia](publications.html#pub-2019-splashe-theia-psv-viz),
+  our tool for program state visualization,
+  at OOPSLA SPLASH-E in October 2019.
 :::
 :::
 
@@ -134,16 +157,6 @@
 
 
 <!-- HERE -->
-
-August, 2019
-
-- Our paper on Theia for visualizing program state
-  will appear at SPLASH-E. Congrats Josh, Jared, and Doug!
-
-August, 2019
-
-- Our paper on the Carpentry Compiler will appear at SIGGRAPH Asia.
-  Congrats Chenming, Chandrakana, Haisen, Jeff, and Adriana!
 
 September, 2018
 
