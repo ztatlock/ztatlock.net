@@ -32,54 +32,60 @@
 
 ## PhD
 
-  - [Pavel Panchekha]^2^, PhD 2019 <br>
+  - [Pavel Panchekha]^2^, PhD 2019 \
       &nbsp; &nbsp; &rarr; Assistant Professor at Utah
-  - [James Wilcox], PhD 2019 <br>
+  - [James Wilcox], PhD 2019 \
       &nbsp; &nbsp; &rarr; CTO at Certora
-  - [Doug Woos]^2,3^, PhD 2019 <br>
+  - [Doug Woos]^2,3^, PhD 2019 \
       &nbsp; &nbsp; &rarr; Lecturer at Brown
-  - [Stuart Pernsteiner]^2^, PhD 2018 <br>
+  - [Stuart Pernsteiner]^2^, PhD 2018 \
       &nbsp; &nbsp; &rarr; Galois Inc.
-  - [Eric Mullen]^1^, PhD 2018 <br>
+  - [Eric Mullen]^1^, PhD 2018 \
       &nbsp; &nbsp; &rarr; Google
-  - [Konstantin Weitz]^2^, PhD 2017 <br>
+  - [Konstantin Weitz]^2^, PhD 2017 \
       &nbsp; &nbsp; &rarr; Google
 
 ## Masters
 
-  - [Marisa Kirisame], MS 2020 <br>
+  - [Marisa Kirisame], MS 2020 \
       &nbsp; &nbsp; &rarr; PhD Student at Utah
-  - [Logan Weber], MS 2020 <br>
+  - [Logan Weber], MS 2020 \
       &nbsp; &nbsp; &rarr; PhD Student at MIT
-  - [Alex Sanchez-Stern], MS 2015 <br>
+  - [Chen Qiu], MS 2019 \
+      &nbsp; &nbsp; &rarr; Facebook
+  - [Alex Sanchez-Stern], MS 2015 \
       &nbsp; &nbsp; &rarr; PhD Student at UCSD
 
 ## Undergraduate
 
-  - [Altan Haan], BS 2020 <br>
+  - [Altan Haan], BS 2020 \
       &nbsp; &nbsp; &rarr; [OctoML]
-  - [Josh Pollock], BS 2020 <br>
+  - [Josh Pollock], BS 2020 \
       &nbsp; &nbsp; &rarr; PhD Student at MIT
-  - [David Thien], BS 2019 <br>
+  - [David Thien], BS 2019 \
       &nbsp; &nbsp; &rarr; PhD Student at UCSD
-  - [Adam Geller], BS 2018 <br>
+  - [Justin Adsuara], BS 2018 \
+      &nbsp; &nbsp; &rarr; Hilton Hotels
+  - [Adam Geller], BS 2018 \
       &nbsp; &nbsp; &rarr; PhD Student at UBC
-  - [Luke Nelson]^4^, BS 2017 <br>
+  - [Luke Nelson]^4^, BS 2017 \
       &nbsp; &nbsp; &rarr; PhD Student at UW
-  - [Chen Qiu](https://www.linkedin.com/in/jasonqiu951/) <br>
-      &nbsp; &nbsp; &rarr; Facebook
-  - [Steve Anton], BS 2017 <br>
-      &nbsp; &nbsp; &rarr; Google
-  - [Ryan Doenges], BS 2017 <br>
-      &nbsp; &nbsp; &rarr; PhD Student at Cornell
-  - [Seth Pendergrass], BS 2016 <br>
+  - [Miranda Edwards], BS 2017 \
+      &nbsp; &nbsp; &rarr; Cisco Meraki
+  - [Keith Simmons], BS 2017 \
       &nbsp; &nbsp; &rarr; Microsoft
-  - [Daryl Zuniga]^1^, BS 2015 <br>
+  - [Steve Anton], BS 2017 \
+      &nbsp; &nbsp; &rarr; Google
+  - [Ryan Doenges], BS 2017 \
+      &nbsp; &nbsp; &rarr; PhD Student at Cornell
+  - [Seth Pendergrass], BS 2016 \
+      &nbsp; &nbsp; &rarr; Microsoft
+  - [Daryl Zuniga]^1^, BS 2015 \
       &nbsp; &nbsp; &rarr; Microsoft
 
 ## High School
 
-  - [Juliet Oh], HS 2016 <br>
+  - [Juliet Oh], HS 2016 \
       &nbsp; &nbsp; &rarr; BA Student at Princeton
 
 :::
