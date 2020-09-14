@@ -88,16 +88,25 @@
 :::
 :::
 
+::: {.card .news-item}
+
+  [![egg Szalinski Firedrake 2020](thumb/2020-02-egg-szalinski-firedrake.png){.card-img-top}][egg]
+
+::: {.card-body}
+  [Max] and [Chandrakana] spoke at the
+  [Firedrake Workshop](https://firedrakeproject.org/firedrake_usa_20.html)
+  in February 2020 on [egg] and how its
+  new, blazing fast congruence rebuilding helps
+  [Szalinski](http://incarnate.uwplse.org/)
+  decompile flat constructive solid geometry expressions to
+  parameterized 3D CAD programs &#x1F423;
+:::
+:::
+
+
 
 
 <!-- HERE -->
-
-February, 2020
-
-- [Max] and [Chandrakana] gave a talk on
-  [egg](https://github.com/mwillsey/egg) and how it is used in
-  [Szalinski](http://incarnate.uwplse.org/) at the
-  [Firedrake 2020 workshop](https://firedrakeproject.org/firedrake_usa_20.html).
 
 December, 2019
 
