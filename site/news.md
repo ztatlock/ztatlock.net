@@ -105,12 +105,14 @@
 
 ::: {.card .news-item}
 ::: {.play-btn}
-  [![TVMConf Zachary Tatlock Relay 2019](thumb/2019-12-tvm-relay.png){.card-img-top}](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814)
+  [![TVMConf Zachary Tatlock Relay Release 2019](thumb/2019-12-tvm-relay-release.png){.card-img-top}](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814)
 :::
 ::: {.card-body}
-  I gave a [talk on the TVM Relay IR](talks.html#talk-2019-12-tvm-relay)
+  I gave a [talk on the TVM Relay release](talks.html#talk-2019-12-tvm-relay-release)
   at the [TVM Conference](https://sampl.cs.washington.edu/tvmconf/)
   in December 2019.
+  Major kudos to [Jared] and the whole crew behind
+  [Relay](https://tvm.apache.org/docs/dev/index.html#tvm-relay)!
   I also got to chair the lightning talks,
   so many stellar contributions from
   our incredible community &#x1F91D;

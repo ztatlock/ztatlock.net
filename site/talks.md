@@ -97,18 +97,18 @@ and strengthen our research community.
 <!-- -->
 
 
-::: {#talk-2019-12-tvm-relay .anchor}
+::: {#talk-2019-12-tvm-relay-release .anchor}
 ::: {.talk-entry}
   **TVM Relay: A Functional IR for Analysis and Optimization** \
   [Zachary Tatlock] \
   TVM Conference on 2019-12-05 \
-  [abstract](#abs-2019-12-tvm-relay){aria-controls='abs-2019-12-tvm-relay' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [abstract](#abs-2019-12-tvm-relay-release){aria-controls='abs-2019-12-tvm-relay-release' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [talk](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814) &nbsp;
-  [slides](talks/2019-12-tvm-relay-slides.pdf) &nbsp;
+  [slides](talks/2019-12-tvm-relay-release-slides.pdf) &nbsp;
   [event](https://sampl.cs.washington.edu/tvmconf/) &nbsp;
 :::
 :::
-::: {#abs-2019-12-tvm-relay .collapse}
+::: {#abs-2019-12-tvm-relay-release .collapse}
 ::: {.card .card-body .abs-card}
 
 In this talk, I briefly sketch Relay's key design features
