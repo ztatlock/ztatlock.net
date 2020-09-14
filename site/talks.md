@@ -9,7 +9,6 @@
 ::: {#talk-2020-08-madpl-backward-geometry-synthesis .anchor}
 ::: {.talk-entry}
   **Synthesizing Backward through the Geometry Pipeline** \
-  [Zachary Tatlock] \
   madPL Seminar, University of Wisconsin on 2020-08-19 \
   [abstract](#abs-2020-08-madpl-backward-geometry-synthesis){aria-controls='abs-2020-08-madpl-backward-geometry-synthesis' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [talk](https://www.youtube.com/watch?v=vOUP2wT-k1U) &nbsp;
@@ -100,7 +99,6 @@ and strengthen our research community.
 ::: {#talk-2019-12-tvm-relay-release .anchor}
 ::: {.talk-entry}
   **TVM Relay: A Functional IR for Analysis and Optimization** \
-  [Zachary Tatlock] \
   TVM Conference on 2019-12-05 \
   [abstract](#abs-2019-12-tvm-relay-release){aria-controls='abs-2019-12-tvm-relay-release' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [talk](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814) &nbsp;
@@ -116,6 +114,40 @@ and survey all the amazing progress that's made using it
 to develop and extend tools in the TVM ecosystem.
 
 <!-- TODO flesh out abstract -->
+
+<!-- See also: -->
+<!-- TODO -->
+
+:::
+:::
+
+
+<!-- -->
+
+
+::: {#talk-2018-09-galois-verdi .anchor}
+::: {.talk-entry}
+  **Formally Verifying Implementations of Distributed Systems** \
+  Galois Inc on 2018-09-13 \
+  [abstract](#abs-2018-09-galois-verdi){aria-controls='abs-2018-09-galois-verdi' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [slides](talks/2018-09-galois-verdi-slides.pdf) &nbsp;
+  [event](https://galois.com/blog/2018/09/public-tech-talk-formally-verifying-implementations-of-distributed-systems/) &nbsp;
+:::
+:::
+::: {#abs-2018-09-galois-verdi .collapse}
+::: {.card .card-body .abs-card}
+
+Distributed systems are difficult to implement correctly because they must
+handle both concurrency and failures: machines may crash at arbitrary points
+and networks may reorder, drop, or duplicate packets. Further, their behavior
+is often too complex to permit exhaustive testing. In this talk, we’ll survey
+the [Verdi] project which provides a framework for implementing and formally
+verifying implementations of distributed systems in Coq. Verdi eases the
+verification burden by enabling developers to first verify their system under
+an idealized fault model, then transfer the resulting correctness guarantees to
+a more realistic fault model without any additional proof burden. Using this
+approach, the Verdi team produced the first correctness proof for an
+implementation of the Raft distributed consensus protocol.
 
 <!-- See also: -->
 <!-- TODO -->

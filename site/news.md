@@ -155,17 +155,22 @@
 :::
 :::
 
+::: {.card .news-item}
+
+  <!-- -->
+  ![Galois Verdi 2018](thumb/2018-09-galois-verdi.png){.card-img-top}
+
+::: {.card-body}
+  I gave [a talk at Galois](talks.html#talk-2018-09-galois-verdi)
+  on [Verdi] in September 2018.
+  It's always a blast to catch up with and learn from their razor sharp team!
+:::
+:::
+
 
 
 
 <!-- HERE -->
-
-September, 2018
-
-- I gave [a talk at Galois](https://galois.com/blog/2018/09/public-tech-talk-formally-verifying-implementations-of-distributed-systems/)
-  on [Verdi]
-  ([slides](pubs/2018-09-13-galois-verdi.pdf)).
-  It's always a blast to catch up with the group there and I learned a bunch :)
 
 July, 2018
 
