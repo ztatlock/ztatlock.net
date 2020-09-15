@@ -157,8 +157,7 @@
 
 ::: {.card .news-item}
 
-  <!-- -->
-  ![Galois Verdi 2018](thumb/2018-09-galois-verdi.png){.card-img-top}
+  [![Galois Verdi 2018](thumb/2018-09-galois-verdi.png){.card-img-top}](talks.html#talk-2018-09-galois-verdi)
 
 ::: {.card-body}
   I gave [a talk at Galois](talks.html#talk-2018-09-galois-verdi)
@@ -167,21 +166,25 @@
 :::
 :::
 
+::: {.card .news-item}
+
+  [![DeepSpec Summer School 2018](thumb/2018-07-deepspec-summer-school.png){.card-img-top}](teaching.html#course-2018-deepspec-summer-school)
+
+::: {.card-body}
+  I taught a short course on
+  [verifying distributed systems implementations in Coq](teaching.html#course-2018-deepspec-summer-school)
+  during the [DeepSpec Summer School](https://deepspec.org/event/dsss18/)
+  at Princeton in July 2018;
+  see the [tutorials, exercises, slides](https://github.com/DeepSpec/dsss18/tree/master/verdi)
+  and [videos](https://www.youtube.com/playlist?list=PLF8nG15tV6C8VAUCZfsIMDnGxjTrh016I).
+  Thanks to the organizers for a spectacular event!
+:::
+:::
+
 
 
 
 <!-- HERE -->
-
-July, 2018
-
-- I taught about [Verdi] and
-  [Distributed Components](https://distributedcomponents.net/) at the
-  [DeepSpec Summer School](https://deepspec.org/event/dsss18/) in Princeton;
-  see the [tutorials, exercises, slides](https://github.com/DeepSpec/dsss18/tree/master/verdi)
-  and [videos](https://www.youtube.com/playlist?list=PLF8nG15tV6C8VAUCZfsIMDnGxjTrh016I).
-  Thanks to the organizers for a spectacular event!
-
-  ![DeepSpec Summer School 2018](img/2018-07-deepspec-summer-school.png){width=600px} \
 
 - I gave an invited talk on verifying distributed systems at the
   [Coq Workshop](https://coqworkshop2018.inria.fr/)

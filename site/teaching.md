@@ -35,3 +35,35 @@
 I was honored to be nominated for the
 [UW Distinguished Teaching Award](https://www.washington.edu/teaching/programs/teaching-awards/nominees-award-recipients/awards-recipients/)
 in 2015.
+
+&nbsp;
+
+## Summer School
+
+::: {#course-2018-deepspec-summer-school .anchor}
+::: {.talk-entry}
+  **Verifying Distributed Systems Implementations in Coq** \
+  [DeepSpec Summer School 2018](https://deepspec.org/event/dsss18/index.html) \
+  [abstract](#abs-2018-deepspec-summer-school){aria-controls='abs-2018-deepspec-summer-school' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [materials](https://github.com/DeepSpec/dsss18/tree/master/verdi) &nbsp;
+  [lectures](https://www.youtube.com/playlist?list=PLF8nG15tV6C8VAUCZfsIMDnGxjTrh016I) &nbsp;
+:::
+:::
+::: {#abs-2018-deepspec-summer-school .collapse}
+::: {.card .card-body .abs-card}
+
+This was a short course introducing [Verdi].
+
+<!-- TODO write an abstract -->
+
+<!-- See also: -->
+<!-- TODO -->
+
+:::
+:::
+
+
+<!-- -->
+
+
+
