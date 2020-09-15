@@ -219,13 +219,20 @@
 :::
 :::
 
-<!-- HERE -->
+::: {.card .news-item}
 
-August, 2017
+  [![CACM Neutrons 2017](thumb/2017-08-cacm-neutrons-cnts-control-panel.jpg){.card-img-top}](http://neutrons.uwplse.org/)
 
-- A [CACM article](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
+::: {.card-body}
+  A [CACM article](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
   on "Hacker Proof Coding" reported on some of our work
-  [analyzing radiotherapy control software](http://neutrons.uwplse.org).
+  [analyzing radiotherapy control software](http://neutrons.uwplse.org)
+  in August 2017.
+:::
+:::
+
+
+<!-- HERE -->
 
 May, 2017
 
