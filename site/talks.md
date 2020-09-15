@@ -159,4 +159,40 @@ implementation of the Raft distributed consensus protocol.
 <!-- -->
 
 
+::: {#talk-2018-07-coqworkshop-verdi .anchor}
+::: {.talk-entry}
+  **Formally Verifying Distributed Systems in Coq** \
+  Coq Workshop on 2018-07-08 \
+  [abstract](#abs-2018-07-coqworkshop-verdi){aria-controls='abs-2018-07-coqworkshop-verdi' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [slides](https://easychair.org/smart-slide/slide/gJSP#) &nbsp;
+  [event](https://coqworkshop2018.inria.fr/program/) &nbsp;
+:::
+:::
+::: {#abs-2018-07-coqworkshop-verdi .collapse}
+::: {.card .card-body .abs-card}
+
+<!-- TODO update -->
+
+Distributed systems are difficult to implement correctly because they must
+handle both concurrency and failures: machines may crash at arbitrary points
+and networks may reorder, drop, or duplicate packets. Further, their behavior
+is often too complex to permit exhaustive testing. In this talk, we’ll survey
+the [Verdi] project which provides a framework for implementing and formally
+verifying implementations of distributed systems in Coq. Verdi eases the
+verification burden by enabling developers to first verify their system under
+an idealized fault model, then transfer the resulting correctness guarantees to
+a more realistic fault model without any additional proof burden. Using this
+approach, the Verdi team produced the first correctness proof for an
+implementation of the Raft distributed consensus protocol.
+
+<!-- See also: -->
+<!-- TODO -->
+
+:::
+:::
+
+
+<!-- -->
+
+
 

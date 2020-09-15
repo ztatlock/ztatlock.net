@@ -181,25 +181,29 @@
 :::
 :::
 
+::: {.card .news-item}
 
+  [![Coq Workshop 2018 Verdi](thumb/2018-07-coqworkshop-verdi.png){.card-img-top}](talks.html#talk-2018-07-coqworkshop-verdi)
 
+::: {.card-body}
+  I gave an
+  [invited talk on verifying distributed systems](talks.html#talk-2018-07-coqworkshop-verdi)
+  at the [Coq Workshop](https://coqworkshop2018.inria.fr/)
+  during FLOC 2018 in Oxford, July 2018.
+:::
+:::
 
-<!-- HERE -->
+::: {.card .news-item}
 
-- I gave an invited talk on verifying distributed systems at the
-  [Coq Workshop](https://coqworkshop2018.inria.fr/)
-  in Oxford. Check out the
-  [slides](https://easychair.org/smart-slide/slide/gJSP#)
-  for more.
+  [![PLDI PLMW 2018](thumb/2018-06-pldi-plmw.png){.card-img-top}](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers)
 
-June, 2018
-
-- I had the honor of speaking during
+::: {.card-body}
+  In June 2018 I was honored to speak during
   [PLMW @ PLDI](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers).
-  It was a great event for junior researchers in PL;
-  many thanks to the wonderful participants and
-  to the organizers for all the hard work!
-
+  It was a great mentorship event for junior researchers in PL;
+  many thanks to the wonderful participants and organizers!
+:::
+:::
 
 ::: {.card .news-item}
 
@@ -214,6 +218,8 @@ June, 2018
     stay tuned for future events!
 :::
 :::
+
+<!-- HERE -->
 
 August, 2017
 
