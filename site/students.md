@@ -1,5 +1,7 @@
 % Students
 
+<!-- TODO STARS -->
+
 # Current Students
 
 ::: indent
@@ -51,8 +53,6 @@
       &nbsp; &nbsp; &rarr; PhD Student at Utah
   - [Logan Weber], MS 2020 \
       &nbsp; &nbsp; &rarr; PhD Student at MIT
-  - [Chen Qiu], MS 2019 \
-      &nbsp; &nbsp; &rarr; Facebook
   - [Alex Sanchez-Stern], MS 2015 \
       &nbsp; &nbsp; &rarr; PhD Student at UCSD
 
@@ -62,8 +62,17 @@
       &nbsp; &nbsp; &rarr; [OctoML]
   - [Josh Pollock], BS 2020 \
       &nbsp; &nbsp; &rarr; PhD Student at MIT
+  - [Taylor Blau], BS 2020 \
+      &nbsp; &nbsp; &rarr; GitHub
   - [David Thien], BS 2019 \
       &nbsp; &nbsp; &rarr; PhD Student at UCSD
+  - [Jifan Zhang], BS 2019 \
+      &nbsp; &nbsp; &rarr; MS Student at UW with Kevin Jamieson
+  - [Melissa Hovik], BS 2018 \
+      &nbsp; &nbsp; &rarr; MS Student and Instructor at UW
+  - [Chen Qiu], BS 2018 \
+      &nbsp; &nbsp; &rarr; MS Student at UW \
+      &nbsp; &nbsp; &rarr; Facebook
   - [Justin Adsuara], BS 2018 \
       &nbsp; &nbsp; &rarr; Hilton Hotels
   - [Adam Geller], BS 2018 \
