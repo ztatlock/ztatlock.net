@@ -82,6 +82,14 @@
   [code](https://github.com/helm-compiler) &nbsp;
   [project](https://grail.cs.washington.edu/projects/carpentrycompiler/) &nbsp;
   [bib](pubs/2019-siga-carpentry-compiler.bib) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -99,6 +107,14 @@
   [slides](pubs/2019-oopsla-troika-modular-layout-verification-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/cassius/) &nbsp;
   [project](https://cassius.uwplse.org/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -112,6 +128,14 @@
   [Josh Pollock], [Jared Roesch], [Doug Woos], [Zachary Tatlock] \
   ACM SIGPLAN Symposium on SPLASH-E 2019 \
   [paper](pubs/2019-splashe-theia-psv-viz.pdf) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -167,6 +191,14 @@
   [FPBench] &nbsp;
   [Titanic] &nbsp;
   [Herbie] &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -181,6 +213,14 @@
   Computer-Aided Verification (CAV) 2019 \
   [paper](pubs/2019-cav-icing-verified-fastmath.pdf) &nbsp;
   [slides](pubs/2019-cav-icing-verified-fastmath-slides.pdf) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -197,6 +237,14 @@
   [talk](https://youtu.be/zip-v2aR2WM?t=2693) &nbsp;
   [slides](pubs/2019-eurosys-dslabs-slides.pdf) &nbsp;
   [code](https://github.com/emichael/dslabs) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -259,6 +307,14 @@
   [Daisy](https://github.com/malyzajko/daisy) &nbsp;
   [Herbie](http://herbie.uwplse.org/) &nbsp;
   [FPBench](http://fpbench.org/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -276,6 +332,14 @@
   [CakeML](https://cakeml.org/) &nbsp;
   [Oeuf](http://oeuf.uwplse.org/) &nbsp;
   [bib](pubs/2018-itp-binary-code-extraction.bib) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -293,6 +357,14 @@
   [slides](pubs/2018-popl-disel-slides.pdf) &nbsp;
   [code](https://github.com/DistributedComponents/disel) &nbsp;
   [project](https://distributedcomponents.net/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -309,6 +381,14 @@
   [slides](pubs/2018-cpp-oeuf-coq-compiler-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/oeuf) &nbsp;
   [project](http://oeuf.uwplse.org/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -326,6 +406,14 @@
   [slides](pubs/2018-pldi-vizassert-web-layout-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/cassius/) &nbsp;
   [project](https://cassius.uwplse.org/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -343,6 +431,14 @@
   [slides](pubs/2018-mapl-relay-ir-slides.pdf) &nbsp;
   [code](https://github.com/apache/incubator-tvm/issues/1673) &nbsp;
   [project](https://sampl.cs.washington.edu/projects/relay.html) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -360,6 +456,14 @@
   [slides](http://herbgrind.ucsd.edu/pldi18-talk/) &nbsp;
   [code](https://github.com/uwplse/herbgrind) &nbsp;
   [project](http://herbgrind.ucsd.edu/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -378,14 +482,22 @@
   [slides](pubs/2017-icfp-spacesearch-verifying-solver-aided-tools-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/bagpipe) &nbsp;
   [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
 
-<!-- -->
+<!-- 2017-05 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2017-snapl-incarnate-pl-for-3d-printing .anchor}
 ::: {.pub-entry}
   **Programming Language Tools and Techniques for 3D Printing** \
   [Chandrakana Nandi], [Anat Caspi], [Dan Grossman] \
@@ -393,14 +505,41 @@
   [paper](pubs/2017-snapl-incarnate-pl-for-3d-printing.pdf) &nbsp;
   [slides](pubs/2017-snapl-incarnate-pl-for-3d-printing-slides.pdf) &nbsp;
   [project](http://incarnate.uwplse.org/) &nbsp;
+  [bib](#bib-2017-snapl-incarnate-pl-for-3d-printing){aria-controls='bib-2017-snapl-incarnate-pl-for-3d-printing' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2017-snapl-incarnate-pl-for-3d-printing .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2017-snapl-incarnate-pl-for-3d-printing,
+  author    = {Chandrakana Nandi and
+               Anat Caspi and
+               Dan Grossman and
+               Zachary Tatlock},
+  editor    = {Benjamin S. Lerner and
+               Rastislav Bod{\'{\i}}k and
+               Shriram Krishnamurthi},
+  title     = {Programming Language Tools and Techniques for 3D Printing},
+  booktitle = {2nd Summit on Advances in Programming Languages, {SNAPL} 2017,
+               May 7-10, 2017, Asilomar, CA, {USA}},
+  series    = {LIPIcs},
+  volume    = {71},
+  pages     = {10:1--10:12},
+  publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year      = {2017},
+  url       = {https://doi.org/10.4230/LIPIcs.SNAPL.2017.10},
+  doi       = {10.4230/LIPIcs.SNAPL.2017.10},
+}
+```
 :::
 :::
 
 
-<!-- -->
+<!-- 2017-05 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2017-snapl-disel-pl-for-distributed-systems .anchor}
 ::: {.pub-entry}
   **Programming Language Abstractions for Modularly Verified Distributed Systems** \
   [James R. Wilcox], [Ilya Sergey], [Zachary Tatlock] \
@@ -408,6 +547,33 @@
   [paper](pubs/2017-snapl-disel-pl-for-distributed-systems.pdf) &nbsp;
   [slides](pubs/2017-snapl-disel-pl-for-distributed-systems-slides.pdf) &nbsp;
   [project](https://distributedcomponents.net) &nbsp;
+  [bib](#bib-2017-snapl-disel-pl-for-distributed-systems){aria-controls='bib-2017-snapl-disel-pl-for-distributed-systems' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2017-snapl-disel-pl-for-distributed-systems .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2017-snapl-disel-pl-for-distributed-systems,
+  author    = {James R. Wilcox and
+               Ilya Sergey and
+               Zachary Tatlock},
+  editor    = {Benjamin S. Lerner and
+               Rastislav Bod{\'{\i}}k and
+               Shriram Krishnamurthi},
+  title     = {Programming Language Abstractions for
+               Modularly Verified Distributed Systems},
+  booktitle = {2nd Summit on Advances in Programming Languages, {SNAPL} 2017,
+               May 7-10, 2017, Asilomar, CA, {USA}},
+  series    = {LIPIcs},
+  volume    = {71},
+  pages     = {19:1--19:12},
+  publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year      = {2017},
+  url       = {https://doi.org/10.4230/LIPIcs.SNAPL.2017.19},
+  doi       = {10.4230/LIPIcs.SNAPL.2017.19},
+}
+```
 :::
 :::
 
@@ -426,6 +592,14 @@
   [code](https://github.com/uwplse/neutrons) &nbsp;
   [project](http://neutrons.uwplse.org) &nbsp;
   [I Am CSE](https://www.youtube.com/watch?v=QdR9_TJ1br8) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -444,6 +618,14 @@
   [slides](pubs/2016-nsv-fpbench-slides.pdf) &nbsp;
   [code](https://github.com/FPBench/FPBench) &nbsp;
   [project](http://fpbench.org/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -461,6 +643,14 @@
   [code](https://github.com/uwplse/verdi-raft) &nbsp;
   [Verdi](http://verdi.uwplse.org) &nbsp;
   [Proof Engineering](https://proofengineering.org) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -478,6 +668,14 @@
   [slides](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/bagpipe) &nbsp;
   [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -494,6 +692,14 @@
   [talk](https://www.youtube.com/watch?v=h4KoLyTh0zY) &nbsp;
   [code](https://github.com/uwplse/peek) &nbsp;
   [project](http://peek.uwplse.org/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -511,6 +717,14 @@
   [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
   [code](https://github.com/sonyaa/roboflow) &nbsp;
   [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -528,6 +742,14 @@
   [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
   [code](https://github.com/sonyaa/roboflow) &nbsp;
   [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -547,6 +769,14 @@
   [code](https://github.com/uwplse/herbie) &nbsp;
   [project](http://herbie.uwplse.org/) &nbsp;
   <br> *Distinguished Paper Award*
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -566,6 +796,14 @@
   [poster](pubs/2015-pldi-verdi-verifying-distributed-systems-poster.pdf) &nbsp;
   [code](https://github.com/uwplse/verdi) &nbsp;
   [project](http://verdi.uwplse.org/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -583,6 +821,14 @@
   [slides](pubs/2015-snapl-neutrons-radiotherapy-safety-slides.pdf) &nbsp;
   [project](http://neutrons.uwplse.org/) &nbsp;
   [I Am CSE](https://www.youtube.com/watch?v=QdR9_TJ1br8) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -597,6 +843,14 @@
   Network and Distributed System Security (NDSS) 2014 \
   [paper](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense.pdf) &nbsp;
   [slides](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense-slides.pdf) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -615,6 +869,14 @@
   [code](https://css.csail.mit.edu/jitk/) &nbsp;
   [project](https://css.csail.mit.edu/jitk/) &nbsp;
   [bib](pubs/2014-osdi-jitk-verified-bpf.bib) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -632,6 +894,14 @@
   [slides](pubs/2014-pldi-reflex-reactive-systems-coq-slides.pdf) &nbsp;
   [code](https://github.com/UCSD-PL/kraken) &nbsp;
   [project](http://goto.ucsd.edu/reflex/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -651,6 +921,14 @@
   [poster](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser-poster.pdf) &nbsp;
   [code](http://goto.ucsd.edu/quark/quark-0807.tar.gz) &nbsp;
   [project](http://goto.ucsd.edu/quark/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -665,6 +943,14 @@
   Logical Methods in Computer Science (LMCS) 2011 \
   [paper](pubs/2011-lmcs-equality-saturation-optimizations-egraphs.pdf) &nbsp;
   [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -680,6 +966,14 @@
   [paper](pubs/2010-pldi-xcert-extensible-verified-compilers.pdf) &nbsp;
   [slides](pubs/2010-pldi-xcert-extensible-verified-compilers-slides.pdf) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/collider.html) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -697,6 +991,14 @@
   [slides](pubs/2009-popl-equality-saturation-optimizations-egraphs-slides.pdf) &nbsp;
   [code](http://goto.ucsd.edu/~mstepp/peggy/) &nbsp;
   [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -714,6 +1016,14 @@
   [slides](pubs/2009-pldi-pec-compiler-optimization-verification-slides.pdf) &nbsp;
   [code](https://github.com/ztatlock/pec) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/collider.html) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 
@@ -730,6 +1040,14 @@
   [slides](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-slides.pptx) &nbsp;
   [poster](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-poster.pdf) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/quail.html) &nbsp;
+  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib- .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
 :::
 :::
 

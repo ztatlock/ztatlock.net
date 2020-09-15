@@ -314,52 +314,6 @@
 ```
 
 ```
-@inproceedings{DBLP:conf/snapl/NandiCGT17,
-  author    = {Chandrakana Nandi and
-               Anat Caspi and
-               Dan Grossman and
-               Zachary Tatlock},
-  editor    = {Benjamin S. Lerner and
-               Rastislav Bod{\'{\i}}k and
-               Shriram Krishnamurthi},
-  title     = {Programming Language Tools and Techniques for 3D Printing},
-  booktitle = {2nd Summit on Advances in Programming Languages, {SNAPL} 2017, May
-               7-10, 2017, Asilomar, CA, {USA}},
-  series    = {LIPIcs},
-  volume    = {71},
-  pages     = {10:1--10:12},
-  publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-  year      = {2017},
-  url       = {https://doi.org/10.4230/LIPIcs.SNAPL.2017.10},
-  doi       = {10.4230/LIPIcs.SNAPL.2017.10},
-  timestamp = {Tue, 11 Feb 2020 15:52:14 +0100},
-}
-```
-
-```
-@inproceedings{DBLP:conf/snapl/WilcoxST17,
-  author    = {James R. Wilcox and
-               Ilya Sergey and
-               Zachary Tatlock},
-  editor    = {Benjamin S. Lerner and
-               Rastislav Bod{\'{\i}}k and
-               Shriram Krishnamurthi},
-  title     = {Programming Language Abstractions for Modularly Verified Distributed
-               Systems},
-  booktitle = {2nd Summit on Advances in Programming Languages, {SNAPL} 2017, May
-               7-10, 2017, Asilomar, CA, {USA}},
-  series    = {LIPIcs},
-  volume    = {71},
-  pages     = {19:1--19:12},
-  publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-  year      = {2017},
-  url       = {https://doi.org/10.4230/LIPIcs.SNAPL.2017.19},
-  doi       = {10.4230/LIPIcs.SNAPL.2017.19},
-  timestamp = {Tue, 11 Feb 2020 15:52:14 +0100},
-}
-```
-
-```
 @inproceedings{DBLP:conf/cav/PernsteinerLTTW16,
   author    = {Stuart Pernsteiner and
                Calvin Loncaric and

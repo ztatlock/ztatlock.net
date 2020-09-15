@@ -231,15 +231,28 @@
 :::
 :::
 
+::: {.card .news-item}
 
-<!-- HERE -->
+  [![SNAPL 2017](thumb/2017-05-snapl.jpg){.card-img-top}](https://snapl.org/2017/papers.html)
 
-May, 2017
-
-- Had a blast at [SNAPL 2017](https://snapl.org/2017/)
+::: {.card-body}
+  Had a blast at [SNAPL](https://snapl.org/2017/) in May 2017
   catching up with folks and discussing new, big ideas in PL research!
 
-  ![SNAPL 2017 Group](https://snapl.org/2017/images/SNAPLers.jpg){width=600px} \
+  [James] presented
+  [our paper](publications.html#pub-2017-snapl-disel-pl-for-distributed-systems)
+  on early ideas for "horizontal composition" of
+  [verified distributed systems components](https://distributedcomponents.net/).
+
+  [Chandrakana] presented
+  [our paper](publications.html#pub-2017-snapl-incarnate-pl-for-3d-printing)
+  on early ideas for exploring the
+  [intersection of PL and fabrication](http://incarnate.uwplse.org/).
+:::
+:::
+
+
+<!-- HERE -->
 
 February, 2017
 
