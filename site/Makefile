@@ -38,7 +38,7 @@ sync:
 		--copy-dirlinks \
 		--delete \
 		--force \
-		stage/ ztatlock@tatlock.net:/var/www/tatlock.net
+		stage/ ztatlock@ztatlock.net:/var/www/ztatlock.net
 
 .PHONY: publish
 publish: stage sync
