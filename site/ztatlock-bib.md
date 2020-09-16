@@ -314,32 +314,6 @@
 ```
 
 ```
-@inproceedings{DBLP:conf/cav/PernsteinerLTTW16,
-  author    = {Stuart Pernsteiner and
-               Calvin Loncaric and
-               Emina Torlak and
-               Zachary Tatlock and
-               Xi Wang and
-               Michael D. Ernst and
-               Jonathan Jacky},
-  editor    = {Swarat Chaudhuri and
-               Azadeh Farzan},
-  title     = {Investigating Safety of a Radiotherapy Machine Using System Models
-               with Pluggable Checkers},
-  booktitle = {Computer Aided Verification - 28th International Conference, {CAV}
-               2016, Toronto, ON, Canada, July 17-23, 2016, Proceedings, Part {II}},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {9780},
-  pages     = {23--41},
-  publisher = {Springer},
-  year      = {2016},
-  url       = {https://doi.org/10.1007/978-3-319-41540-6\_2},
-  doi       = {10.1007/978-3-319-41540-6\_2},
-  timestamp = {Sun, 23 Jun 2019 01:00:00 +0200},
-}
-```
-
-```
 @inproceedings{DBLP:conf/cav/DamoucheMPQST16,
   author    = {Nasrine Damouche and
                Matthieu Martel and

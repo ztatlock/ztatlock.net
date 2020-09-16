@@ -264,25 +264,21 @@
 :::
 :::
 
+::: {.card .news-item}
+::: {.play-btn}
+  [![Neutrons I Am CSE](thumb/2016-03-neutrons-iamcse.png){.card-img-top}](https://www.youtube.com/watch?v=QdR9_TJ1br8)
+:::
+::: {.card-body}
+  [Emina] and I talked about our work
+  [analyzing radiotherapy control software](publications.html#pub-2016-cav-neutrons-radiotherapy-safety)
+  for an
+  [I Am CSE](https://www.youtube.com/watch?v=QdR9_TJ1br8)
+  video in March 2016 &#x2622;
+:::
+:::
 
-
-
-<!-- HERE -->
-
-March, 2016
-
-- [Emina] and I did an "I Am CSE" video on our work
-  [analyzing radiotherapy control software](http://neutrons.uwplse.org).
-
-  <iframe
-    width="600"
-    height="350"
-    src="https://www.youtube.com/embed/QdR9_TJ1br8"
-    frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-
+<!--
+TODO
 December 2015
 
 - [Doug] gave a presentation on type theory, Coq, and verifying distributed
@@ -290,3 +286,4 @@ December 2015
   [1](https://vimeo.com/155383739),
   [2](https://vimeo.com/155384206),
   [3](https://vimeo.com/155385336)).
+-->

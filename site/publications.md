@@ -13,8 +13,6 @@
 # Publications
 
 <!-- HERE -->
-<!-- HERE -->
-<!-- HERE -->
 
 
 <!-- 2020-06 -->
@@ -578,10 +576,10 @@
 :::
 
 
-<!-- -->
+<!-- 2016-07 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2016-cav-neutrons-radiotherapy-safety .anchor}
 ::: {.pub-entry}
   **Investigating Safety of a Radiotherapy Machine Using System Models with Pluggable Checkers** \
   [Stuart Pernsteiner], [Calvin Loncaric], [Emina Torlak], [Zachary Tatlock], \
@@ -592,13 +590,35 @@
   [code](https://github.com/uwplse/neutrons) &nbsp;
   [project](http://neutrons.uwplse.org) &nbsp;
   [I Am CSE](https://www.youtube.com/watch?v=QdR9_TJ1br8) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2016-cav-neutrons-radiotherapy-safety){aria-controls='bib-2016-cav-neutrons-radiotherapy-safety' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2016-cav-neutrons-radiotherapy-safety .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2016-cav-neutrons-radiotherapy-safety,
+  author    = {Stuart Pernsteiner and
+               Calvin Loncaric and
+               Emina Torlak and
+               Zachary Tatlock and
+               Xi Wang and
+               Michael D. Ernst and
+               Jonathan Jacky},
+  editor    = {Swarat Chaudhuri and
+               Azadeh Farzan},
+  title     = {Investigating Safety of a Radiotherapy Machine Using System Models
+               with Pluggable Checkers},
+  booktitle = {Computer Aided Verification - 28th International Conference,
+               {CAV} 2016, Toronto, ON, Canada, July 17-23, 2016, Proceedings, Part {II}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {9780},
+  pages     = {23--41},
+  publisher = {Springer},
+  year      = {2016},
+  url       = {https://doi.org/10.1007/978-3-319-41540-6\_2},
+  doi       = {10.1007/978-3-319-41540-6\_2},
+}
 ```
 :::
 :::
