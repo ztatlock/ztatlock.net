@@ -195,4 +195,45 @@ implementation of the Raft distributed consensus protocol.
 <!-- -->
 
 
+::: {#talk-2017-02-utah-herbie-herbgrind-fpbench .anchor}
+::: {.talk-entry}
+  **Automatically Improving Accuracy for Floating Point Expressions** \
+  University of Utah on 2017-02-03 \
+  [abstract](#abs-2017-02-utah-herbie-herbgrind-fpbench){aria-controls='abs-2017-02-utah-herbie-herbgrind-fpbench' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [slides](talks/2017-02-utah-herbie-herbgrind-fpbench-slides.pdf) &nbsp;
+  [event](https://www.cs.utah.edu/calendar/colloquium-zach-tatlock/) &nbsp;
+:::
+:::
+::: {#abs-2017-02-utah-herbie-herbgrind-fpbench .collapse}
+::: {.card .card-body .abs-card}
+
+Most engineering and scientific computer programs follow mathematical models
+described by real numbers, but use floating point arithmetic internally.
+Sometimes the two number systems give rather different results, and when that
+happens programmers are often ill-equipped to improve the accuracy of their
+code. Experts in numerical methods can fix these problems by rearranging
+computations, but acquiring that expertise can take years. My colleagues and I
+are working to bridge this gap with [Herbie], a tool that automatically improves
+the accuracy of floating point expressions.
+
+In this talk I will describe the techniques Herbie uses to automatically
+improve floating point accuracy using a guided, heuristic search. Herbie
+applies algebraic rewrites and series expansions to generate
+potentially-more-accurate versions of the program, then samples inputs to
+evaluate, prune, and combine these candidates into a new, more-accurate
+program. We’ve used Herbie on expressions found everywhere from textbooks to
+large-scale surveys of open-source software, and consistently find good
+results. I’ll also briefly discuss next steps for Herbie: scaling up to larger
+codebases and a new format to standardize floating point benchmarks.
+
+<!-- See also: -->
+<!-- TODO -->
+
+:::
+:::
+
+
+<!-- -->
+
+
 

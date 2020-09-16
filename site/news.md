@@ -251,15 +251,23 @@
 :::
 :::
 
+::: {.card .news-item}
+
+  [![Herbie Utah Talk 2017](thumb/2017-02-utah-talk.png){.card-img-top}](talks.html#talk-2017-02-utah-herbie-herbgrind-fpbench)
+
+::: {.card-body}
+  In February 2017, I gave
+  [a talk at Utah](talks.html#talk-2017-02-utah-herbie-herbgrind-fpbench)
+  on [Herbie], [Herbgrind], and [FPBench].
+  Great to sync up with the Utes and try
+  cross country skiing with [Ryan](https://rstutsman.github.io/)!
+:::
+:::
+
+
+
 
 <!-- HERE -->
-
-February, 2017
-
-- I gave
-  [a talk at Utah](https://www.cs.utah.edu/calendar/colloquium-zach-tatlock/)
-  on [Herbie], [Herbgrind], and [FPBench].
-  Great to sync up with the Utes!
 
 March, 2016
 
