@@ -278,7 +278,62 @@
 :::
 
 <!--
+
 TODO
+
+* Our submissions on [Cassius][CASSIUS_PROJECT]
+  and [Herbgrind][HERBGRIND_PROJECT]
+  were both accepted to
+  [PLDI 2018](https://conf.researchr.org/home/pldi-2018).
+  The talks in Philly June 2018 were great!
+
+* [James Wilcox]'s February 2018 article in CACM on
+  [Highlights in Systems Verification](https://dl.acm.org/citation.cfm?id=3132271)
+  has a nice account of [Verdi][VERDI_PROJECT]
+  and other marquee verification successes in the field.
+
+* I was honored to receive an
+  [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1749570&HistoricalAwards=false)
+  in early 2018.
+
+* The September 2018 CACM article on
+  [Hacker-Proof Coding](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
+  featured our work on
+  [verifying radiotherapy control systems][NEUTRONS_PROJECT].
+
+* In Fall 2017 [Neutrons][NEUTRONS_PROJECT] was featured in
+  [CSE News](https://news.cs.washington.edu/2017/08/08/allen-schools-zachary-tatlock-and-neutrons-software-verification-project-featured-in-communications-of-the-acm/).
+
+* In August 2017,
+  [Pavel][Pavel Panchekha] and I
+  presented at a [Dagstuhl on Floating Point][17-FP-DAGSTUHL].
+
+* In June 2017, I gave a
+  [talk at MFPS](http://coalg.org/mfps-calco2017/invited-mfps.html)
+  on the [Bagpipe][BAGPIPE_PROJECT] and [Verdi][VERDI_PROJECT]
+  projects for verifying distributed systems.
+
+* In April 2017, I gave a
+  [talk at Purdue](https://purduepl.github.io/seminars.html)
+  on the [Bagpipe][BAGPIPE_PROJECT]
+  tool for verifying BGP router configurations.
+
+* In February 2017, I gave a
+  [talk at Utah](http://www.cs.utah.edu/calendar/colloquium-zach-tatlock/)
+  on [Herbie][HERBIE_PROJECT],
+  [Herbgrind][HERBGRIND_PROJECT], and
+  [FPBench][FPBENCH_PROJECT].
+
+* I was honored to receive a
+  [Google Faculty Award in 2016](https://research.googleblog.com/2016/02/google-research-awards-fall-2015.html).
+
+* I gave an invited talk at [VSTTE 2016](http://www.cs.toronto.edu/~chechik/vstte16/tatlock.html)
+  on [verifying radiotherapy control software](http://neutrons.uwplse.org/).
+
+* In 2010, I wrote a chapter for [Dipu][Sudipta Kundu]'s book
+  [High-Level Verification](http://www.springer.com/us/book/9781441993588).
+
+
 December 2015
 
 - [Doug] gave a presentation on type theory, Coq, and verifying distributed
@@ -286,4 +341,5 @@ December 2015
   [1](https://vimeo.com/155383739),
   [2](https://vimeo.com/155384206),
   [3](https://vimeo.com/155385336)).
+
 -->

@@ -41,3 +41,17 @@
 ## Organizing
 
 - PNW PLSE 2018 Organizing and Program Committee Chair
+
+<!--
+
+TODO
+
+## PhD Committees
+
+- Molly Carton
+
+## MS Committees
+
+## BS Honors Committees
+
+-->

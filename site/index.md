@@ -28,6 +28,46 @@ If you like building machine learning compilers and systems
 
 <!-- TODO add research vision -->
 
+<!--
+
+TODO
+
+Computer programming is a huge success;
+ it plays a major role in
+ most modern problem solving.
+However, for some problems
+ we still have trouble writing programs
+ that reliably do the right thing.
+My research improves software reliability by
+ developing tools that help programmers
+ ensure their code is safe and accurate.
+
+My students and I focus on important programs,
+ including the software infrastructure
+ that many other programs rely on
+ (compilers, distributed systems, networks);
+ control programs in safety-critical applications
+ (radiotherapy devices);
+ and approximations used in engineering and manufacturing
+ (floating point, 3D printing).
+We spend many hours
+ working out proofs on the whiteboard,
+ but we always build working systems.
+We [release our code][PLSEGITHUB] so
+ others can review and build on our work,
+ and we get free food when we work late.
+
+All our [papers](#publications) and [projects](#projects)
+ are collaborations with incredible [colleagues](#collaborators).
+Our home base is in the vibrant [UW PLSE][PLSE] group
+ and we also have long term collaborations with
+ [SAMPL][SAMPL_PROJECT],
+ [Syslab](https://syslab.cs.washington.edu/),
+ the [Applications Driving Architectures (ADA)](https://adacenter.org/index.php/) Center,
+ and the [SandCat Project](http://sandcat.cs.washington.edu/).
+
+-->
+
 #### Recent News
 
 ::: {.card .news-item}
