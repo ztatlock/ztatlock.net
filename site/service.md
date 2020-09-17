@@ -1,46 +1,51 @@
 % Service
 
+<!-- TODO double check and clean up -->
+
 # Service
 
 ## Reviewing
 
-<!-- TODO add pc links -->
-- PLDI 2021 Program Committee
-- ASPLOS 2021 Program Committee
-- SCF 2020 Subreviewer
-- OOPSLA 2020 External Review Committee
-- ASPLOS 2020 Program Committee
-- ICFP 2019 External Review Committee
-- PLDI 2019 Program Committee
-- CPP 2019 Program Committee
-- ITP 2018 Program Committee
-- TOPLAS Referee 2018
-- POPL 2018 Program Committee
-- Onward! 2017 Program Committee
-- ASPLOS 2017 External Reviewer
-- POPL 2017 External Reviewer
-- PLDI 2016 Program Committee
-- PLDI 2016 Artifact Evaluation Committee co-Chair
-- CPP 2016 Program Committee
-- ASPLOS 2016 External Review Committee
-- POPL 2016 External Review Committee
-- CoqPL 2015 Program Committee
-- POPL 2015 External Review Committee
-- OOPSLA 2014 External Review Committee
-- PLDI 2014 External Review Committee
-- Compiler Construction 2009 External Reviewer
+- [PLDI 2021](https://pldi21.sigplan.org/committee/pldi-2021-papers-program-committee) Program Committee
+- [ASPLOS 2021](https://asplos-conference.org/committees/) Program Committee
+- [SCF 2020](https://scf.acm.org/2020/) External Reviewer
+- [OOPSLA 2020](https://2020.splashcon.org/committee/splash-2020-oopsla-external-review-committee) External Review Committee
+- [PLDI 2020](https://pldi20.sigplan.org/committee/pldi-2020-papers-external-program-committee) External Program Committee
+- [ASPLOS 2020](https://asplos-conference.org/2020/index.html%3Fp=44.html) Program Committee
+- [CPP 2019](https://popl19.sigplan.org/committee/cpp-2019-papers-program-committee) Program Committee
+- [PLDI 2019](https://pldi19.sigplan.org/committee/pldi-2019-papers-program-committee) Program Committee
+- [ICFP 2019](https://icfp19.sigplan.org/committee/icfp-2019-papers-external-review-committee) External Review Committee
+- [ITP 2018](https://itp2018.inria.fr/program-committee/) Program Committee
+- [TOPLAS 2018](https://dl.acm.org/loi/toplas) Referee
+- [POPL 2018](https://popl18.sigplan.org/committee/popl-2018-papers-program-committee) Program Committee
+- [Onward! 2017](https://2017.onward-conference.org/committee/onward-2017-onward-papers-program-committee) Program Committee
+- [ASPLOS 2017](http://novel.ict.ac.cn/ASPLOS2017/committees.html) External Reviewer
+- [POPL 2017](https://popl17.sigplan.org/) External Reviewer
+- [PLDI 2016](https://pldi16.sigplan.org/committee/pldi-2016-program-committee) Program Committee
+- [PLDI 2016](https://pldi16.sigplan.org/committee/research-artifacts-artifact-evaluation-committee) Artifact Evaluation Committee co-Chair
+- [CPP 2016](https://conf.researchr.org/committee/CPP-2016/cpp-2016-papers-program-committee) Program Committee
+- [ASPLOS 2016](https://research.ece.cmu.edu/calcm/asplos2016/organization.html) External Review Committee
+- [POPL 2016](https://popl16.sigplan.org/committee/popl-2016-papers-external-reviewing-committee) External Review Committee
+- [CoqPL 2015](https://coqpl.cs.washington.edu/) Program Committee
+- [POPL 2015](https://popl.mpi-sws.org/2015/) External Review Committee
+- [OOPSLA 2014](https://2014.splashcon.org/committee/oopsla2014-external-review-committee) External Review Committee
+- [PLDI 2014](http://conferences.inf.ed.ac.uk/pldi2014/) External Review Committee
+- [CC 2009](https://dblp.org/db/conf/cc/cc2009.html) External Reviewer
+
+&nbsp; &nbsp; [Researchr Profile](https://conf.researchr.org/profile/conf/zacharytatlock)
 
 ## Mentoring
 
-- [PLMW@PLDI 2018](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers)
-- SPLASH 2017 Doctoral Symposium Program Committee
-- POPL 2016 Student Research Competition Organizer
-- PLDI 2015 Student Research Competition Committee
-- Inspirations at SPLASH 2014 Organizer and Speaker
+- [PLDI 2018](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers) Programming Languages Mentoring Workshop (PLMW) Panelist
+- [SPLASH 2017](https://2017.splashcon.org/committee/splash-2017-doctoral-symposium-program-committee) Doctoral Symposium Program Committee
+- [POPL 2016](https://popl16.sigplan.org/committee/popl-2016-organizing-committee) Student Research Competition Chair
+- [PLDI 2015](https://pldi15.sigplan.org/track/Student+Research+Competition#About) Student Research Competition Committee
+- [SPLASH 2015](https://2015.splashcon.org/committee/splash2015-organizing-committee) Programming Languages Mentoring Workshop (PLMW) Co-Chair
+- [Inspirations at SPLASH 2014](https://2014.splashcon.org/track/splash2014-inspirations#About) Co-Organizer and Speaker
 
 ## Organizing
 
-- PNW PLSE 2018 Organizing and Program Committee Chair
+- [PNW PLSE 2018](http://pnwplse.org/) Organizing and Program Committee Chair
 
 <!--
 
