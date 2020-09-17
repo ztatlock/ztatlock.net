@@ -4,11 +4,11 @@
 
 ## Email
 
-ztatlock @ cs.washington.edu
+[ztatlock @ cs.washington.edu]{.monospace}
 
 My email is aggressively filtered.
 To raise a higher priority interrupt, please contact
-[Anna Wehowsky](mailto:alw10@cs.washington.edu) or
+[Anna Wehowsky](mailto:alw10@cs.washington.edu) and
 [Amanda Robles](mailto:arobles@cs.washington.edu).
 
 ## Office Phone
@@ -17,7 +17,7 @@ To raise a higher priority interrupt, please contact
 
 ## Office
 
-[Bill &amp; Melinda Gates Center](https://www.google.com/maps/place/Bill+%26+Melinda+Gates+Center+For+Computer+Science+%26+Engineering),
+[Bill &amp; Melinda Gates Center](https://goo.gl/maps/nVMAXTZxWmrD3a5V9),
 Room 201
 ([campus map](https://www.washington.edu/maps/#!/cse2))
 

@@ -11,6 +11,8 @@ h1 {
 }
 h2 {
   font-size: 1.4rem;
+  color: #666666;
+  padding-top: 1rem;
 }
 h3 {
   font-size: 1.3rem;
@@ -42,6 +44,9 @@ h5 {
 .clear {
   clear: both;
   margin-bottom: 1rem;
+}
+.monospace {
+  font-family: monospace;
 }
 .indent {
   margin-left: 2rem;
