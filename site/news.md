@@ -4,7 +4,7 @@
 
 ::: {.card .news-item}
 
-  [![egg e-graphs Website](thumb/2020-09-egg-website.png){.card-img-top}][egg]
+  [![egg e-graphs Website](thumb/2020-09-egg-website.png){.card-img-top loading=lazy}][egg]
 
 ::: {.card-body}
   [Max] pushed a new website for [egg] in September 2020.
@@ -16,7 +16,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn .play-btn-shadow}
-  [![madPL 2020](thumb/2020-08-madpl.png){.card-img-top}](https://www.youtube.com/watch?v=vOUP2wT-k1U)
+  [![madPL 2020](thumb/2020-08-madpl.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=vOUP2wT-k1U)
 :::
 ::: {.card-body}
   I gave a talk at
@@ -28,7 +28,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn .play-btn-shadow}
-  [![NSV 2020](thumb/2020-07-nsv.png){.card-img-top}](https://www.youtube.com/watch?v=m_tRUSCRM1M)
+  [![NSV 2020](thumb/2020-07-nsv.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=m_tRUSCRM1M)
 :::
 ::: {.card-body}
   [Pavel] and I gave an invited talk
@@ -39,7 +39,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn}
-  [![PLDI 2020](thumb/2020-06-pldi-szalinski.png){.card-img-top}](https://www.youtube.com/watch?v=2KA602M8t7c)
+  [![PLDI 2020](thumb/2020-06-pldi-szalinski.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=2KA602M8t7c)
 :::
 ::: {.card-body}
   [Chandrakana] gave a great talk at PLDI in June 2020 on Szalinski from our paper
@@ -50,7 +50,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn}
-  [![ADA DTR 2020](thumb/2020-05-ada-dtr-demo.png){.card-img-top}](https://www.youtube.com/watch?v=kxlbpwBJzA4)
+  [![ADA DTR 2020](thumb/2020-05-ada-dtr-demo.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=kxlbpwBJzA4)
 :::
 ::: {.card-body}
   [Steven] wrote, directed, and starred in a demo with the crew on
@@ -65,7 +65,7 @@
 ::: {.card .news-item}
 
   <!-- TODO award link -->
-  ![FACET Award 2020](thumb/2020-05-facet-award.png){.card-img-top}
+  ![FACET Award 2020](thumb/2020-05-facet-award.png){.card-img-top loading=lazy}
 
 ::: {.card-body}
   I was honored to receive a
@@ -77,7 +77,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn}
-  [![Reincarnate I Am CSE](thumb/2020-03-cnandi-iamcse-reincarnate.png){.card-img-top}](https://www.youtube.com/watch?v=G7v3kegE9_g)
+  [![Reincarnate I Am CSE](thumb/2020-03-cnandi-iamcse-reincarnate.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=G7v3kegE9_g)
 :::
 ::: {.card-body}
   [Chandrakana] showed off her work on
@@ -90,7 +90,7 @@
 
 ::: {.card .news-item}
 
-  [![egg Szalinski Firedrake 2020](thumb/2020-02-egg-szalinski-firedrake.png){.card-img-top}][egg]
+  [![egg Szalinski Firedrake 2020](thumb/2020-02-egg-szalinski-firedrake.png){.card-img-top loading=lazy}][egg]
 
 ::: {.card-body}
   [Max] and [Chandrakana] spoke at the
@@ -105,7 +105,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn}
-  [![TVMConf Zachary Tatlock Relay Release 2019](thumb/2019-12-tvm-relay-release.png){.card-img-top}](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814)
+  [![TVMConf Zachary Tatlock Relay Release 2019](thumb/2019-12-tvm-relay-release.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=npqO0hVXZwU&t=1814)
 :::
 ::: {.card-body}
   I gave a [talk on the TVM Relay release](talks.html#talk-2019-12-tvm-relay-release)
@@ -121,7 +121,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn .play-btn-shadow}
-  [![Carpentry Compiler SIGGRAPH Asia 2019](thumb/2019-11-carpentry-compiler.png){.card-img-top}](https://www.youtube.com/watch?v=yaXKP7lv-CI)
+  [![Carpentry Compiler SIGGRAPH Asia 2019](thumb/2019-11-carpentry-compiler.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=yaXKP7lv-CI)
 :::
 ::: {.card-body}
   [Haisen] gave a talk showing off our work on the
@@ -132,7 +132,7 @@
 
 ::: {.card .news-item}
 
-  [![Theia SPLASH-E 2019](thumb/2019-10-theia.png){.card-img-top}](publications.html#pub-2019-splashe-theia-psv-viz)
+  [![Theia SPLASH-E 2019](thumb/2019-10-theia.png){.card-img-top loading=lazy}](publications.html#pub-2019-splashe-theia-psv-viz)
 
 ::: {.card-body}
   [Josh] gave a great talk on
@@ -145,7 +145,7 @@
 ::: {.card .news-item}
 
   <!-- -->
-  ![Tenure 2019](thumb/2019-09-tenure.png){.card-img-top}
+  ![Tenure 2019](thumb/2019-09-tenure.png){.card-img-top loading=lazy}
 
 ::: {.card-body}
   I got tenure in September 2019 and
@@ -157,7 +157,7 @@
 
 ::: {.card .news-item}
 
-  [![Galois Verdi 2018](thumb/2018-09-galois-verdi.png){.card-img-top}](talks.html#talk-2018-09-galois-verdi)
+  [![Galois Verdi 2018](thumb/2018-09-galois-verdi.png){.card-img-top loading=lazy}](talks.html#talk-2018-09-galois-verdi)
 
 ::: {.card-body}
   I gave [a talk at Galois](talks.html#talk-2018-09-galois-verdi)
@@ -168,7 +168,7 @@
 
 ::: {.card .news-item}
 
-  [![DeepSpec Summer School 2018](thumb/2018-07-deepspec-summer-school.png){.card-img-top}](teaching.html#course-2018-deepspec-summer-school)
+  [![DeepSpec Summer School 2018](thumb/2018-07-deepspec-summer-school.png){.card-img-top loading=lazy}](teaching.html#course-2018-deepspec-summer-school)
 
 ::: {.card-body}
   I taught a short course on
@@ -183,7 +183,7 @@
 
 ::: {.card .news-item}
 
-  [![Coq Workshop 2018 Verdi](thumb/2018-07-coqworkshop-verdi.png){.card-img-top}](talks.html#talk-2018-07-coqworkshop-verdi)
+  [![Coq Workshop 2018 Verdi](thumb/2018-07-coqworkshop-verdi.png){.card-img-top loading=lazy}](talks.html#talk-2018-07-coqworkshop-verdi)
 
 ::: {.card-body}
   I gave an
@@ -195,7 +195,7 @@
 
 ::: {.card .news-item}
 
-  [![PLDI PLMW 2018](thumb/2018-06-pldi-plmw.png){.card-img-top}](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers)
+  [![PLDI PLMW 2018](thumb/2018-06-pldi-plmw.png){.card-img-top loading=lazy}](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers)
 
 ::: {.card-body}
   In June 2018 I was honored to speak during
@@ -207,7 +207,7 @@
 
 ::: {.card .news-item}
 
-  [![PNW PLSE 2018](thumb/2018-05-pnw-plse-with-logo.jpg){.card-img-top}](http://pnwplse.org/)
+  [![PNW PLSE 2018](thumb/2018-05-pnw-plse-with-logo.jpg){.card-img-top loading=lazy}](http://pnwplse.org/)
 
 ::: {.card-body}
   I organized the [PNW PLSE](http://pnwplse.org/)
@@ -221,7 +221,7 @@
 
 ::: {.card .news-item}
 
-  [![CACM Neutrons 2017](thumb/2017-08-cacm-neutrons-cnts-control-panel.jpg){.card-img-top}](http://neutrons.uwplse.org/)
+  [![CACM Neutrons 2017](thumb/2017-08-cacm-neutrons-cnts-control-panel.jpg){.card-img-top loading=lazy}](http://neutrons.uwplse.org/)
 
 ::: {.card-body}
   A [CACM article](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)
@@ -233,7 +233,7 @@
 
 ::: {.card .news-item}
 
-  [![SNAPL 2017](thumb/2017-05-snapl.jpg){.card-img-top}](https://snapl.org/2017/papers.html)
+  [![SNAPL 2017](thumb/2017-05-snapl.jpg){.card-img-top loading=lazy}](https://snapl.org/2017/papers.html)
 
 ::: {.card-body}
   Had a blast at [SNAPL](https://snapl.org/2017/) in May 2017
@@ -253,7 +253,7 @@
 
 ::: {.card .news-item}
 
-  [![Herbie Utah Talk 2017](thumb/2017-02-utah-talk.png){.card-img-top}](talks.html#talk-2017-02-utah-herbie-herbgrind-fpbench)
+  [![Herbie Utah Talk 2017](thumb/2017-02-utah-talk.png){.card-img-top loading=lazy}](talks.html#talk-2017-02-utah-herbie-herbgrind-fpbench)
 
 ::: {.card-body}
   In February 2017, I gave
@@ -266,7 +266,7 @@
 
 ::: {.card .news-item}
 ::: {.play-btn}
-  [![Neutrons I Am CSE](thumb/2016-03-neutrons-iamcse.png){.card-img-top}](https://www.youtube.com/watch?v=QdR9_TJ1br8)
+  [![Neutrons I Am CSE](thumb/2016-03-neutrons-iamcse.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=QdR9_TJ1br8)
 :::
 ::: {.card-body}
   [Emina] and I talked about our work
