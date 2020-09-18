@@ -21,7 +21,7 @@
 ::: {#pub-2020-pldi-szalinski-cad-eqsat .anchor}
 ::: {.pub-entry}
   **Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations** \
-  [Chandrakana Nandi], [Max Willsey], [Adam Anderson], [James R. Wilcox], \
+  [Chandrakana Nandi], [Max Willsey], [Adam Anderson], [James R. Wilcox], <br class='big-only'>
   [Eva Darulova], [Dan Grossman], [Zachary Tatlock] \
   Programming Language Design and Implementation (PLDI) 2020 \
   [paper](pubs/2020-pldi-szalinski-cad-eqsat.pdf) &nbsp;
@@ -70,7 +70,7 @@
 ::: {#pub-2019-siga-carpentry-compiler .anchor}
 ::: {.pub-entry}
   **Carpentry Compiler** \
-  [Chenming Wu], [Haisen Zhao], [Chandrakana Nandi], \
+  [Chenming Wu], [Haisen Zhao], [Chandrakana Nandi], <br class='big-only'>
   [Jeffrey I. Lipton], [Zachary Tatlock], [Adriana Schulz] \
   ACM Transactions on Graphics (SIGGRAPH ASIA) 2019 \
   [paper](pubs/2019-siga-carpentry-compiler.pdf) &nbsp;
@@ -253,7 +253,7 @@
 ::: {#pub-2018-icfp-reincarnate-cad-decompiler .anchor}
 ::: {.pub-entry}
   **Functional Programming for Compiling and Decompiling Computer-aided Design** \
-  [Chandrakana Nandi], [James R. Wilcox], [Pavel Panchekha], [Taylor Blau], \
+  [Chandrakana Nandi], [James R. Wilcox], [Pavel Panchekha], [Taylor Blau], <br class='big-only'>
   [Dan Grossman], [Zachary Tatlock] \
   International Conference on Functional Programming (ICFP) 2018 \
   [paper](pubs/2018-icfp-reincarnate-cad-decompiler.pdf) &nbsp;
@@ -422,7 +422,7 @@
 ::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Relay: a New IR for Machine Learning Frameworks** \
-  [Jared Roesch], [Steven Lyubomirsky], [Logan Weber], [Josh Pollock], [Marisa Kirisame], \
+  [Jared Roesch], [Steven Lyubomirsky], [Logan Weber], [Josh Pollock], [Marisa Kirisame], <br class='big-only'>
   [Tianqi Chen], [Zachary Tatlock] \
   Machine Learning and Programming Languages (MAPL) 2018 \
   [paper](pubs/2018-mapl-relay-ir.pdf) &nbsp;
@@ -472,7 +472,7 @@
 ::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **SpaceSearch: A Library for Building and Verifying Solver-aided Tools** \
-  [Konstantin Weitz], [Steven Lyubomirsky], [Stefan Heule], \
+  [Konstantin Weitz], [Steven Lyubomirsky], [Stefan Heule], <br class='big-only'>
   [Emina Torlak], [Michael D. Ernst], [Zachary Tatlock] \
   International Conference on Functional Programming (ICFP) 2017 \
   [paper](pubs/2017-icfp-spacesearch-verifying-solver-aided-tools.pdf) &nbsp;
@@ -582,7 +582,7 @@
 ::: {#pub-2016-cav-neutrons-radiotherapy-safety .anchor}
 ::: {.pub-entry}
   **Investigating Safety of a Radiotherapy Machine Using System Models with Pluggable Checkers** \
-  [Stuart Pernsteiner], [Calvin Loncaric], [Emina Torlak], [Zachary Tatlock], \
+  [Stuart Pernsteiner], [Calvin Loncaric], [Emina Torlak], [Zachary Tatlock], <br class='big-only'>
   [Xi Wang], [Michael D. Ernst], [Jonathan Jacky] \
   Computer-Aided Verification (CAV) 2016 \
   [paper](pubs/2016-cav-neutrons-radiotherapy-safety.pdf) &nbsp;
@@ -630,7 +630,7 @@
 ::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Toward a Standard Benchmark Format and Suite for Floating-Point Analysis** \
-  [Nasrine Damouche], [Matthieu Martel], [Pavel Panchekha], \
+  [Nasrine Damouche], [Matthieu Martel], [Pavel Panchekha], <br class='big-only'>
   [Chen Qiu], [Alexander Sanchez-Stern], [Zachary Tatlock] \
   Numerical Software Verification (NSV) 2016 \
   [paper](pubs/2016-nsv-fpbench.pdf) &nbsp;
@@ -807,7 +807,7 @@
 ::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Verdi: A Framework for Implementing and Formally Verifying Distributed Systems** \
-  [James R. Wilcox], [Doug Woos], [Pavel Panchekha], [Zachary Tatlock], \
+  [James R. Wilcox], [Doug Woos], [Pavel Panchekha], [Zachary Tatlock], <br class='big-only'>
   [Xi Wang], [Michael D. Ernst], [Thomas E. Anderson] \
   Programming Language Design and Implementation (PLDI) 2015 \
   [paper](pubs/2015-pldi-verdi-verifying-distributed-systems.pdf) &nbsp;
@@ -834,7 +834,7 @@
 ::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Toward a Dependability Case Language and Workflow for a Radiation Therapy System** \
-  [Michael D. Ernst], [Dan Grossman], [Jon Jacky], [Calvin Loncaric], \
+  [Michael D. Ernst], [Dan Grossman], [Jon Jacky], [Calvin Loncaric], <br class='big-only'>
   [Stuart Pernsteiner], [Zachary Tatlock], [Emina Torlak], [Xi Wang] \
   Summit oN Advances in Programming Languages (SNAPL) 2015 \
   [paper](pubs/2015-snapl-neutrons-radiotherapy-safety.pdf) &nbsp;

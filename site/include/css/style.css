@@ -4,7 +4,7 @@ html {
 }
 body {
   padding-top: 4.5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 10rem;
 }
 h1 {
   font-size: 1.7rem;
@@ -13,6 +13,7 @@ h2 {
   font-size: 1.4rem;
   color: #666666;
   padding-top: 1rem;
+  font-weight: 300;
 }
 h3 {
   font-size: 1.3rem;
@@ -24,9 +25,19 @@ h5 {
   font-size: 1.1rem;
 }
 
+.big-only {
+  display: none;
+}
+
 @media (min-width: 768px) {
   html {
     font-size: 1.1rem;
+  }
+  .small-only {
+    display: none;
+  }
+  .big-only {
+    display:  initial;
   }
 }
 @media (min-width: 992px) {
@@ -52,10 +63,25 @@ h5 {
   margin-left: 2rem;
 }
 
-/* shift anchors down to compensate for fixed header */
+section.footnotes {
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+  margin-bottom: -10rem;
+}
+.footnotes li:target p {
+  background: #ffffcc;
+  border: 1px solid #ffeb3b;
+  padding: 1em;
+}
+
+/* shift anchors and footnote-refs down to compensate for fixed header */
 .anchor {
   padding-top: 3.75rem;
   margin-top: -3.75rem;
+}
+.footnote-ref {
+  padding-top: 4.75rem;
+  margin-top: -4.75rem;
 }
 
 /* NEWS */
