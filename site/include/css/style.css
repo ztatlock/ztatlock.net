@@ -177,3 +177,18 @@ section.footnotes {
   border: 1px solid #ffeb3b;
 }
 
+/* PROJECTS */
+#proj {
+  margin-top: 1.5rem;
+}
+#proj .row {
+  margin-top: 1.5rem;
+}
+.proj-logo {
+  max-width: 6rem;
+  text-align: center;
+}
+.proj-logo img {
+  height: 4rem;
+}
+
