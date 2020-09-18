@@ -8,12 +8,13 @@ body {
 }
 h1 {
   font-size: 1.7rem;
+  font-weight: 300;
 }
 h2 {
   font-size: 1.4rem;
+  font-weight: 300;
   color: #666666;
   padding-top: 1rem;
-  font-weight: 300;
 }
 h3 {
   font-size: 1.3rem;

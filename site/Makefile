@@ -4,9 +4,9 @@ STAGE_PAGES=$(patsubst %.md,stage/%.html,$(PAGES))
 INCLUDE=$(wildcard include/*)
 STAGE_INCLUDE=$(patsubst include/%,stage/%,$(INCLUDE))
 
-THUMB_DIR=$(HOME)/Dropbox/ztatlock.net-thumbs/thumb
-PUBS_DIR=$(HOME)/Dropbox/ztatlock.net-pubs
-TALKS_DIR=$(HOME)/Dropbox/ztatlock.net-talks
+THUMB_DIR=$(HOME)/Dropbox/ztatlock.net/thumbs/thumb
+PUBS_DIR=$(HOME)/Dropbox/ztatlock.net/pubs
+TALKS_DIR=$(HOME)/Dropbox/ztatlock.net/talks
 
 .PHONY: stage
 stage: $(STAGE_PAGES) $(STAGE_INCLUDE) stage/thumb stage/pubs stage/talks
