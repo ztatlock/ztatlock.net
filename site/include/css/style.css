@@ -16,20 +16,10 @@ h2 {
   color: #666666;
   padding-top: 1rem;
 }
-h3 {
-  font-size: 1.3rem;
-}
-h4 {
-  font-size: 1.2rem;
-}
-h5 {
-  font-size: 1.1rem;
-}
 
 .big-only {
   display: none;
 }
-
 @media (min-width: 768px) {
   html {
     font-size: 1.1rem;
@@ -59,9 +49,6 @@ h5 {
 }
 .monospace {
   font-family: monospace;
-}
-.indent {
-  margin-left: 2rem;
 }
 
 section.footnotes {
@@ -99,7 +86,7 @@ section.footnotes {
 .play-btn {
   position: relative;
 }
-.play-btn img:hover {
+.news-item a img:hover {
   filter: contrast(0.9);
 }
 .play-btn:after {
@@ -123,6 +110,25 @@ section.footnotes {
 #more-news {
   text-align: center;
   font-size: 1.5rem;
+}
+
+/* STUDENTS */
+.ras {
+  margin-top: 1.5rem;
+  font-size: 0.8rem;
+}
+.ras .row {
+  margin-top: 1.5rem;
+}
+.ra-name {
+  font-size: 1.2rem;
+}
+.ra-pic {
+  max-width: 20%;
+  text-align: left;
+}
+.ra-pic img {
+  max-height: 4rem;
 }
 
 
@@ -178,6 +184,7 @@ section.footnotes {
 }
 
 /* PROJECTS */
+/* TODO tweak image size like students? */
 #proj {
   margin-top: 1.5rem;
 }
@@ -187,6 +194,9 @@ section.footnotes {
 .proj-logo {
   max-width: 6rem;
   text-align: center;
+}
+.proj-logo img:hover {
+  filter: contrast(0.9);
 }
 .proj-logo img {
   height: 4rem;

@@ -2,35 +2,153 @@
 
 <!-- TODO STARS -->
 
-# Current Students
-
-::: indent
+# Students
 
 ## PhD
 
-  - [Bill Zorn]^1^
-  - [Jared Roesch]
-  - [Chandrakana Nandi]^1^
-  - [Steven Lyubomirsky]
-  - [Gus Smith]^5^
-  - [Amy Zhu]^6^
+::: {.ras .container}
 
-## Undergraduate
+::: {.row}
+::: {.col}
+  [[Amy Zhu]]{.ra-name} \
+  Joined Summer 2020, Co-advised with [Adriana Schulz] \
+  Working on Rewrite Synthesis and PL for Knitting
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Amy Zhu]
+:::
+:::
 
-  - [Adam Anderson]
-  - [Mike He]
-  - [Brett Saiki]^7^
-  - [Andrew Liu]
+::: {.row}
+::: {.col}
+  [[Gus Smith]]{.ra-name} \
+  Joined Autumn 2018, Co-advised with [Luis Ceze] \
+  Working on Hardware Software Co-design for ML Accelerators
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Gus Smith]
+:::
+:::
 
-## High School
+::: {.row}
+::: {.col}
+  [[Steven Lyubomirsky]]{.ra-name} \
+  Joined Autumn 2016 \
+  Working on Dynamic Tensor Rematerialization and TVM Relay
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Steven Lyubomirsky]
+:::
+:::
 
-  - Grace Oh
+::: {.row}
+::: {.col}
+  [[Chandrakana Nandi]]{.ra-name} \
+  Joined Autumn 2015, Co-advised with [Dan Grossman] \
+  Working on Rewrite Synthesis and PL for 3D Printing
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Chandrakana Nandi]
+:::
+:::
+
+::: {.row}
+::: {.col}
+  [[Jared Roesch]]{.ra-name} \
+  Joined Autumn 2015 \
+  Working on TVM Relay and at [OctoML]
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Jared Roesch]
+:::
+:::
+
+::: {.row}
+::: {.col}
+  [[Bill Zorn]]{.ra-name} \
+  Joined Autumn 2014, Co-advised with [Dan Grossman] \
+  Working on Floating-point Accuracy and Number Systems
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Bill Zorn]
+:::
+:::
 
 :::
 
-# Graduated Students
 
-::: indent
+## Undergraduate
+
+::: {.ras .container}
+
+::: {.row}
+::: {.col}
+  [[Andrew Liu]]{.ra-name} \
+  Joined Summer 2020, Co-Advised with [Gus Smith] \
+  Working on Hardware Software Co-design for ML Accelerators
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Andrew Liu]
+:::
+:::
+
+::: {.row}
+::: {.col}
+  [[Brett Saiki]]{.ra-name} \
+  Joined Winter 2019, Co-Advised with [Bill Zorn] and [Pavel Panchekha] \
+  Working on Floating-point Accuracy and Number Systems
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Brett Saiki]
+:::
+:::
+
+::: {.row}
+::: {.col}
+  [[Mike He]]{.ra-name} \
+  Joined Winter 2019, Co-Advised with [Steven Lyubomirsky]  \
+  Working on Dynamic Tensor Rematerialization and TVM Relay
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Mike He]
+:::
+:::
+
+::: {.row}
+::: {.col}
+  [[Adam Anderson]]{.ra-name} \
+  Joined Summer 2018 (HS), Co-Advised with [Chandrakana Nandi] \
+  Working on Rewrite Synthesis and PL for 3D Printing
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Adam Anderson]
+:::
+:::
+
+:::
+
+
+## High School
+
+::: {.ras .container}
+
+::: {.row}
+::: {.col}
+  [[Grace Oh]]{.ra-name} \
+  Joined Summer 2020, Co-Advised with [Josh Pollock] and [Eunice Jun] \
+  Working on Program State Visualization and CSEd
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Grace Oh]
+:::
+:::
+
+:::
+
+
+&nbsp;
+
+# Graduated Students
 
 ## PhD
 
@@ -96,8 +214,6 @@
 
   - [Juliet Oh], HS 2016 \
       &nbsp; &nbsp; &rarr; BA Student at Princeton
-
-:::
 
 Co-advised with:
 
