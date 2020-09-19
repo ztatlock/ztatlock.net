@@ -117,7 +117,7 @@
 ::: {.row}
 ::: {.col}
   [[Adam Anderson]]{.ra-name} \
-  Joined Summer 2018 (HS), Co-Advised with [Chandrakana Nandi] \
+  Joined Summer 2017 (HS), Co-Advised with [Chandrakana Nandi] \
   Working on Rewrite Synthesis and PL for 3D Printing
 :::
 ::: {.col .ra-pic}
@@ -171,7 +171,7 @@
       &nbsp; &nbsp; &rarr; PhD Student at Utah
   - [Logan Weber], MS 2020 \
       &nbsp; &nbsp; &rarr; PhD Student at MIT
-  - [Alexander Sanchez-Stern], MS 2015 \
+  - [Alex Sanchez-Stern], MS 2015 \
       &nbsp; &nbsp; &rarr; PhD Student at UCSD
 
 ## Undergraduate
