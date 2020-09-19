@@ -28,12 +28,12 @@ My expertise is rooted in formal verification,
   especially of compilers.
 As my students develop their own research vision,
   we branch out across diverse domains.
-The common themes of our work are figuring out
-  (1) why certain programs are difficult to write and
-  (2) how to ensure such programs are correct.
+Our work is unified by themes of
+  making it easier to write tricky programs and
+  figuring out how to ensure such programs are correct.
 We rigorously prove our results and
   always build real, working systems[^1].
-Some of the domains we have explored:
+Some of the domains we have explored include:
 
 - CAD Tools for 3D Printing and Carpentry
 - Automatic Numerical Accuracy Improvement
@@ -46,12 +46,11 @@ Some of the domains we have explored:
 
 Check out our
   [projects](projects.html),
-  [publications](projects.html), and
-  [talks](projects.html) for more!
+  [publications](publications.html), and
+  [talks](talks.html) for more!
 
 [^1]: My colleague [Dan Grossman] characterizes this combination of
       formalism and empiricism as "both Greek and graphs". &nbsp;
-
 
 ## Recent News
 

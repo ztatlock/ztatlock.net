@@ -168,6 +168,21 @@
 
 ::: {.card .news-item}
 
+  [![VIP 2019](thumb/2019-07-vip.png){.card-img-top loading=lazy}](https://vip.cs.washington.edu/)
+
+::: {.card-body}
+  In July 2019 we held the first
+  [Verification in Practice](https://vip.cs.washington.edu/)
+  event at UW.
+  The day was packed with
+  industrial proof engineers and enthusiastic academics
+  sharing tricks and getting into vigorous (but friendly!) debates
+  &#x1F4E3;
+:::
+:::
+
+::: {.card .news-item}
+
   [![DeepSpec Summer School 2018](thumb/2018-07-deepspec-summer-school.png){.card-img-top loading=lazy}](teaching.html#course-2018-deepspec-summer-school)
 
 ::: {.card-body}
@@ -177,7 +192,8 @@
   at Princeton in July 2018;
   see the [tutorials, exercises, slides](https://github.com/DeepSpec/dsss18/tree/master/verdi)
   and [videos](https://www.youtube.com/playlist?list=PLF8nG15tV6C8VAUCZfsIMDnGxjTrh016I).
-  Thanks to the organizers for a spectacular event!
+  Thanks to the participants and organizers for a spectacular event!
+  &#x1F468;&zwj;&#x1F3EB;
 :::
 :::
 
