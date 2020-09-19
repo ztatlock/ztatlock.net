@@ -202,3 +202,15 @@ section.footnotes {
   height: 4rem;
 }
 
+/* COLLABORATORS */
+#collabs ul {
+  list-style-type: none;
+}
+#collabs li {
+  float: left;
+  font-size: 0.9rem;
+  width: 12rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+}
+

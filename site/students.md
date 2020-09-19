@@ -154,7 +154,7 @@
 
   - [Pavel Panchekha]^2^, PhD 2019 \
       &nbsp; &nbsp; &rarr; Assistant Professor at Utah
-  - [James Wilcox], PhD 2019 \
+  - [James Wilcox][James R. Wilcox], PhD 2019 \
       &nbsp; &nbsp; &rarr; CTO at Certora
   - [Doug Woos]^2,3^, PhD 2019 \
       &nbsp; &nbsp; &rarr; Lecturer at Brown
@@ -171,7 +171,7 @@
       &nbsp; &nbsp; &rarr; PhD Student at Utah
   - [Logan Weber], MS 2020 \
       &nbsp; &nbsp; &rarr; PhD Student at MIT
-  - [Alex Sanchez-Stern], MS 2015 \
+  - [Alexander Sanchez-Stern], MS 2015 \
       &nbsp; &nbsp; &rarr; PhD Student at UCSD
 
 ## Undergraduate
@@ -193,7 +193,7 @@
       &nbsp; &nbsp; &rarr; Facebook
   - [Justin Adsuara], BS 2018 \
       &nbsp; &nbsp; &rarr; Hilton Hotels
-  - [Adam Geller], BS 2018 \
+  - [Adam Geller][Adam T. Geller], BS 2018 \
       &nbsp; &nbsp; &rarr; PhD Student at UBC
   - [Luke Nelson]^4^, BS 2017 \
       &nbsp; &nbsp; &rarr; PhD Student at UW
@@ -218,8 +218,8 @@
 Co-advised with:
 
   1. [Dan Grossman]
-  2. [Michael Ernst]
-  3. [Tom Anderson]
+  2. [Michael Ernst][Michael D. Ernst]
+  3. [Tom Anderson][Thomas E. Anderson]
   4. [Xi Wang]
   5. [Luis Ceze]
   6. [Adriana Schulz]

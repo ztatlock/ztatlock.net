@@ -7,7 +7,7 @@
   [![egg e-graphs Website](thumb/2020-09-egg-website.png){.card-img-top loading=lazy}][egg]
 
 ::: {.card-body}
-  [Max] pushed a new website for [egg] in September 2020.
+  [Max][Max Willsey] pushed a new website for [egg] in September 2020.
   Check out the [egg tutorial](https://docs.rs/egg/*/egg/tutorials/),
   use e-graphs to advance the state of the art in your domain,
   and get your project added to the growing list of pioneering users &#x1F423;
@@ -31,7 +31,7 @@
   [![NSV 2020](thumb/2020-07-nsv.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=m_tRUSCRM1M)
 :::
 ::: {.card-body}
-  [Pavel] and I gave an invited talk
+  [Pavel][Pavel Panchekha] and I gave an invited talk
   [Towards Numerical Assistants](talks.html#talk-2020-07-nsv-herbie-fpbench)
   on [Herbie] and [FPBench] at [NSV](https://nsv2020.github.io/) in July 2020.
 :::
@@ -42,7 +42,8 @@
   [![PLDI 2020](thumb/2020-06-pldi-szalinski.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=2KA602M8t7c)
 :::
 ::: {.card-body}
-  [Chandrakana] gave a great talk at PLDI in June 2020 on Szalinski from our paper
+  [Chandrakana][Chandrakana Nandi] gave a great talk
+  at PLDI in June 2020 on Szalinski from our paper
   [Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations](publications.html#pub-2020-pldi-szalinski-cad-eqsat)
   &#x1F44F;
 :::
@@ -53,7 +54,8 @@
   [![ADA DTR 2020](thumb/2020-05-ada-dtr-demo.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=kxlbpwBJzA4)
 :::
 ::: {.card-body}
-  [Steven] wrote, directed, and starred in a demo with the crew on
+  [Steven][Steven Lyubomirsky] wrote, directed, and starred in
+  a demo with the crew on
   [Dynamic Tensor Rematerialization](https://arxiv.org/abs/2006.09616)
   for the ADA Annual Symposium in May 2020 &#x1F57A;
 :::
@@ -80,7 +82,7 @@
   [![Reincarnate I Am CSE](thumb/2020-03-cnandi-iamcse-reincarnate.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=G7v3kegE9_g)
 :::
 ::: {.card-body}
-  [Chandrakana] showed off her work on
+  [Chandrakana][Chandrakana Nandi] showed off her work on
   [Reincarnate](publications.html#pub-2018-icfp-reincarnate-cad-decompiler) (ICFP 2018)
   to decompile triangle meshes to 3D CAD for a new
   [I Am CSE](https://www.youtube.com/watch?v=G7v3kegE9_g)
@@ -93,7 +95,7 @@
   [![egg Szalinski Firedrake 2020](thumb/2020-02-egg-szalinski-firedrake.png){.card-img-top loading=lazy}][egg]
 
 ::: {.card-body}
-  [Max] and [Chandrakana] spoke at the
+  [Max][Max Willsey] and [Chandrakana][Chandrakana Nandi] spoke at the
   [Firedrake Workshop](https://firedrakeproject.org/firedrake_usa_20.html)
   in February 2020 on [egg] and how its
   new, blazing fast congruence rebuilding helps
@@ -111,7 +113,7 @@
   I gave a [talk on the TVM Relay release](talks.html#talk-2019-12-tvm-relay-release)
   at the [TVM Conference](https://sampl.cs.washington.edu/tvmconf/)
   in December 2019.
-  Major kudos to [Jared] and the whole crew behind
+  Major kudos to [Jared][Jared Roesch] and the whole crew behind
   [Relay](https://tvm.apache.org/docs/dev/index.html#tvm-relay)!
   I also got to chair the lightning talks,
   so many stellar contributions from
@@ -124,7 +126,7 @@
   [![Carpentry Compiler SIGGRAPH Asia 2019](thumb/2019-11-carpentry-compiler.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=yaXKP7lv-CI)
 :::
 ::: {.card-body}
-  [Haisen] gave a talk showing off our work on the
+  [Haisen][Haisen Zhao] gave a talk showing off our work on the
   [Carpentry Compiler](publications.html#pub-2019-siga-carpentry-compiler)
   at SIGGRAPH Asia in November 2019 &#x1F6E0;
 :::
@@ -135,7 +137,7 @@
   [![Theia SPLASH-E 2019](thumb/2019-10-theia.png){.card-img-top loading=lazy}](publications.html#pub-2019-splashe-theia-psv-viz)
 
 ::: {.card-body}
-  [Josh] gave a great talk on
+  [Josh][Josh Pollock] gave a great talk on
   [Theia](publications.html#pub-2019-splashe-theia-psv-viz),
   our tool for program state visualization,
   at OOPSLA SPLASH-E in October 2019.
@@ -173,7 +175,7 @@
 ::: {.card-body}
   In July 2019 we held the first
   [Verification in Practice](https://vip.cs.washington.edu/)
-  event at UW.
+  event at UW, following [Dan][Dan Grossman]'s great ideas.
   The day was packed with
   industrial proof engineers and enthusiastic academics
   sharing tricks and getting into vigorous (but friendly!) debates
@@ -255,12 +257,12 @@
   Had a blast at [SNAPL](https://snapl.org/2017/) in May 2017
   catching up with folks and discussing new, big ideas in PL research!
 
-  [James] presented
+  [James][James Wilcox] presented
   [our paper](publications.html#pub-2017-snapl-disel-pl-for-distributed-systems)
   on early ideas for "horizontal composition" of
   [verified distributed systems components](https://distributedcomponents.net/).
 
-  [Chandrakana] presented
+  [Chandrakana][Chandrakana Nandi] presented
   [our paper](publications.html#pub-2017-snapl-incarnate-pl-for-3d-printing)
   on early ideas for exploring the
   [intersection of PL and fabrication](http://incarnate.uwplse.org/).
@@ -285,7 +287,7 @@
   [![Neutrons I Am CSE](thumb/2016-03-neutrons-iamcse.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=QdR9_TJ1br8)
 :::
 ::: {.card-body}
-  [Emina] and I talked about our work
+  [Emina][Emina Torlak] and I talked about our work
   [analyzing radiotherapy control software](publications.html#pub-2016-cav-neutrons-radiotherapy-safety)
   for an
   [I Am CSE](https://www.youtube.com/watch?v=QdR9_TJ1br8)
@@ -352,7 +354,7 @@ TODO
 
 December 2015
 
-- [Doug] gave a presentation on type theory, Coq, and verifying distributed
+- [Doug][Doug Woos] gave a presentation on type theory, Coq, and verifying distributed
   systems in [Verdi] at the Vermont Functional User Group (part
   [1](https://vimeo.com/155383739),
   [2](https://vimeo.com/155384206),

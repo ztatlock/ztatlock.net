@@ -319,7 +319,7 @@
                Matthieu Martel and
                Pavel Panchekha and
                Chen Qiu and
-               Alexander Sanchez{-}Stern and
+               Alex Sanchez{-}Stern and
                Zachary Tatlock},
   editor    = {Sergiy Bogomolov and
                Matthieu Martel and
@@ -497,7 +497,7 @@
 @inproceedings{DBLP:conf/snapl/ErnstGJLPTTW15,
   author    = {Michael D. Ernst and
                Dan Grossman and
-               Jon Jacky and
+               Jonathan Jacky and
                Calvin Loncaric and
                Stuart Pernsteiner and
                Zachary Tatlock and

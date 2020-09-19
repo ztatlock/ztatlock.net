@@ -498,7 +498,7 @@
 ::: {#pub-2017-snapl-incarnate-pl-for-3d-printing .anchor}
 ::: {.pub-entry}
   **Programming Language Tools and Techniques for 3D Printing** \
-  [Chandrakana Nandi], [Anat Caspi], [Dan Grossman] \
+  [Chandrakana Nandi], [Anat Caspi], [Dan Grossman], [Zachary Tatlock] \
   Summit oN Advances in Programming Languages (SNAPL) 2017 \
   [paper](pubs/2017-snapl-incarnate-pl-for-3d-printing.pdf) &nbsp;
   [slides](pubs/2017-snapl-incarnate-pl-for-3d-printing-slides.pdf) &nbsp;
@@ -631,7 +631,7 @@
 ::: {.pub-entry}
   **Toward a Standard Benchmark Format and Suite for Floating-Point Analysis** \
   [Nasrine Damouche], [Matthieu Martel], [Pavel Panchekha], <br class='big-only'>
-  [Chen Qiu], [Alexander Sanchez-Stern], [Zachary Tatlock] \
+  [Chen Qiu], [Alex Sanchez-Stern], [Zachary Tatlock] \
   Numerical Software Verification (NSV) 2016 \
   [paper](pubs/2016-nsv-fpbench.pdf) &nbsp;
   [talk](https://www.youtube.com/watch?v=SRE2Gky381M) &nbsp;
@@ -834,7 +834,7 @@
 ::: {#pub-TODO .anchor}
 ::: {.pub-entry}
   **Toward a Dependability Case Language and Workflow for a Radiation Therapy System** \
-  [Michael D. Ernst], [Dan Grossman], [Jon Jacky], [Calvin Loncaric], <br class='big-only'>
+  [Michael D. Ernst], [Dan Grossman], [Jonathan Jacky], [Calvin Loncaric], <br class='big-only'>
   [Stuart Pernsteiner], [Zachary Tatlock], [Emina Torlak], [Xi Wang] \
   Summit oN Advances in Programming Languages (SNAPL) 2015 \
   [paper](pubs/2015-snapl-neutrons-radiotherapy-safety.pdf) &nbsp;
