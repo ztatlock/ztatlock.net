@@ -46,6 +46,16 @@ sync:
 .PHONY: publish
 publish: stage sync
 
+.PHONY: check
+check: stage
+	html5validator \
+	  --root stage/ \
+	  --also-check-css \
+	  --show-warnings \
+	  --format text 2>&1 \
+	| tr -d "'" \
+	| awk 'BEGIN {RS=","; ORS="\n"} /Error/ || /Warning/ {print "\n"} {print $$0}'
+
 .PHONY: clean
 clean:
 	rm -rf stage/*
