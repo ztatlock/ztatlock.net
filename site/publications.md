@@ -79,14 +79,29 @@
   [slides](pubs/2019-siga-carpentry-compiler-slides.pptx) &nbsp;
   [code](https://github.com/helm-compiler) &nbsp;
   [project](https://grail.cs.washington.edu/projects/carpentrycompiler/) &nbsp;
-  [bib](pubs/2019-siga-carpentry-compiler.bib) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2019-siga-carpentry-compiler){aria-controls='bib-2019-siga-carpentry-compiler' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2019-siga-carpentry-compiler .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@article{2019-siga-carpentry-compiler,
+  author    = {Chenming Wu and
+               Haisen Zhao and
+               Chandrakana Nandi and
+               Jeffrey I. Lipton and
+               Zachary Tatlock and
+               Adriana Schulz},
+  title     = {Carpentry compiler},
+  journal   = {{ACM} Transactions on Graphics},
+  volume    = {38},
+  number    = {6},
+  pages     = {195:1--195:14},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3355089.3356518},
+  doi       = {10.1145/3355089.3356518},
+}
 ```
 :::
 :::
@@ -105,13 +120,27 @@
   [slides](pubs/2019-oopsla-troika-modular-layout-verification-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/cassius/) &nbsp;
   [project](https://cassius.uwplse.org/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2019-oopsla-troika-modular-layout-verification){aria-controls='bib-2019-oopsla-troika-modular-layout-verification' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2019-oopsla-troika-modular-layout-verification .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@article{2019-oopsla-troika-modular-layout-verification,
+  author    = {Pavel Panchekha and
+               Michael D. Ernst and
+               Zachary Tatlock and
+               Shoaib Kamil},
+  title     = {Modular Verification of Web Page Layout},
+  journal   = {Proceedings of the {ACM} on Programming Languages},
+  volume    = {3},
+  number    = {{OOPSLA}},
+  pages     = {151:1--151:26},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3360577},
+  doi       = {10.1145/3360577},
+}
 ```
 :::
 :::
@@ -292,10 +321,10 @@
 
 
 
-<!-- -->
+<!-- 2018-07 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2018-fm-combining-fp-tools .anchor}
 ::: {.pub-entry}
   **Combining Tools for Optimization and Analysis of Floating-Point Computations** \
   [Heiko Becker], [Pavel Panchekha], [Eva Darulova], [Zachary Tatlock] \
@@ -305,13 +334,34 @@
   [Daisy](https://github.com/malyzajko/daisy) &nbsp;
   [Herbie](http://herbie.uwplse.org/) &nbsp;
   [FPBench](http://fpbench.org/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2018-fm-combining-fp-tools){aria-controls='bib-2018-fm-combining-fp-tools' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2018-fm-combining-fp-tools .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2018-fm-combining-fp-tools,
+  author    = {Heiko Becker and
+               Pavel Panchekha and
+               Eva Darulova and
+               Zachary Tatlock},
+  editor    = {Klaus Havelund and
+               Jan Peleska and
+               Bill Roscoe and
+               Erik P. de Vink},
+  title     = {Combining Tools for Optimization and Analysis of Floating-Point Computations},
+  booktitle = {Formal Methods - 22nd International Symposium, {FM} 2018,
+               Held as Part of the Federated Logic Conference, FloC 2018, Oxford, UK,
+               July 15-17, 2018, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {10951},
+  pages     = {355--363},
+  publisher = {Springer},
+  year      = {2018},
+  url       = {https://doi.org/10.1007/978-3-319-95582-7\_21},
+  doi       = {10.1007/978-3-319-95582-7\_21},
+}
 ```
 :::
 :::

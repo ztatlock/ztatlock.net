@@ -6,72 +6,6 @@
 
 <!-- HERE -->
 
-<div id='2019-ftpl-qed-at-large' class='anchor'>
-<div class='bib-entry'>
-```
-
-@article{2019-ftpl-qed-at-large,
-  author    = {Talia Ringer and
-               Karl Palmskog and
-               Ilya Sergey and
-               Milos Gligoric and
-               Zachary Tatlock},
-  title     = {{QED} at Large: {A} Survey of Engineering of Formally Verified Software},
-  journal   = {Foundations and Trends in Programming Languages},
-  volume    = {5},
-  number    = {2-3},
-  pages     = {102--281},
-  year      = {2019},
-  url       = {https://doi.org/10.1561/2500000045},
-  doi       = {10.1561/2500000045},
-  timestamp = {Wed, 20 May 2020 01:00:00 +0200},
-}
-```
-&nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp;
-[publication](publications.html#2019-ftpl-qed-at-large)
-</div>
-</div>
-
-
-```
-@article{DBLP:journals/pacmpl/PanchekhaETK19,
-  author    = {Pavel Panchekha and
-               Michael D. Ernst and
-               Zachary Tatlock and
-               Shoaib Kamil},
-  title     = {Modular verification of web page layout},
-  journal   = {Proc. {ACM} Program. Lang.},
-  volume    = {3},
-  number    = {{OOPSLA}},
-  pages     = {151:1--151:26},
-  year      = {2019},
-  url       = {https://doi.org/10.1145/3360577},
-  doi       = {10.1145/3360577},
-  timestamp = {Thu, 16 Apr 2020 01:00:00 +0200},
-}
-```
-
-```
-@article{DBLP:journals/tog/WuZNLTS19,
-  author    = {Chenming Wu and
-               Haisen Zhao and
-               Chandrakana Nandi and
-               Jeffrey I. Lipton and
-               Zachary Tatlock and
-               Adriana Schulz},
-  title     = {Carpentry compiler},
-  journal   = {{ACM} Trans. Graph.},
-  volume    = {38},
-  number    = {6},
-  pages     = {195:1--195:14},
-  year      = {2019},
-  url       = {https://doi.org/10.1145/3355089.3356518},
-  doi       = {10.1145/3355089.3356518},
-  timestamp = {Fri, 15 Nov 2019 00:00:00 +0100},
-}
-```
-
 ```
 @inproceedings{DBLP:conf/cav/BeckerDMT19,
   author    = {Heiko Becker and
@@ -174,31 +108,6 @@
   url       = {https://doi.org/10.1145/3167089},
   doi       = {10.1145/3167089},
   timestamp = {Wed, 21 Nov 2018 00:00:00 +0100},
-}
-```
-
-```
-@inproceedings{DBLP:conf/fm/BeckerPDT18,
-  author    = {Heiko Becker and
-               Pavel Panchekha and
-               Eva Darulova and
-               Zachary Tatlock},
-  editor    = {Klaus Havelund and
-               Jan Peleska and
-               Bill Roscoe and
-               Erik P. de Vink},
-  title     = {Combining Tools for Optimization and Analysis of Floating-Point Computations},
-  booktitle = {Formal Methods - 22nd International Symposium, {FM} 2018, Held as
-               Part of the Federated Logic Conference, FloC 2018, Oxford, UK, July
-               15-17, 2018, Proceedings},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {10951},
-  pages     = {355--363},
-  publisher = {Springer},
-  year      = {2018},
-  url       = {https://doi.org/10.1007/978-3-319-95582-7\_21},
-  doi       = {10.1007/978-3-319-95582-7\_21},
-  timestamp = {Wed, 25 Sep 2019 01:00:00 +0200},
 }
 ```
 
