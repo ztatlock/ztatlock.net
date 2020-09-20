@@ -71,6 +71,7 @@ I have been very fortunate to work on projects
 - [Miranda Edwards]
 - [Nasrine Damouche]
 - [Nickolai Zeldovich]
+- [Paul Curry]
 - [Pavel Panchekha]
 - [Ramana Kumar]
 - [Ranjit Jhala]

@@ -62,6 +62,8 @@
 
 ## Mentoring
 
+- ADA Student Hackathon 2020
+- [ADA Student Hackathon 2019](https://adacenter.org/news/ada-hosts-third-student-hackathon-12062019)
 - [PLDI 2018](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers)
     Programming Languages Mentoring Workshop (PLMW) Panelist
 - [SPLASH 2017](https://2017.splashcon.org/committee/splash-2017-doctoral-symposium-program-committee)

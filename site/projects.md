@@ -7,6 +7,7 @@
 <!-- TODO add carpentry compiler -->
 <!-- TODO add titanic -->
 <!-- TODO add proof engineering -->
+<!-- TODO add Icing https://gitlab.mpi-sws.org/AVA/icing -->
 
 ::: {.row}
 ::: {.col .proj-logo}

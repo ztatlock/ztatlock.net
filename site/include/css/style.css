@@ -123,12 +123,23 @@ section.footnotes {
 .ra-name {
   font-size: 1.2rem;
 }
+.ras p {
+  margin-bottom: 0;
+}
+.ras ul {
+  padding-left: 1.2rem;
+}
 .ra-pic {
   max-width: 20%;
   text-align: left;
 }
 .ra-pic img {
-  max-height: 4rem;
+  max-height: 2.5rem;
+}
+@media (min-width: 550px) {
+  .ra-pic img {
+    max-height: 4rem;
+  }
 }
 
 

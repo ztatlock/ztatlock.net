@@ -11,8 +11,10 @@
 ::: {.row}
 ::: {.col}
   [[Amy Zhu]]{.ra-name} \
-  Joined Summer 2020, Co-advised with [Adriana Schulz] \
-  Working on Rewrite Synthesis and PL for Knitting
+  Joined Summer 2020, Co-advised with [Adriana Schulz]
+
+  - Rewrite Synthesis
+  - PL for Knitting
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Amy Zhu]
@@ -22,8 +24,10 @@
 ::: {.row}
 ::: {.col}
   [[Gus Smith]]{.ra-name} \
-  Joined Autumn 2018, Co-advised with [Luis Ceze] \
-  Working on Hardware Software Co-design for ML Accelerators
+  Joined Autumn 2018, Co-advised with [Luis Ceze]
+
+  - Custom Numeric Datatypes for ML Training
+  - Hardware Software Co-design for ML Accelerators
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Gus Smith]
@@ -33,8 +37,10 @@
 ::: {.row}
 ::: {.col}
   [[Steven Lyubomirsky]]{.ra-name} \
-  Joined Autumn 2016 \
-  Working on Dynamic Tensor Rematerialization and TVM Relay
+  Joined Autumn 2016
+
+  - TVM Relay
+  - Dynamic Tensor Rematerialization
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Steven Lyubomirsky]
@@ -44,8 +50,10 @@
 ::: {.row}
 ::: {.col}
   [[Chandrakana Nandi]]{.ra-name} \
-  Joined Autumn 2015, Co-advised with [Dan Grossman] \
-  Working on Rewrite Synthesis and PL for 3D Printing
+  Joined Autumn 2015, Co-advised with [Dan Grossman]
+
+  - Rewrite Synthesis
+  - PL for 3D Printing and Carpentry
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Chandrakana Nandi]
@@ -55,8 +63,10 @@
 ::: {.row}
 ::: {.col}
   [[Jared Roesch]]{.ra-name} \
-  Joined Autumn 2015 \
-  Working on TVM Relay and at [OctoML]
+  Joined Autumn 2015
+
+  - TVM Relay
+  - [OctoML]
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Jared Roesch]
@@ -66,8 +76,10 @@
 ::: {.row}
 ::: {.col}
   [[Bill Zorn]]{.ra-name} \
-  Joined Autumn 2014, Co-advised with [Dan Grossman] \
-  Working on Floating-point Accuracy and Number Systems
+  Joined Autumn 2014, Co-advised with [Dan Grossman]
+
+  - Floating-point Accuracy
+  - Number System Analysis Tools
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Bill Zorn]
@@ -84,8 +96,11 @@
 ::: {.row}
 ::: {.col}
   [[Andrew Liu]]{.ra-name} \
-  Joined Summer 2020, Co-Advised with [Gus Smith] \
-  Working on Hardware Software Co-design for ML Accelerators
+  Joined Summer 2020, Co-Advised with [Gus Smith]
+
+
+  - Custom Numeric Datatypes for ML Training
+  - Hardware Software Co-design for ML Accelerators
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Andrew Liu]
@@ -95,8 +110,10 @@
 ::: {.row}
 ::: {.col}
   [[Brett Saiki]]{.ra-name} \
-  Joined Winter 2019, Co-Advised with [Bill Zorn] and [Pavel Panchekha] \
-  Working on Floating-point Accuracy and Number Systems
+  Joined Winter 2019, Co-Advised with [Bill Zorn] and [Pavel Panchekha]
+
+  - Floating-point Accuracy
+  - Mixed-precision Optimization
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Brett Saiki]
@@ -106,8 +123,10 @@
 ::: {.row}
 ::: {.col}
   [[Mike He]]{.ra-name} \
-  Joined Winter 2019, Co-Advised with [Steven Lyubomirsky]  \
-  Working on Dynamic Tensor Rematerialization and TVM Relay
+  Joined Winter 2019, Co-Advised with [Steven Lyubomirsky]
+
+  - TVM Relay
+  - Dynamic Tensor Rematerialization
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Mike He]
@@ -117,8 +136,10 @@
 ::: {.row}
 ::: {.col}
   [[Adam Anderson]]{.ra-name} \
-  Joined Summer 2017 (HS), Co-Advised with [Chandrakana Nandi] \
-  Working on Rewrite Synthesis and PL for 3D Printing
+  Joined Summer 2017 (HS), Co-Advised with [Chandrakana Nandi]
+
+  - Rewrite Synthesis
+  - PL for 3D Printing and Carpentry
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Adam Anderson]
@@ -135,8 +156,10 @@
 ::: {.row}
 ::: {.col}
   [[Grace Oh]]{.ra-name} \
-  Joined Summer 2020, Co-Advised with [Josh Pollock] and [Eunice Jun] \
-  Working on Program State Visualization and CSEd
+  Joined Summer 2020, Co-Advised with [Josh Pollock] and [Eunice Jun]
+
+  - Program State Visualization
+  - CS Education
 :::
 ::: {.col .ra-pic}
   [![UW Logo](thumb/logo-uw.png)][Grace Oh]
@@ -195,6 +218,9 @@
       &nbsp; &nbsp; &rarr; Hilton Hotels
   - [Adam Geller][Adam T. Geller], BS 2018 \
       &nbsp; &nbsp; &rarr; PhD Student at UBC
+  - [Paul Curry], BS 2018 \
+      &nbsp; &nbsp; &rarr; Xnor.ai \
+      &nbsp; &nbsp; &rarr; Apple
   - [Luke Nelson]^4^, BS 2017 \
       &nbsp; &nbsp; &rarr; PhD Student at UW
   - [Miranda Edwards], BS 2017 \

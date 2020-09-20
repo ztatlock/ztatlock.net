@@ -29,8 +29,8 @@ My expertise is rooted in formal verification,
 As my students develop their own research vision,
   we branch out across diverse domains.
 Our work is unified by themes of
-  making it easier to write tricky programs and
-  figuring out how to ensure such code is correct.
+  making it easier to write tricky code and
+  figuring out how to ensure such programs are correct.
 We rigorously prove our results and
   always build real, working systems[^1].
 Some of the domains we have explored include:
