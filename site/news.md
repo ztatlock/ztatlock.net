@@ -114,7 +114,7 @@
   at the [TVM Conference](https://sampl.cs.washington.edu/tvmconf/)
   in December 2019.
   Major kudos to [Jared][Jared Roesch] and the whole crew behind
-  [Relay](https://tvm.apache.org/docs/dev/index.html#tvm-relay)!
+  [Relay](https://sampl.cs.washington.edu/projects/relay.html)!
   I also got to chair the lightning talks,
   so many stellar contributions from
   our incredible community &#x1F91D;

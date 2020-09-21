@@ -441,12 +441,12 @@
 :::
 
 
-<!-- -->
+<!-- 2018-06 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2018-pldi-vizassert-web-layout .anchor}
 ::: {.pub-entry}
-  **Verifying that web pages have accessible layout** \
+  **Verifying that Web Pages have Accessible Layout** \
   [Pavel Panchekha], [Adam T. Geller], [Michael D. Ernst], [Zachary Tatlock], [Shoaib Kamil] \
   Programming Language Design and Implementation (PLDI) 2018 \
   [paper](pubs/2018-pldi-vizassert-web-layout.pdf) &nbsp;
@@ -454,47 +454,41 @@
   [slides](pubs/2018-pldi-vizassert-web-layout-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/cassius/) &nbsp;
   [project](https://cassius.uwplse.org/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2018-pldi-vizassert-web-layout){aria-controls='bib-2018-pldi-vizassert-web-layout' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2018-pldi-vizassert-web-layout .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2018-pldi-vizassert-web-layout,
+  author    = {Pavel Panchekha and
+               Adam T. Geller and
+               Michael D. Ernst and
+               Zachary Tatlock and
+               Shoaib Kamil},
+  editor    = {Jeffrey S. Foster and
+               Dan Grossman},
+  title     = {Verifying that Web Pages have Accessible Layout},
+  booktitle = {Proceedings of the 39th {ACM} {SIGPLAN} Conference on
+               Programming Language Design and Implementation, {PLDI} 2018,
+               Philadelphia, PA, USA,
+               June 18-22, 2018},
+  pages     = {1--14},
+  publisher = {{ACM}},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3192366.3192407},
+  doi       = {10.1145/3192366.3192407},
+}
 ```
 :::
 :::
 
 
-<!-- -->
+<!-- 2018-06 -->
 
 
-::: {#pub-TODO .anchor}
-::: {.pub-entry}
-  **Relay: a New IR for Machine Learning Frameworks** \
-  [Jared Roesch], [Steven Lyubomirsky], [Logan Weber], [Josh Pollock], [Marisa Kirisame], <br class='big-only'>
-  [Tianqi Chen], [Zachary Tatlock] \
-  Machine Learning and Programming Languages (MAPL) 2018 \
-  [paper](pubs/2018-mapl-relay-ir.pdf) &nbsp;
-  [slides](pubs/2018-mapl-relay-ir-slides.pdf) &nbsp;
-  [code](https://github.com/apache/incubator-tvm/issues/1673) &nbsp;
-  [project](https://sampl.cs.washington.edu/projects/relay.html) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib- .collapse}
-::: {.card .card-body .bib-card}
-```
-
-```
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#pub-TODO .anchor}
+::: {#pub-2018-pldi-herbgrind-fp-error .anchor}
 ::: {.pub-entry}
   **Finding Root Causes of Floating Point Error** \
   [Alex Sanchez-Stern], [Pavel Panchekha], [Sorin Lerner], [Zachary Tatlock] \
@@ -504,13 +498,77 @@
   [slides](http://herbgrind.ucsd.edu/pldi18-talk/) &nbsp;
   [code](https://github.com/uwplse/herbgrind) &nbsp;
   [project](http://herbgrind.ucsd.edu/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2018-pldi-herbgrind-fp-error){aria-controls='bib-2018-pldi-herbgrind-fp-error' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2018-pldi-herbgrind-fp-error .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2018-pldi-herbgrind-fp-error,
+  author    = {Alex Sanchez{-}Stern and
+               Pavel Panchekha and
+               Sorin Lerner and
+               Zachary Tatlock},
+  editor    = {Jeffrey S. Foster and
+               Dan Grossman},
+  title     = {Finding root causes of floating point error},
+  booktitle = {Proceedings of the 39th {ACM} {SIGPLAN} Conference on
+               Programming Language Design and Implementation, {PLDI} 2018,
+               Philadelphia, PA, USA,
+               June 18-22, 2018},
+  pages     = {256--269},
+  publisher = {{ACM}},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3192366.3192411},
+  doi       = {10.1145/3192366.3192411},
+}
+```
+:::
+:::
+
+
+<!-- 2018-06 -->
+
+
+::: {#pub-2018-mapl-relay-ir .anchor}
+::: {.pub-entry}
+  **Relay: a New IR for Machine Learning Frameworks** \
+  [Jared Roesch], [Steven Lyubomirsky], [Logan Weber], [Josh Pollock], [Marisa Kirisame], <br class='big-only'>
+  [Tianqi Chen], [Zachary Tatlock] \
+  Machine Learning and Programming Languages (MAPL) 2018 \
+  [paper](pubs/2018-mapl-relay-ir.pdf) &nbsp;
+  [slides](pubs/2018-mapl-relay-ir-slides.pdf) &nbsp;
+  [code](https://github.com/apache/incubator-tvm/issues/1673) &nbsp;
+  [project](https://sampl.cs.washington.edu/projects/relay.html) &nbsp;
+  [bib](#bib-2018-mapl-relay-ir){aria-controls='bib-2018-mapl-relay-ir' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2018-mapl-relay-ir .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2018-mapl-relay-ir,
+  author    = {Jared Roesch and
+               Steven Lyubomirsky and
+               Logan Weber and
+               Josh Pollock and
+               Marisa Kirisame and
+               Tianqi Chen and
+               Zachary Tatlock},
+  editor    = {Justin Gottschlich and
+               Alvin Cheung},
+  title     = {Relay: a New {IR} for Machine Learning Frameworks},
+  booktitle = {Proceedings of the 2nd {ACM} {SIGPLAN} International Workshop on
+               Machine Learning and Programming Languages, MAPL@PLDI 2018,
+               Philadelphia, PA, USA,
+               June 18-22, 2018},
+  pages     = {58--68},
+  publisher = {{ACM}},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3211346.3211348},
+  doi       = {10.1145/3211346.3211348},
+}
 ```
 :::
 :::

@@ -36,10 +36,10 @@
 
 ::: {.row}
 ::: {.col .proj-logo}
-  [![TVM Logo](thumb/logo-tvm.png)](https://tvm.apache.org/docs/dev/index.html#tvm-relay)
+  [![TVM Logo](thumb/logo-tvm.png)](https://sampl.cs.washington.edu/projects/relay.html)
 :::
 ::: {.col}
-  [TVM Relay](https://tvm.apache.org/docs/dev/index.html#tvm-relay) \
+  [TVM Relay](https://sampl.cs.washington.edu/projects/relay.html) \
   Functional Compiler IR for Machine Learning \
   <!-- TODO pubs -->
   <!-- TVM -->
