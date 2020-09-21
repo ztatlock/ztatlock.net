@@ -367,10 +367,10 @@
 :::
 
 
-<!-- -->
+<!-- 2018-07 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2018-itp-binary-code-extraction .anchor}
 ::: {.pub-entry}
   **Software Verification with ITPs Should Use Binary Code Extraction to Reduce the TCB** \
   [Ramana Kumar], [Eric Mullen], [Zachary Tatlock], [Magnus O. Myreen] \
@@ -379,63 +379,33 @@
   [slides](https://easychair.org/smart-slide/slide/pCvQ#) &nbsp;
   [CakeML](https://cakeml.org/) &nbsp;
   [Oeuf](http://oeuf.uwplse.org/) &nbsp;
-  [bib](pubs/2018-itp-binary-code-extraction.bib) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2018-itp-binary-code-extraction){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2018-itp-binary-code-extraction .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
-```
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#pub-TODO .anchor}
-::: {.pub-entry}
-  **Programming and Proving with Distributed Protocols** \
-  [Ilya Sergey], [James R. Wilcox], [Zachary Tatlock] \
-  Principles of Programming Languages (POPL) 2018 \
-  [paper](pubs/2018-popl-disel.pdf) &nbsp;
-  [talk](https://www.youtube.com/watch?v=zuuBEXhM4tU) &nbsp;
-  [slides](pubs/2018-popl-disel-slides.pdf) &nbsp;
-  [code](https://github.com/DistributedComponents/disel) &nbsp;
-  [project](https://distributedcomponents.net/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib- .collapse}
-::: {.card .card-body .bib-card}
-```
-
-```
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#pub-TODO .anchor}
-::: {.pub-entry}
-  **Œuf: minimizing the Coq extraction TCB** \
-  [Eric Mullen], [Stuart Pernsteiner], [James R. Wilcox], [Zachary Tatlock], [Dan Grossman] \
-  Certified Programs and Proofs (CPP) 2018 \
-  [paper](pubs/2018-cpp-oeuf-coq-compiler.pdf) &nbsp;
-  [slides](pubs/2018-cpp-oeuf-coq-compiler-slides.pdf) &nbsp;
-  [code](https://github.com/uwplse/oeuf) &nbsp;
-  [project](http://oeuf.uwplse.org/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib- .collapse}
-::: {.card .card-body .bib-card}
-```
-
+@inproceedings{2018-itp-binary-code-extraction,
+  author    = {Ramana Kumar and
+               Eric Mullen and
+               Zachary Tatlock and
+               Magnus O. Myreen},
+  editor    = {Jeremy Avigad and
+               Assia Mahboubi},
+  title     = {Software Verification with ITPs Should Use Binary Code Extraction
+               to Reduce the {TCB} - (Short Paper)},
+  booktitle = {Interactive Theorem Proving - 9th International Conference, {ITP} 2018,
+               Held as Part of the Federated Logic Conference, FloC 2018,
+               Oxford, UK, July 9-12, 2018, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {10895},
+  pages     = {362--369},
+  publisher = {Springer},
+  year      = {2018},
+  url       = {https://doi.org/10.1007/978-3-319-94821-8\_21},
+  doi       = {10.1007/978-3-319-94821-8\_21},
+}
 ```
 :::
 :::
@@ -568,6 +538,87 @@
   year      = {2018},
   url       = {https://doi.org/10.1145/3211346.3211348},
   doi       = {10.1145/3211346.3211348},
+}
+```
+:::
+:::
+
+
+<!-- 2018-01 -->
+
+
+::: {#pub-2018-popl-disel .anchor}
+::: {.pub-entry}
+  **Programming and Proving with Distributed Protocols** \
+  [Ilya Sergey], [James R. Wilcox], [Zachary Tatlock] \
+  Principles of Programming Languages (POPL) 2018 \
+  [paper](pubs/2018-popl-disel.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=zuuBEXhM4tU) &nbsp;
+  [slides](pubs/2018-popl-disel-slides.pdf) &nbsp;
+  [code](https://github.com/DistributedComponents/disel) &nbsp;
+  [project](https://distributedcomponents.net/) &nbsp;
+  [bib](#bib-2018-popl-disel){aria-controls='bib-2018-popl-disel' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2018-popl-disel .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@article{2018-popl-disel,
+  author    = {Ilya Sergey and
+               James R. Wilcox and
+               Zachary Tatlock},
+  title     = {Programming and Proving with Distributed Protocols},
+  journal   = {Proceedings of the {ACM} on Programming Languages},
+  volume    = {2},
+  number    = {{POPL}},
+  pages     = {28:1--28:30},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3158116},
+  doi       = {10.1145/3158116},
+}
+```
+:::
+:::
+
+
+<!-- 2018-01 -->
+
+
+::: {#pub-2018-cpp-oeuf-coq-compiler .anchor}
+::: {.pub-entry}
+  **Œuf: Minimizing the Coq Extraction TCB** \
+  [Eric Mullen], [Stuart Pernsteiner], [James R. Wilcox], [Zachary Tatlock], [Dan Grossman] \
+  Certified Programs and Proofs (CPP) 2018 \
+  [paper](pubs/2018-cpp-oeuf-coq-compiler.pdf) &nbsp;
+  [slides](pubs/2018-cpp-oeuf-coq-compiler-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/oeuf) &nbsp;
+  [project](http://oeuf.uwplse.org/) &nbsp;
+  [bib](#bib-2018-cpp-oeuf-coq-compiler){aria-controls='bib-2018-cpp-oeuf-coq-compiler' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2018-cpp-oeuf-coq-compiler .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2018-cpp-oeuf-coq-compiler,
+  author    = {Eric Mullen and
+               Stuart Pernsteiner and
+               James R. Wilcox and
+               Zachary Tatlock and
+               Dan Grossman},
+  editor    = {June Andronick and
+               Amy P. Felty},
+  title     = {{\OE}uf: Minimizing the Coq Extraction {TCB}},
+  booktitle = {Proceedings of the 7th {ACM} {SIGPLAN} International Conference on
+               Certified Programs and Proofs, {CPP} 2018,
+               Los Angeles, CA, USA,
+               January 8-9, 2018},
+  pages     = {172--185},
+  publisher = {{ACM}},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3167089},
+  doi       = {10.1145/3167089},
 }
 ```
 :::

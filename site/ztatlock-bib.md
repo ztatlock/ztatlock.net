@@ -73,69 +73,6 @@
 ```
 
 ```
-@article{DBLP:journals/pacmpl/SergeyWT18,
-  author    = {Ilya Sergey and
-               James R. Wilcox and
-               Zachary Tatlock},
-  title     = {Programming and proving with distributed protocols},
-  journal   = {Proc. {ACM} Program. Lang.},
-  volume    = {2},
-  number    = {{POPL}},
-  pages     = {28:1--28:30},
-  year      = {2018},
-  url       = {https://doi.org/10.1145/3158116},
-  doi       = {10.1145/3158116},
-  timestamp = {Thu, 16 Apr 2020 01:00:00 +0200},
-}
-```
-
-```
-@inproceedings{DBLP:conf/cpp/MullenPWTG18,
-  author    = {Eric Mullen and
-               Stuart Pernsteiner and
-               James R. Wilcox and
-               Zachary Tatlock and
-               Dan Grossman},
-  editor    = {June Andronick and
-               Amy P. Felty},
-  title     = {{\OE}uf: minimizing the Coq extraction {TCB}},
-  booktitle = {Proceedings of the 7th {ACM} {SIGPLAN} International Conference on
-               Certified Programs and Proofs, {CPP} 2018, Los Angeles, CA, USA, January
-               8-9, 2018},
-  pages     = {172--185},
-  publisher = {{ACM}},
-  year      = {2018},
-  url       = {https://doi.org/10.1145/3167089},
-  doi       = {10.1145/3167089},
-  timestamp = {Wed, 21 Nov 2018 00:00:00 +0100},
-}
-```
-
-```
-@inproceedings{DBLP:conf/itp/KumarMTM18,
-  author    = {Ramana Kumar and
-               Eric Mullen and
-               Zachary Tatlock and
-               Magnus O. Myreen},
-  editor    = {Jeremy Avigad and
-               Assia Mahboubi},
-  title     = {Software Verification with ITPs Should Use Binary Code Extraction
-               to Reduce the {TCB} - (Short Paper)},
-  booktitle = {Interactive Theorem Proving - 9th International Conference, {ITP}
-               2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford,
-               UK, July 9-12, 2018, Proceedings},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {10895},
-  pages     = {362--369},
-  publisher = {Springer},
-  year      = {2018},
-  url       = {https://doi.org/10.1007/978-3-319-94821-8\_21},
-  doi       = {10.1007/978-3-319-94821-8\_21},
-  timestamp = {Tue, 14 May 2019 10:00:37 +0200},
-}
-```
-
-```
 @article{DBLP:journals/pacmpl/WeitzLHTET17,
   author    = {Konstantin Weitz and
                Steven Lyubomirsky and
