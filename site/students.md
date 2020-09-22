@@ -51,7 +51,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Chandrakana Nandi]
+  [![UW Logo](thumb/chandrakana-nandi-cropped.jpg){.rounded}][Chandrakana Nandi]
 :::
 ::: {.col .ra-desc}
   [[Chandrakana Nandi]]{.ra-name} \
