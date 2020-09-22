@@ -9,9 +9,6 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Amy Zhu]
-:::
 ::: {.col .ra-desc}
   [[Amy Zhu]]{.ra-name} \
   Co-advised with [Adriana Schulz] \
@@ -20,12 +17,12 @@
   - Rewrite Synthesis
   - PL for Knitting
 :::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Amy Zhu]
+:::
 :::
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Gus Smith]
-:::
 ::: {.col .ra-desc}
   [[Gus Smith]]{.ra-name} \
   Co-advised with [Luis Ceze] \
@@ -34,12 +31,12 @@
   - Custom Numeric Datatypes for ML Training
   - Hardware Software Co-design for ML Accelerators
 :::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Gus Smith]
+:::
 :::
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Steven Lyubomirsky]
-:::
 ::: {.col .ra-desc}
   [[Steven Lyubomirsky]]{.ra-name} \
   Joined Autumn 2016
@@ -47,12 +44,12 @@
   - TVM Relay
   - Dynamic Tensor Rematerialization
 :::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Steven Lyubomirsky]
+:::
 :::
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Chandrakana Nandi]
-:::
 ::: {.col .ra-desc}
   [[Chandrakana Nandi]]{.ra-name} \
   Co-advised with [Dan Grossman] \
@@ -61,12 +58,12 @@
   - Rewrite Synthesis
   - PL for 3D Printing and Carpentry
 :::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Chandrakana Nandi]
+:::
 :::
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/jared-roesch-cropped.jpg){.rounded}][Jared Roesch]
-:::
 ::: {.col .ra-desc}
   [[Jared Roesch]]{.ra-name} \
   Joined Autumn 2015
@@ -74,12 +71,12 @@
   - TVM Relay
   - [OctoML]
 :::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Jared Roesch]
+:::
 :::
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![Bill Zorn](thumb/bill-zorn-cropped.jpg){.rounded}][Bill Zorn]
-:::
 ::: {.col .ra-desc}
   [[Bill Zorn]]{.ra-name} \
   Co-advised with [Dan Grossman] \
@@ -87,6 +84,9 @@
 
   - Floating-point Accuracy
   - Number Systems Analysis Tools
+:::
+::: {.col .ra-pic}
+  [![Bill Zorn](thumb/bill-zorn-cropped.jpg){.rounded}][Bill Zorn]
 :::
 :::
 
@@ -98,9 +98,6 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Andrew Liu]
-:::
 ::: {.col .ra-desc}
   [[Andrew Liu]]{.ra-name} \
   Co-Advised with [Gus Smith] \
@@ -110,12 +107,12 @@
   - Custom Numeric Datatypes for ML Training
   - Hardware Software Co-design for ML Accelerators
 :::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Andrew Liu]
+:::
 :::
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Brett Saiki]
-:::
 ::: {.col .ra-desc}
   [[Brett Saiki]]{.ra-name} \
   Co-Advised with [Bill Zorn] and [Pavel Panchekha] \
@@ -124,12 +121,12 @@
   - Floating-point Accuracy
   - Mixed-precision Optimization
 :::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Brett Saiki]
+:::
 :::
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Mike He]
-:::
 ::: {.col .ra-desc}
   [[Mike He]]{.ra-name} \
   Co-Advised with [Steven Lyubomirsky] \
@@ -138,12 +135,12 @@
   - TVM Relay
   - Dynamic Tensor Rematerialization
 :::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Mike He]
+:::
 :::
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Adam Anderson]
-:::
 ::: {.col .ra-desc}
   [[Adam Anderson]]{.ra-name} \
   Co-Advised with [Chandrakana Nandi] \
@@ -151,6 +148,9 @@
 
   - Rewrite Synthesis
   - PL for 3D Printing and Carpentry
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Adam Anderson]
 :::
 :::
 
@@ -162,9 +162,6 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Grace Oh]
-:::
 ::: {.col .ra-desc}
   [[Grace Oh]]{.ra-name} \
   Co-Advised with [Josh Pollock] and [Eunice Jun] \
@@ -172,6 +169,9 @@
 
   - Program State Visualization
   - CS Education
+:::
+::: {.col .ra-pic}
+  [![UW Logo](thumb/logo-uw.png)][Grace Oh]
 :::
 :::
 

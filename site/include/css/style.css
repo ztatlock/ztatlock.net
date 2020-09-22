@@ -113,8 +113,42 @@ section.footnotes {
 }
 
 /* STUDENTS */
+.ras .row {
+  margin-top: 2rem;
+}
+.ra-pic {
+  margin-bottom: 1rem;
+}
+.ra-pic img {
+  width: 15rem;
+  height: auto;
+}
+@media (min-width: 576px) {
+  .ra-pic img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .ras {
+    font-size: 0.9rem;
+  }
+}
+.ra-pic a img:hover {
+  filter: contrast(0.9);
+}
+.ra-name {
+  font-size: 1.3rem;
+}
+.ras p {
+  margin-bottom: 0;
+}
+.ras ul {
+  padding-left: 1.5rem;
+}
+
+/* STUDENTS - BKUP */
 /* TODO redo to use bootstrap grid system properly */
 /* TODO probably means putting photos on the left so things break correctly */
+/*
 .ras {
   margin-top: 1.5rem;
   font-size: 0.9rem;
@@ -151,6 +185,7 @@ section.footnotes {
     max-width: 5rem;
   }
 }
+*/
 
 
 /* PUBLICATIONS */
