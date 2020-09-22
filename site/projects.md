@@ -4,11 +4,6 @@
 
 ::: {#proj .container}
 
-<!-- TODO add carpentry compiler -->
-<!-- TODO add titanic -->
-<!-- TODO add proof engineering -->
-<!-- TODO add Icing https://gitlab.mpi-sws.org/AVA/icing -->
-
 ::: {.row}
 ::: {.col .proj-logo}
   [![Incarnate Logo](thumb/logo-incarnate.png)](http://incarnate.uwplse.org/)
@@ -44,6 +39,81 @@
   <!-- TODO pubs -->
   <!-- TVM -->
   <!-- MAPL 2018 -->
+:::
+:::
+
+::: {.row}
+::: {.col .proj-logo}
+  [![Titanic Logo](thumb/logo-titanic.png)](http://titanic.uwplse.org/)
+:::
+::: {.col}
+  [Titanic](http://titanic.uwplse.org/) \
+  Floating-Point Number System Design Tools \
+  <!-- TODO pubs -->
+  <!-- CORRECTNESS 2019 -->
+  <!-- CoNGA 2018 -->
+:::
+:::
+
+::: {.row}
+::: {.col .proj-logo}
+  [![FPBench Logo](thumb/logo-fpbench.png)](http://fpbench.org/)
+:::
+::: {.col}
+  [FPBench](http://fpbench.org/) \
+  Numerical Benchmarks, Compilers, Standards \
+  <!-- TODO pubs -->
+  <!-- NSV 2016 -->
+:::
+:::
+
+::: {.row}
+::: {.col .proj-logo}
+  [![Carpentry Compiler Logo](thumb/logo-carpentry-compiler.png)](https://grail.cs.washington.edu/projects/carpentrycompiler/)
+:::
+::: {.col}
+  [Carpentry Compiler](https://grail.cs.washington.edu/projects/carpentrycompiler/) \
+  Synthesize and Optimize Carpentry Build Plans \
+  <!-- TODO pubs -->
+  <!-- SIGA 2019 -->
+:::
+:::
+
+::: {.row}
+::: {.col .proj-logo}
+  [![Icing Logo](thumb/logo-icing.png)](https://gitlab.mpi-sws.org/AVA/icing)
+:::
+::: {.col}
+  [Icing](https://gitlab.mpi-sws.org/AVA/icing) \
+  Accurate, Formally Verified Fast-math Optimizations \
+  <!-- TODO pubs -->
+  <!-- CAV 2019 -->
+:::
+:::
+
+::: {.row}
+::: {.col .proj-logo}
+  [![Herbie Logo](thumb/logo-herbie.png)](http://herbie.uwplse.org/)
+:::
+::: {.col}
+  [Herbie](http://herbie.uwplse.org/) \
+  Automatically Improving Numerical Accuracy \
+  <!-- TODO pubs -->
+  <!-- NSV 2020 -->
+  <!-- PLDI 2015 -->
+:::
+:::
+
+::: {.row}
+::: {.col .proj-logo}
+  [![Proof Engineering](thumb/logo-proofengineering.png)](https://proofengineering.org/)
+:::
+::: {.col}
+  [Proof Engineering](https://proofengineering.org/) \
+  Building and Maintaining Systems in Proof Assistants \
+  <!-- TODO pubs -->
+  <!-- QED 2019 -->
+  <!-- CPP 2106 -->
 :::
 :::
 
@@ -123,31 +193,6 @@
   <!-- TODO pubs -->
   <!-- CPP 2016 -->
   <!-- PLDI 2015 -->
-:::
-:::
-
-::: {.row}
-::: {.col .proj-logo}
-  [![Herbie Logo](thumb/logo-herbie.png)](http://herbie.uwplse.org/)
-:::
-::: {.col}
-  [Herbie](http://herbie.uwplse.org/) \
-  Automatically Improving Numerical Accuracy \
-  <!-- TODO pubs -->
-  <!-- NSV 2020 -->
-  <!-- PLDI 2015 -->
-:::
-:::
-
-::: {.row}
-::: {.col .proj-logo}
-  [![FPBench Logo](thumb/logo-fpbench.png)](http://fpbench.org/)
-:::
-::: {.col}
-  [FPBench](http://fpbench.org/) \
-  Numerical Benchmarks, Compilers, Standards \
-  <!-- TODO pubs -->
-  <!-- NSV 2016 -->
 :::
 :::
 
