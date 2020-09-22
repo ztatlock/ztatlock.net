@@ -38,7 +38,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Steven Lyubomirsky]
+  [![Steven Lyubomirsky](thumb/steven-lyubomirsky-cropped.jpg){.rounded}][Steven Lyubomirsky]
 :::
 ::: {.col .ra-desc}
   [[Steven Lyubomirsky]]{.ra-name} \
