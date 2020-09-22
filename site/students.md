@@ -9,9 +9,10 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Amy Zhu]]{.ra-name} \
-  Joined Summer 2020, Co-advised with [Adriana Schulz]
+  Co-advised with [Adriana Schulz] \
+  Joined Summer 2020
 
   - Rewrite Synthesis
   - PL for Knitting
@@ -22,9 +23,10 @@
 :::
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Gus Smith]]{.ra-name} \
-  Joined Autumn 2018, Co-advised with [Luis Ceze]
+  Co-advised with [Luis Ceze] \
+  Joined Autumn 2018
 
   - Custom Numeric Datatypes for ML Training
   - Hardware Software Co-design for ML Accelerators
@@ -35,7 +37,7 @@
 :::
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Steven Lyubomirsky]]{.ra-name} \
   Joined Autumn 2016
 
@@ -48,9 +50,10 @@
 :::
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Chandrakana Nandi]]{.ra-name} \
-  Joined Autumn 2015, Co-advised with [Dan Grossman]
+  Co-advised with [Dan Grossman] \
+  Joined Autumn 2015
 
   - Rewrite Synthesis
   - PL for 3D Printing and Carpentry
@@ -61,7 +64,7 @@
 :::
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Jared Roesch]]{.ra-name} \
   Joined Autumn 2015
 
@@ -74,15 +77,16 @@
 :::
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Bill Zorn]]{.ra-name} \
-  Joined Autumn 2014, Co-advised with [Dan Grossman]
+  Co-advised with [Dan Grossman] \
+  Joined Autumn 2014
 
   - Floating-point Accuracy
-  - Number System Analysis Tools
+  - Number Systems Analysis Tools
 :::
 ::: {.col .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Bill Zorn]
+  [![Bill Zorn](thumb/bill-zorn-cropped.jpg){.rounded}][Bill Zorn]
 :::
 :::
 
@@ -94,9 +98,10 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Andrew Liu]]{.ra-name} \
-  Joined Summer 2020, Co-Advised with [Gus Smith]
+  Co-Advised with [Gus Smith] \
+  Joined Summer 2020
 
 
   - Custom Numeric Datatypes for ML Training
@@ -108,9 +113,10 @@
 :::
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Brett Saiki]]{.ra-name} \
-  Joined Winter 2019, Co-Advised with [Bill Zorn] and [Pavel Panchekha]
+  Co-Advised with [Bill Zorn] and [Pavel Panchekha] \
+  Joined Winter 2019
 
   - Floating-point Accuracy
   - Mixed-precision Optimization
@@ -121,9 +127,10 @@
 :::
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Mike He]]{.ra-name} \
-  Joined Winter 2019, Co-Advised with [Steven Lyubomirsky]
+  Co-Advised with [Steven Lyubomirsky] \
+  Joined Winter 2019
 
   - TVM Relay
   - Dynamic Tensor Rematerialization
@@ -134,9 +141,10 @@
 :::
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Adam Anderson]]{.ra-name} \
-  Joined Summer 2017 (HS), Co-Advised with [Chandrakana Nandi]
+  Co-Advised with [Chandrakana Nandi] \
+  Joined Summer 2017 (HS)
 
   - Rewrite Synthesis
   - PL for 3D Printing and Carpentry
@@ -154,9 +162,10 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col}
+::: {.col .ra-desc}
   [[Grace Oh]]{.ra-name} \
-  Joined Summer 2020, Co-Advised with [Josh Pollock] and [Eunice Jun]
+  Co-Advised with [Josh Pollock] and [Eunice Jun] \
+  Joined Summer 2020
 
   - Program State Visualization
   - CS Education

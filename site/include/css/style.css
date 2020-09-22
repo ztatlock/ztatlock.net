@@ -113,32 +113,42 @@ section.footnotes {
 }
 
 /* STUDENTS */
+/* TODO redo to use bootstrap grid system properly */
+/* TODO probably means putting photos on the left so things break correctly */
 .ras {
   margin-top: 1.5rem;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 .ras .row {
   margin-top: 1.5rem;
 }
 .ra-name {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+  line-height: 1.75;
 }
 .ras p {
   margin-bottom: 0;
 }
 .ras ul {
-  padding-left: 1.2rem;
+  padding-left: 1.3rem;
+}
+.ras li {
+  padding-top: 4px;
+}
+.ra-desc {
+  max-width: 25rem;
 }
 .ra-pic {
   max-width: 20%;
-  text-align: left;
 }
 .ra-pic img {
-  max-height: 2.5rem;
+  max-height: 7rem;
+  max-width: 4rem;
 }
 @media (min-width: 550px) {
   .ra-pic img {
-    max-height: 4rem;
+    max-height: 8rem;
+    max-width: 5rem;
   }
 }
 
