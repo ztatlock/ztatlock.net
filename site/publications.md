@@ -8,6 +8,9 @@
     max-width: max-content;
     font-size: 0.95rem;
   }
+  .abs-card, .bib-card {
+    max-width: 40rem;
+  }
 </style>
 
 # Publications
@@ -73,6 +76,7 @@
   [Chenming Wu], [Haisen Zhao], [Chandrakana Nandi], <br class='big-only'>
   [Jeffrey I. Lipton], [Zachary Tatlock], [Adriana Schulz] \
   ACM Transactions on Graphics (SIGGRAPH ASIA) 2019 \
+  [abstract](#abs-2019-siga-carpentry-compiler){aria-controls='abs-2019-siga-carpentry-compiler' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [paper](pubs/2019-siga-carpentry-compiler.pdf) &nbsp;
   [appendix](pubs/2019-siga-carpentry-compiler-appendix.pdf) &nbsp;
   [teaser](https://www.youtube.com/watch?v=yaXKP7lv-CI) &nbsp;
@@ -80,6 +84,59 @@
   [code](https://github.com/helm-compiler) &nbsp;
   [project](https://grail.cs.washington.edu/projects/carpentrycompiler/) &nbsp;
   [bib](#bib-2019-siga-carpentry-compiler){aria-controls='bib-2019-siga-carpentry-compiler' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#abs-2019-siga-carpentry-compiler .collapse}
+::: {.card .card-body .abs-card}
+
+Traditional manufacturing workflows
+  strongly decouple design and fabrication phases.
+As a result, fabrication-related objectives
+  such as manufacturing time and precision
+  are difficult to optimize in the design space,
+  and vice versa.
+
+This paper presents HL-HELM,
+  a high-level, domain-specific language for expressing abstract,
+  parametric fabrication plans;
+it also introduces LL-HELM,
+  a low-level language for expressing concrete fabrication plans that
+  take into account the physical constraints of
+  available manufacturing processes.
+We present a new compiler that supports
+  the real-time, unoptimized translation of
+  high-level, geometric fabrication operations into
+  concrete, tool-specific fabrication instructions;
+this gives users immediate feedback on
+  the physical feasibility of plans as they design them.
+
+HELM offers novel optimizations to
+  improve accuracy and reduce fabrication time
+  as well as material costs.
+Optimized low-level plans can be interpreted as
+  step-by-step instructions for users
+  to actually fabricate a physical product.
+We provide a variety of example fabrication plans
+  in the carpentry domain that
+  are designed using our high-level language,
+  show how the compiler translates and optimizes
+  these plans to generate concrete low-level instructions,
+  and present the final physical products fabricated in wood.
+
+<!--
+See also:
+
+-
+-->
+
+Press:
+
+- [TechCrunch](https://techcrunch.com/2019/12/02/carpentry-compiler-turns-3d-models-to-instructions-on-how-to-build-them/)
+- [Popular Woodworking](https://www.popularwoodworking.com/editors-blog/new-software-could-take-the-guesswork-out-of-your-project/)
+- [i-programmer](https://www.i-programmer.info/news/98-languages/13310-carpentry-compiler-yes-the-target-is-wood.html)
+- [The UW Daily](http://www.dailyuw.com/science/article_5a21a1ce-5c3a-11ea-bf1d-e3dabdecfbbc.html)
+- [UW News](https://www.washington.edu/news/2019/12/02/carpentry-compiler/)
+
 :::
 :::
 ::: {#bib-2019-siga-carpentry-compiler .collapse}
