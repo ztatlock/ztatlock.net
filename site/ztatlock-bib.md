@@ -73,26 +73,6 @@
 ```
 
 ```
-@article{DBLP:journals/pacmpl/WeitzLHTET17,
-  author    = {Konstantin Weitz and
-               Steven Lyubomirsky and
-               Stefan Heule and
-               Emina Torlak and
-               Michael D. Ernst and
-               Zachary Tatlock},
-  title     = {SpaceSearch: a library for building and verifying solver-aided tools},
-  journal   = {Proc. {ACM} Program. Lang.},
-  volume    = {1},
-  number    = {{ICFP}},
-  pages     = {25:1--25:28},
-  year      = {2017},
-  url       = {https://doi.org/10.1145/3110269},
-  doi       = {10.1145/3110269},
-  timestamp = {Thu, 16 Apr 2020 01:00:00 +0200},
-}
-```
-
-```
 @inproceedings{DBLP:conf/cav/DamoucheMPQST16,
   author    = {Nasrine Damouche and
                Matthieu Martel and

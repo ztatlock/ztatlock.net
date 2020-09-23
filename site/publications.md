@@ -682,10 +682,10 @@ Press:
 :::
 
 
-<!-- -->
+<!-- 2017-08 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2017-icfp-spacesearch-verifying-solver-aided-tools .anchor}
 ::: {.pub-entry}
   **SpaceSearch: A Library for Building and Verifying Solver-aided Tools** \
   [Konstantin Weitz], [Steven Lyubomirsky], [Stefan Heule], <br class='big-only'>
@@ -696,13 +696,29 @@ Press:
   [slides](pubs/2017-icfp-spacesearch-verifying-solver-aided-tools-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/bagpipe) &nbsp;
   [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2017-icfp-spacesearch-verifying-solver-aided-tools){aria-controls='bib-2017-icfp-spacesearch-verifying-solver-aided-tools' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2017-icfp-spacesearch-verifying-solver-aided-tools .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@article{2017-icfp-spacesearch-verifying-solver-aided-tools,
+  author    = {Konstantin Weitz and
+               Steven Lyubomirsky and
+               Stefan Heule and
+               Emina Torlak and
+               Michael D. Ernst and
+               Zachary Tatlock},
+  title     = {SpaceSearch: A Library for Building and Verifying Solver-aided Tools},
+  journal   = {Proceedings of the {ACM} on Programming Languages},
+  volume    = {1},
+  number    = {{ICFP}},
+  pages     = {25:1--25:28},
+  year      = {2017},
+  url       = {https://doi.org/10.1145/3110269},
+  doi       = {10.1145/3110269},
+}
 ```
 :::
 :::
