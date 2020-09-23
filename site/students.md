@@ -24,7 +24,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Gus Smith]
+  [![Gus Smith](thumb/gus-smith-cropped.jpg){.rounded}][Gus Smith]
 :::
 ::: {.col .ra-desc}
   [[Gus Smith]]{.ra-name} \
