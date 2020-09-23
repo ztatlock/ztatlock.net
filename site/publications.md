@@ -694,8 +694,8 @@ Press:
   [paper](pubs/2017-icfp-spacesearch-verifying-solver-aided-tools.pdf) &nbsp;
   [talk](https://www.youtube.com/watch?v=dCx_E2SqcWE) &nbsp;
   [slides](pubs/2017-icfp-spacesearch-verifying-solver-aided-tools-slides.pdf) &nbsp;
-  [code](https://github.com/uwplse/bagpipe) &nbsp;
-  [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
+  [code](https://github.com/konne88/SpaceSearch) &nbsp;
+  [project](TODO) &nbsp;
   [bib](#bib-2017-icfp-spacesearch-verifying-solver-aided-tools){aria-controls='bib-2017-icfp-spacesearch-verifying-solver-aided-tools' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
