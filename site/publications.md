@@ -906,6 +906,30 @@ Press:
 :::
 
 
+<!-- 2017-01 -->
+
+
+::: {#pub-2017-coqpl-chord-churn .anchor}
+::: {.pub-entry}
+  **Verification of Implementations of Distributed Systems Under Churn** \
+  [Ryan Doenges], [James R. Wilcox], [Doug Woos], [Zachary Tatlock], [Karl Palmskog] \
+  Workshop on Coq for Programming Languages (CoqPL) 2017 \
+  [paper](pubs/2017-coqpl-chord-churn.pdf) &nbsp;
+  [slides](pubs/2017-coqpl-chord-churn-slides.pdf) &nbsp;
+  [code](https://github.com/DistributedComponents/verdi-chord) &nbsp;
+  [project](https://distributedcomponents.net/) &nbsp;
+  [bib](#bib-2017-coqpl-chord-churn){aria-controls='bib-2017-coqpl-chord-churn' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2017-coqpl-chord-churn .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
+:::
+:::
+
+
 <!-- 2016-07 -->
 
 
