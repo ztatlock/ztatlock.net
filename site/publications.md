@@ -682,6 +682,104 @@ Press:
 :::
 
 
+<!-- 2017-10 -->
+
+
+::: {#pub-2017-icalepcs-epics-verification .anchor}
+::: {.pub-entry}
+  **Automatic Formal Verification for EPICS** \
+  [Jonathan Jacky], [Stefani Banerian], [Michael D. Ernst], [Calvin Loncaric], <br class='big-only'>
+  [Stuart Pernsteiner], [Zachary Tatlock], [Emina Torlak] \
+  International Conference on Accelerator and Large Experimental Control Systems (ICALEPCS) 2017 \
+  [abstract](#abs-2017-icalepcs-epics-verification){aria-controls='abs-2017-icalepcs-epics-verification' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [paper](pubs/2017-icalepcs-epics-verification.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=CFSnkB5z0GA) &nbsp;
+  [slides](pubs/2017-icalepcs-epics-verification-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/neutrons) &nbsp;
+  [project](http://neutrons.uwplse.org) &nbsp;
+  [publisher](http://accelconf.web.cern.ch/icalepcs2017/doi/JACoW-ICALEPCS2017-TUDPL02.html) &nbsp;
+  [bib](#bib-2017-icalepcs-epics-verification){aria-controls='bib-2017-icalepcs-epics-verification' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#abs-2017-icalepcs-epics-verification .collapse}
+::: {.card .card-body .abs-card}
+
+We built an EPICS-based radiation therapy machine control system,
+  and are using it to treat patients at our hospital.
+To help ensure safety,
+  we use a restricted subset of EPICS constructs and programming techniques,
+  and developed several new automated formal verification tools for them.
+The Symbolic Evaluator checks properties of
+  EPICS database programs (applications),
+  using symbolic evaluation and satisfiability checking.
+It found serious errors in our control program
+  that were missed by reviews and testing.
+Other tools are based on a formal semantics for database records,
+  derived from EPICS documentation and expressed
+  in the specification language of an automated theorem prover.
+The Verified Interpreter is a re-implementation of
+  the parts of the database engine we use,
+  which is proved correct against the formal semantics.
+We used it to check those parts of EPICS core by differential testing.
+It found no significant errors
+  (differences between EPICS behavior and the formal semantics).
+A Verified Compiler is in development.
+It will compile a database to a standalone program
+  that does not use EPICS core,
+  where the machine code is verified to conform to the formal semantics.
+
+<!--
+
+TODO
+
+See also:
+
+-
+
+Press:
+
+-
+
+-->
+
+:::
+:::
+::: {#bib-2017-icalepcs-epics-verification .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2017-icalepcs-epics-verification,
+  author       = {Jonathan Jacky and
+                  Stefani Banerian and
+                  Michael D. Ernst and
+                  Calvin Loncaric and
+                  Stuart Pernsteiner and
+                  Zachary Tatlock and
+                  Emina Torlak},
+  title        = {{A}utomatic {F}ormal {V}erification for {EPICS}},
+  booktitle    = {Proc. of International Conference on Accelerator and Large Experimental Control Systems (ICALEPCS'17),
+                  Barcelona, Spain, 8-13 October 2017},
+  pages        = {285--291},
+  paper        = {TUDPL02},
+  language     = {english},
+  keywords     = {ion, EPICS, controls, database, operation},
+  venue        = {Barcelona, Spain},
+  series       = {International Conference on Accelerator and Large Experimental Control Systems},
+  number       = {16},
+  publisher    = {JACoW},
+  address      = {Geneva, Switzerland},
+  month        = {January},
+  year         = {2018},
+  isbn         = {978-3-95450-193-9},
+  doi          = {https://doi.org/10.18429/JACoW-ICALEPCS2017-TUDPL02},
+  url          = {http://jacow.org/icalepcs2017/papers/tudpl02.pdf},
+  note         = {https://doi.org/10.18429/JACoW-ICALEPCS2017-TUDPL02},
+}
+```
+:::
+:::
+
+
 <!-- 2017-08 -->
 
 
