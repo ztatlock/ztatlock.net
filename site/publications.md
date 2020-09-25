@@ -930,6 +930,126 @@ Press:
 :::
 
 
+<!-- 2016-10 -->
+
+
+::: {#pub-2016-oopsla-bagpipe-scalable-bgp-verification-smt .anchor}
+::: {.pub-entry}
+  **Scalable Verification of Border Gateway Protocol Configurations with an SMT Solver** \
+  [Konstantin Weitz], [Doug Woos], [Emina Torlak], [Michael D. Ernst], [Arvind Krishnamurthy], [Zachary Tatlock] \
+  Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2016 \
+  [paper](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=ErvRZVNI3rc) &nbsp;
+  [slides](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/bagpipe) &nbsp;
+  [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
+  [bib](#bib-2016-oopsla-bagpipe-scalable-bgp-verification-smt){aria-controls='bib-2016-oopsla-bagpipe-scalable-bgp-verification-smt' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2016-oopsla-bagpipe-scalable-bgp-verification-smt .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2016-oopsla-bagpipe-scalable-bgp-verification-smt,
+  author    = {Konstantin Weitz and
+               Doug Woos and
+               Emina Torlak and
+               Michael D. Ernst and
+               Arvind Krishnamurthy and
+               Zachary Tatlock},
+  editor    = {Eelco Visser and
+               Yannis Smaragdakis},
+  title     = {Scalable Verification of Border Gateway Protocol Configurations
+               with an {SMT} Solver},
+  booktitle = {Proceedings of the 2016 {ACM} {SIGPLAN} International Conference on
+               Object-Oriented Programming, Systems, Languages, and Applications,
+               {OOPSLA} 2016, part of {SPLASH} 2016,
+               Amsterdam, The Netherlands,
+               October 30 - November 4, 2016},
+  pages     = {765--780},
+  publisher = {{ACM}},
+  year      = {2016},
+  url       = {https://doi.org/10.1145/2983990.2984012},
+  doi       = {10.1145/2983990.2984012},
+}
+```
+:::
+:::
+
+
+<!-- 2016-08 -->
+
+
+::: {#pub-2016-netpl-bagpipe-bgp-verification .anchor}
+::: {.pub-entry}
+  **Formal Semantics and Automated Verification for the Border Gateway Protocol** \
+  [Konstantin Weitz], [Doug Woos], [Emina Torlak],  <br class='big-only'>
+  [Michael D. Ernst], [Arvind Krishnamurthy], [Zachary Tatlock] \
+  ACM SIGCOMM Workshop on Networking and Programming Languages (NetPL) 2016 \
+  [abstract](#abs-2016-netpl-bagpipe-bgp-verification){aria-controls='abs-2016-netpl-bagpipe-bgp-verification' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [paper](pubs/2016-netpl-bagpipe-bgp-verification.pdf) &nbsp;
+  [slides](pubs/2016-netpl-bagpipe-bgp-verification-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/bagpipe) &nbsp;
+  [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
+  [bib](#bib-2016-netpl-bagpipe-bgp-verification){aria-controls='bib-2016-netpl-bagpipe-bgp-verification' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#abs-2016-netpl-bagpipe-bgp-verification .collapse}
+::: {.card .card-body .abs-card}
+
+We present the first mechanized formal semantics of BGP
+  (implemented in the Coq proof assistant)
+  that models all required features of the
+  BGP specification RFC-4271 modulo low-level details.
+We demonstrate our semantic's correctness and usefulness by:
+  1) extending and formalizing the pen-and-paper proof
+     by Gao & Rexford on the convergence of BGP,
+     revealing necessary extensions to
+     their original configuration guidelines;
+  2) building the Bagpipe tool which automatically checks
+     that BGP configurations adhere to given policy specifications,
+     revealing 19 apparent errors in three ASes with
+     over 240,000 lines of BGP configuration; and
+  3) testing the BGP simulator C-BGP, revealing one bug.
+
+<!--
+
+TODO
+
+See also:
+
+-
+
+-->
+
+:::
+:::
+::: {#bib-2016-netpl-bagpipe-bgp-verification .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2016-netpl-bagpipe-bgp-verification,
+  author    = {Konstantin Weitz and
+               Doug Woos and
+               Emina Torlak and
+               Michael D. Ernst and
+               Arvind Krishnamurthy and
+               Zachary Tatlock},
+  title     = {Formal Semantics and Automated Verification for the Border Gateway Protocol},
+  year      = {2016},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://conferences.sigcomm.org/sigcomm/2016/netpl.php},
+  booktitle = {Proceedings of the ACM SIGCOMM 2016 Workshop on Networking and Programming Languages},
+  keywords  = {network verification, network simulation, control plane modelling},
+  location  = {Florianopolis, Brazil},
+  series    = {NetPL'16}
+}
+```
+:::
+:::
+
+
 <!-- 2016-07 -->
 
 
@@ -972,53 +1092,6 @@ Press:
   year      = {2016},
   url       = {https://doi.org/10.1007/978-3-319-41540-6\_2},
   doi       = {10.1007/978-3-319-41540-6\_2},
-}
-```
-:::
-:::
-
-
-<!-- 2016-10 -->
-
-
-::: {#pub-2016-oopsla-bagpipe-scalable-bgp-verification-smt .anchor}
-::: {.pub-entry}
-  **Scalable Verification of Border Gateway Protocol Configurations with an SMT Solver** \
-  [Konstantin Weitz], [Doug Woos], [Emina Torlak], [Michael D. Ernst], [Arvind Krishnamurthy], [Zachary Tatlock] \
-  Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2016 \
-  [paper](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt.pdf) &nbsp;
-  [talk](https://www.youtube.com/watch?v=ErvRZVNI3rc) &nbsp;
-  [slides](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt-slides.pdf) &nbsp;
-  [code](https://github.com/uwplse/bagpipe) &nbsp;
-  [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
-  [bib](#bib-2016-oopsla-bagpipe-scalable-bgp-verification-smt){aria-controls='bib-2016-oopsla-bagpipe-scalable-bgp-verification-smt' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib-2016-oopsla-bagpipe-scalable-bgp-verification-smt .collapse}
-::: {.card .card-body .bib-card}
-```
-
-@inproceedings{2016-oopsla-bagpipe-scalable-bgp-verification-smt,
-  author    = {Konstantin Weitz and
-               Doug Woos and
-               Emina Torlak and
-               Michael D. Ernst and
-               Arvind Krishnamurthy and
-               Zachary Tatlock},
-  editor    = {Eelco Visser and
-               Yannis Smaragdakis},
-  title     = {Scalable Verification of Border Gateway Protocol Configurations
-               with an {SMT} Solver},
-  booktitle = {Proceedings of the 2016 {ACM} {SIGPLAN} International Conference on
-               Object-Oriented Programming, Systems, Languages, and Applications,
-               {OOPSLA} 2016, part of {SPLASH} 2016,
-               Amsterdam, The Netherlands,
-               October 30 - November 4, 2016},
-  pages     = {765--780},
-  publisher = {{ACM}},
-  year      = {2016},
-  url       = {https://doi.org/10.1145/2983990.2984012},
-  doi       = {10.1145/2983990.2984012},
 }
 ```
 :::
