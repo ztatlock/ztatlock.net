@@ -73,31 +73,6 @@
 ```
 
 ```
-@inproceedings{DBLP:conf/cav/DamoucheMPQST16,
-  author    = {Nasrine Damouche and
-               Matthieu Martel and
-               Pavel Panchekha and
-               Chen Qiu and
-               Alex Sanchez{-}Stern and
-               Zachary Tatlock},
-  editor    = {Sergiy Bogomolov and
-               Matthieu Martel and
-               Pavithra Prabhakar},
-  title     = {Toward a Standard Benchmark Format and Suite for Floating-Point Analysis},
-  booktitle = {Numerical Software Verification - 9th International Workshop, {NSV}
-               2016, Toronto, ON, Canada, July 17-18, 2016, [collocated with {CAV}
-               2016], Revised Selected Papers},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {10152},
-  pages     = {63--77},
-  year      = {2016},
-  url       = {https://doi.org/10.1007/978-3-319-54292-8\_6},
-  doi       = {10.1007/978-3-319-54292-8\_6},
-  timestamp = {Tue, 14 May 2019 10:00:43 +0200},
-}
-```
-
-```
 @inproceedings{DBLP:conf/cpp/WoosWATEA16,
   author    = {Doug Woos and
                James R. Wilcox and
@@ -117,31 +92,6 @@
   url       = {https://doi.org/10.1145/2854065.2854081},
   doi       = {10.1145/2854065.2854081},
   timestamp = {Tue, 06 Nov 2018 00:00:00 +0100},
-}
-```
-
-```
-@inproceedings{DBLP:conf/oopsla/WeitzWTEKT16,
-  author    = {Konstantin Weitz and
-               Doug Woos and
-               Emina Torlak and
-               Michael D. Ernst and
-               Arvind Krishnamurthy and
-               Zachary Tatlock},
-  editor    = {Eelco Visser and
-               Yannis Smaragdakis},
-  title     = {Scalable verification of border gateway protocol configurations with
-               an {SMT} solver},
-  booktitle = {Proceedings of the 2016 {ACM} {SIGPLAN} International Conference on
-               Object-Oriented Programming, Systems, Languages, and Applications,
-               {OOPSLA} 2016, part of {SPLASH} 2016, Amsterdam, The Netherlands,
-               October 30 - November 4, 2016},
-  pages     = {765--780},
-  publisher = {{ACM}},
-  year      = {2016},
-  url       = {https://doi.org/10.1145/2983990.2984012},
-  doi       = {10.1145/2983990.2984012},
-  timestamp = {Tue, 06 Nov 2018 16:57:16 +0100},
 }
 ```
 

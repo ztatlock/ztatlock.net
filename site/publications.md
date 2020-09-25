@@ -9,7 +9,7 @@
     font-size: 0.95rem;
   }
   .abs-card, .bib-card {
-    max-width: 40rem;
+    max-width: 45rem;
   }
 </style>
 
@@ -978,10 +978,57 @@ Press:
 :::
 
 
-<!-- -->
+<!-- 2016-10 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2016-oopsla-bagpipe-scalable-bgp-verification-smt .anchor}
+::: {.pub-entry}
+  **Scalable Verification of Border Gateway Protocol Configurations with an SMT Solver** \
+  [Konstantin Weitz], [Doug Woos], [Emina Torlak], [Michael D. Ernst], [Arvind Krishnamurthy], [Zachary Tatlock] \
+  Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2016 \
+  [paper](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=ErvRZVNI3rc) &nbsp;
+  [slides](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/bagpipe) &nbsp;
+  [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
+  [bib](#bib-2016-oopsla-bagpipe-scalable-bgp-verification-smt){aria-controls='bib-2016-oopsla-bagpipe-scalable-bgp-verification-smt' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2016-oopsla-bagpipe-scalable-bgp-verification-smt .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2016-oopsla-bagpipe-scalable-bgp-verification-smt,
+  author    = {Konstantin Weitz and
+               Doug Woos and
+               Emina Torlak and
+               Michael D. Ernst and
+               Arvind Krishnamurthy and
+               Zachary Tatlock},
+  editor    = {Eelco Visser and
+               Yannis Smaragdakis},
+  title     = {Scalable Verification of Border Gateway Protocol Configurations
+               with an {SMT} Solver},
+  booktitle = {Proceedings of the 2016 {ACM} {SIGPLAN} International Conference on
+               Object-Oriented Programming, Systems, Languages, and Applications,
+               {OOPSLA} 2016, part of {SPLASH} 2016,
+               Amsterdam, The Netherlands,
+               October 30 - November 4, 2016},
+  pages     = {765--780},
+  publisher = {{ACM}},
+  year      = {2016},
+  url       = {https://doi.org/10.1145/2983990.2984012},
+  doi       = {10.1145/2983990.2984012},
+}
+```
+:::
+:::
+
+
+<!-- 2016-07 -->
+
+
+::: {#pub-2016-nsv-fpbench .anchor}
 ::: {.pub-entry}
   **Toward a Standard Benchmark Format and Suite for Floating-Point Analysis** \
   [Nasrine Damouche], [Matthieu Martel], [Pavel Panchekha], <br class='big-only'>
@@ -992,13 +1039,34 @@ Press:
   [slides](pubs/2016-nsv-fpbench-slides.pdf) &nbsp;
   [code](https://github.com/FPBench/FPBench) &nbsp;
   [project](http://fpbench.org/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2016-nsv-fpbench){aria-controls='bib-2016-nsv-fpbench' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2016-nsv-fpbench .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2016-nsv-fpbench,
+  author    = {Nasrine Damouche and
+               Matthieu Martel and
+               Pavel Panchekha and
+               Chen Qiu and
+               Alex Sanchez{-}Stern and
+               Zachary Tatlock},
+  editor    = {Sergiy Bogomolov and
+               Matthieu Martel and
+               Pavithra Prabhakar},
+  title     = {Toward a Standard Benchmark Format and Suite for Floating-Point Analysis},
+  booktitle = {Numerical Software Verification - 9th International Workshop, {NSV} 2016,
+               Toronto, ON, Canada, July 17-18, 2016, [collocated with {CAV} 2016],
+               Revised Selected Papers},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {10152},
+  pages     = {63--77},
+  year      = {2016},
+  url       = {https://doi.org/10.1007/978-3-319-54292-8\_6},
+  doi       = {10.1007/978-3-319-54292-8\_6},
+}
 ```
 :::
 :::
@@ -1017,31 +1085,6 @@ Press:
   [code](https://github.com/uwplse/verdi-raft) &nbsp;
   [Verdi](http://verdi.uwplse.org) &nbsp;
   [Proof Engineering](https://proofengineering.org) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib- .collapse}
-::: {.card .card-body .bib-card}
-```
-
-```
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#pub-TODO .anchor}
-::: {.pub-entry}
-  **Scalable Verification of Border Gateway Protocol Configurations with an SMT Solver** \
-  [Konstantin Weitz], [Doug Woos], [Emina Torlak], [Michael D. Ernst], [Arvind Krishnamurthy], [Zachary Tatlock] \
-  Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2016 \
-  [paper](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt.pdf) &nbsp;
-  [talk](https://www.youtube.com/watch?v=ErvRZVNI3rc) &nbsp;
-  [slides](pubs/2016-oopsla-bagpipe-scalable-bgp-verification-smt-slides.pdf) &nbsp;
-  [code](https://github.com/uwplse/bagpipe) &nbsp;
-  [project](http://bagpipe.uwplse.org/bagpipe/) &nbsp;
   [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
