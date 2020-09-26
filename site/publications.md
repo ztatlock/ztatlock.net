@@ -1258,8 +1258,8 @@ See also:
   [slides](pubs/2015-pldi-herbie-floating-point-accuracy-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/herbie) &nbsp;
   [project](http://herbie.uwplse.org/) &nbsp;
-  <br> *Distinguished Paper Award*
   [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  <br> [Distinguished Paper Award]{.pub-award}
 :::
 :::
 ::: {#bib- .collapse}
@@ -1358,7 +1358,6 @@ See also:
   [slides](pubs/2014-osdi-jitk-verified-bpf-slides.pdf) &nbsp;
   [code](https://css.csail.mit.edu/jitk/) &nbsp;
   [project](https://css.csail.mit.edu/jitk/) &nbsp;
-  [bib](pubs/2014-osdi-jitk-verified-bpf.bib) &nbsp;
   [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
