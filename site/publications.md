@@ -1464,6 +1464,30 @@ See also:
 :::
 
 
+<!-- 2015-01 -->
+
+
+::: {#pub-2015-coqpl-peek-coq-verified-peepholes .anchor}
+::: {.pub-entry}
+  **Peek: A Formally Verified Peephole Optimization Framework for x86** \
+  [Eric Mullen], [Zachary Tatlock], [Dan Grossman] \
+  Workshop on Coq for Programming Languages (CoqPL) 2015 \
+  [paper](pubs/2015-coqpl-peek-coq-verified-peepholes.pdf) &nbsp;
+  [slides](pubs/2015-coqpl-peek-coq-verified-peepholes-slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/peek) &nbsp;
+  [project](http://peek.uwplse.org/) &nbsp;
+  [bib](#bib-2015-coqpl-peek-coq-verified-peepholes){aria-controls='bib-2015-coqpl-peek-coq-verified-peepholes' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2015-coqpl-peek-coq-verified-peepholes .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
+:::
+:::
+
+
 <!-- -->
 
 
