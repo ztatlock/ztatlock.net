@@ -265,7 +265,7 @@ Press:
 <!-- -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2019-correctness-mpmf .anchor}
 ::: {.pub-entry}
   **Toward Multi-Precision, Multi-Format Numerics** \
   [David Thien], [Bill Zorn], [Pavel Panchekha], [Zachary Tatlock] \
@@ -275,10 +275,10 @@ Press:
   [FPBench] &nbsp;
   [Titanic] &nbsp;
   [Herbie] &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2019-correctness-mpmf){aria-controls='bib-2019-correctness-mpmf' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2019-correctness-mpmf .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -290,17 +290,17 @@ Press:
 <!-- -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2019-cav-icing-verified-fastmath .anchor}
 ::: {.pub-entry}
   **Icing: Supporting Fast-Math Style Optimizations in a Verified Compiler** \
   [Heiko Becker], [Eva Darulova], [Magnus O. Myreen], [Zachary Tatlock] \
   Computer-Aided Verification (CAV) 2019 \
   [paper](pubs/2019-cav-icing-verified-fastmath.pdf) &nbsp;
   [slides](pubs/2019-cav-icing-verified-fastmath-slides.pdf) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2019-cav-icing-verified-fastmath){aria-controls='bib-2019-cav-icing-verified-fastmath' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2019-cav-icing-verified-fastmath .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -312,7 +312,7 @@ Press:
 <!-- -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2019-eurosys-dslabs .anchor}
 ::: {.pub-entry}
   **Teaching Rigorous Distributed Systems With Efficient Model Checking** \
   [Ellis Michael], [Doug Woos], [Thomas E. Anderson], [Michael D. Ernst], [Zachary Tatlock] \
@@ -321,10 +321,10 @@ Press:
   [talk](https://youtu.be/zip-v2aR2WM?t=2693) &nbsp;
   [slides](pubs/2019-eurosys-dslabs-slides.pdf) &nbsp;
   [code](https://github.com/emichael/dslabs) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2019-eurosys-dslabs){aria-controls='bib-2019-eurosys-dslabs' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2019-eurosys-dslabs .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -1488,33 +1488,10 @@ See also:
 :::
 
 
-<!-- -->
+<!-- 2014-10 -->
 
 
-::: {#pub-TODO .anchor}
-::: {.pub-entry}
-  **SafeDispatch: Securing C++ Virtual Calls from Memory Corruption Attacks** \
-  [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] \
-  Network and Distributed System Security (NDSS) 2014 \
-  [paper](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense.pdf) &nbsp;
-  [slides](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense-slides.pdf) &nbsp;
-  [project](http://cseweb.ucsd.edu/~lerner/browser-sec.html) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib- .collapse}
-::: {.card .card-body .bib-card}
-```
-
-```
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#pub-TODO .anchor}
+::: {#pub-2014-osdi-jitk-verified-bpf .anchor}
 ::: {.pub-entry}
   **Jitk: A Trustworthy In-Kernel Interpreter Infrastructure** \
   [Xi Wang], [David Lazar], [Nickolai Zeldovich], [Adam Chlipala], [Zachary Tatlock] \
@@ -1524,10 +1501,10 @@ See also:
   [slides](pubs/2014-osdi-jitk-verified-bpf-slides.pdf) &nbsp;
   [code](https://css.csail.mit.edu/jitk/) &nbsp;
   [project](https://css.csail.mit.edu/jitk/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2014-osdi-jitk-verified-bpf){aria-controls='bib-2014-osdi-jitk-verified-bpf' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2014-osdi-jitk-verified-bpf .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -1536,10 +1513,10 @@ See also:
 :::
 
 
-<!-- -->
+<!-- 2014-06 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2014-pldi-reflex-reactive-systems-coq .anchor}
 ::: {.pub-entry}
   **Automating Formal Proofs for Reactive Systems** \
   [Daniel Ricketts], [Valentin Robert], [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] \
@@ -1549,10 +1526,33 @@ See also:
   [slides](pubs/2014-pldi-reflex-reactive-systems-coq-slides.pdf) &nbsp;
   [code](https://github.com/UCSD-PL/kraken) &nbsp;
   [project](http://goto.ucsd.edu/reflex/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2014-pldi-reflex-reactive-systems-coq){aria-controls='bib-2014-pldi-reflex-reactive-systems-coq' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2014-pldi-reflex-reactive-systems-coq .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
+:::
+:::
+
+
+<!-- 2014-02 -->
+
+
+::: {#pub-2014-ndss-safe-dispatch-vtable-hijacking-defense .anchor}
+::: {.pub-entry}
+  **SafeDispatch: Securing C++ Virtual Calls from Memory Corruption Attacks** \
+  [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] \
+  Network and Distributed System Security (NDSS) 2014 \
+  [paper](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense.pdf) &nbsp;
+  [slides](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense-slides.pdf) &nbsp;
+  [project](http://cseweb.ucsd.edu/~lerner/browser-sec.html) &nbsp;
+  [bib](#bib-2014-ndss-safe-dispatch-vtable-hijacking-defense){aria-controls='bib-2014-ndss-safe-dispatch-vtable-hijacking-defense' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2014-ndss-safe-dispatch-vtable-hijacking-defense .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -1564,7 +1564,7 @@ See also:
 <!-- -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2012-usenix-security-quark-formal-shim-verifiction-web-browser .anchor}
 ::: {.pub-entry}
   **Establishing Browser Security Guarantees through Formal Shim Verification** \
   [Dongseok Jang], [Zachary Tatlock], [Sorin Lerner] \
@@ -1576,10 +1576,10 @@ See also:
   [poster](pubs/2012-usenix-security-quark-formal-shim-verifiction-web-browser-poster.pdf) &nbsp;
   [code](http://goto.ucsd.edu/quark/quark-0807.tar.gz) &nbsp;
   [project](http://goto.ucsd.edu/quark/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2012-usenix-security-quark-formal-shim-verifiction-web-browser){aria-controls='bib-2012-usenix-security-quark-formal-shim-verifiction-web-browser' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2012-usenix-security-quark-formal-shim-verifiction-web-browser .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -1591,17 +1591,17 @@ See also:
 <!-- -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2011-lmcs-equality-saturation-optimizations-egraphs .anchor}
 ::: {.pub-entry}
   **Equality Saturation: A New Approach to Optimization** \
   [Ross Tate], [Michael Stepp], [Zachary Tatlock], [Sorin Lerner] \
   Logical Methods in Computer Science (LMCS) 2011 \
   [paper](pubs/2011-lmcs-equality-saturation-optimizations-egraphs.pdf) &nbsp;
   [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2011-lmcs-equality-saturation-optimizations-egraphs){aria-controls='bib-2011-lmcs-equality-saturation-optimizations-egraphs' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2011-lmcs-equality-saturation-optimizations-egraphs .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -1613,7 +1613,7 @@ See also:
 <!-- -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2010-pldi-xcert-extensible-verified-compilers .anchor}
 ::: {.pub-entry}
   **Bringing Extensibility to Verified Compilers** \
   [Zachary Tatlock], [Sorin Lerner] \
@@ -1621,10 +1621,10 @@ See also:
   [paper](pubs/2010-pldi-xcert-extensible-verified-compilers.pdf) &nbsp;
   [slides](pubs/2010-pldi-xcert-extensible-verified-compilers-slides.pdf) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/collider.html) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2010-pldi-xcert-extensible-verified-compilers){aria-controls='bib-2010-pldi-xcert-extensible-verified-compilers' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2010-pldi-xcert-extensible-verified-compilers .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -1636,7 +1636,7 @@ See also:
 <!-- -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2009-popl-equality-saturation-optimizations-egraphs .anchor}
 ::: {.pub-entry}
   **Equality Saturation: A New Approach to Optimization** \
   [Ross Tate], [Michael Stepp], [Zachary Tatlock], [Sorin Lerner] \
@@ -1646,10 +1646,10 @@ See also:
   [slides](pubs/2009-popl-equality-saturation-optimizations-egraphs-slides.pdf) &nbsp;
   [code](http://goto.ucsd.edu/~mstepp/peggy/) &nbsp;
   [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2009-popl-equality-saturation-optimizations-egraphs){aria-controls='bib-2009-popl-equality-saturation-optimizations-egraphs' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2009-popl-equality-saturation-optimizations-egraphs .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -1661,7 +1661,7 @@ See also:
 <!-- -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2009-pldi-pec-compiler-optimization-verification .anchor}
 ::: {.pub-entry}
   **Proving Optimizations Correct using Parameterized Program Equivalence** \
   [Sudipta Kundu], [Zachary Tatlock], [Sorin Lerner] \
@@ -1671,10 +1671,10 @@ See also:
   [slides](pubs/2009-pldi-pec-compiler-optimization-verification-slides.pdf) &nbsp;
   [code](https://github.com/ztatlock/pec) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/collider.html) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2009-pldi-pec-compiler-optimization-verification){aria-controls='bib-2009-pldi-pec-compiler-optimization-verification' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2009-pldi-pec-compiler-optimization-verification .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
@@ -1686,7 +1686,7 @@ See also:
 <!-- -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2008-oopsla-quail-deep-typechecking-and-refactoring .anchor}
 ::: {.pub-entry}
   **Deep Typechecking and Refactoring** \
   [Zachary Tatlock], [Chris Tucker], [David Shuffelton], [Ranjit Jhala], [Sorin Lerner] \
@@ -1695,10 +1695,10 @@ See also:
   [slides](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-slides.pptx) &nbsp;
   [poster](pubs/2008-oopsla-quail-deep-typechecking-and-refactoring-poster.pdf) &nbsp;
   [project](http://cseweb.ucsd.edu/~lerner/quail.html) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2008-oopsla-quail-deep-typechecking-and-refactoring){aria-controls='bib-2008-oopsla-quail-deep-typechecking-and-refactoring' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2008-oopsla-quail-deep-typechecking-and-refactoring .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
