@@ -72,45 +72,7 @@
 }
 ```
 
-```
-@inproceedings{DBLP:conf/hri/AlexandrovaTC15,
-  author    = {Sonya Alexandrova and
-               Zachary Tatlock and
-               Maya Cakmak},
-  editor    = {Julie A. Adams and
-               William D. Smart and
-               Bilge Mutlu and
-               Leila Takayama},
-  title     = {Visual Robot Programming for Generalizable Mobile Manipulation Tasks},
-  booktitle = {Proceedings of the Tenth Annual {ACM/IEEE} International Conference
-               on Human-Robot Interaction, {HRI} 2015 Extended Abstracts, Portland,
-               OR, USA, March 02 - 05, 2015},
-  pages     = {163--164},
-  publisher = {{ACM}},
-  year      = {2015},
-  url       = {https://doi.org/10.1145/2701973.2702052},
-  doi       = {10.1145/2701973.2702052},
-  timestamp = {Tue, 06 Nov 2018 00:00:00 +0100},
-}
-```
 
-```
-@inproceedings{DBLP:conf/icra/AlexandrovaTC15,
-  author    = {Sonya Alexandrova and
-               Zachary Tatlock and
-               Maya Cakmak},
-  title     = {RoboFlow: {A} flow-based visual programming language for mobile manipulation
-               tasks},
-  booktitle = {{IEEE} International Conference on Robotics and Automation, {ICRA}
-               2015, Seattle, WA, USA, 26-30 May, 2015},
-  pages     = {5537--5544},
-  publisher = {{IEEE}},
-  year      = {2015},
-  url       = {https://doi.org/10.1109/ICRA.2015.7139973},
-  doi       = {10.1109/ICRA.2015.7139973},
-  timestamp = {Wed, 16 Oct 2019 14:14:51 +0200},
-}
-```
 
 ```
 @inproceedings{DBLP:conf/ndss/JangTL14,

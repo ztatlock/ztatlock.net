@@ -1233,56 +1233,6 @@ See also:
 :::
 
 
-<!-- -->
-
-
-::: {#pub-TODO .anchor}
-::: {.pub-entry}
-  **Visual Robot Programming for Generalizable Mobile Manipulation Tasks (Extended Abstract)** \
-  [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] \
-  Human Robot Interaction (HRI) 2015 \
-  [paper](pubs/2015-hri-roboflow-visual-robot-programming-language.pdf) &nbsp;
-  [teaser](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
-  [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
-  [code](https://github.com/sonyaa/roboflow) &nbsp;
-  [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib- .collapse}
-::: {.card .card-body .bib-card}
-```
-
-```
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#pub-TODO .anchor}
-::: {.pub-entry}
-  **RoboFlow: A Flow-based Visual Programming Language for Mobile Manipulation Tasks** \
-  [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] \
-  International Conference on Robotics and Automation (ICRA) 2015 \
-  [paper](pubs/2015-icra-roboflow-visual-robot-programming-language.pdf) &nbsp;
-  [teaser](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
-  [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
-  [code](https://github.com/sonyaa/roboflow) &nbsp;
-  [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib- .collapse}
-::: {.card .card-body .bib-card}
-```
-
-```
-:::
-:::
-
-
 <!-- 2015-06 -->
 
 
@@ -1428,6 +1378,92 @@ See also:
 :::
 
 
+<!-- 2015-05 -->
+
+
+::: {#pub-2015-icra-roboflow-visual-robot-programming-language .anchor}
+::: {.pub-entry}
+  **RoboFlow: A Flow-based Visual Programming Language for Mobile Manipulation Tasks** \
+  [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] \
+  International Conference on Robotics and Automation (ICRA) 2015 \
+  [paper](pubs/2015-icra-roboflow-visual-robot-programming-language.pdf) &nbsp;
+  [teaser](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
+  [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
+  [code](https://github.com/sonyaa/roboflow) &nbsp;
+  [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
+  <!-- TODO port roboflow project to CSE -->
+  [bib](#bib-2015-icra-roboflow-visual-robot-programming-language){aria-controls='bib-2015-icra-roboflow-visual-robot-programming-language' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2015-icra-roboflow-visual-robot-programming-language .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2015-icra-roboflow-visual-robot-programming-language,
+  author    = {Sonya Alexandrova and
+               Zachary Tatlock and
+               Maya Cakmak},
+  title     = {RoboFlow: {A} Flow-based Visual Programming Language
+               for Mobile Manipulation Tasks},
+  booktitle = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+               2015, Seattle, WA, USA,
+               26-30 May, 2015},
+  pages     = {5537--5544},
+  publisher = {{IEEE}},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/ICRA.2015.7139973},
+  doi       = {10.1109/ICRA.2015.7139973},
+}
+```
+:::
+:::
+
+
+<!-- 2015-03 -->
+
+
+::: {#pub-2015-hri-roboflow-visual-robot-programming-language .anchor}
+::: {.pub-entry}
+  **Visual Robot Programming for Generalizable Mobile Manipulation Tasks (Extended Abstract)** \
+  [Sonya Alexandrova], [Zachary Tatlock], [Maya Cakmak] \
+  Human Robot Interaction (HRI) 2015 \
+  [paper](pubs/2015-hri-roboflow-visual-robot-programming-language.pdf) &nbsp;
+  [teaser](https://www.youtube.com/watch?v=CEKFUMBNEmU) &nbsp;
+  [web GUI](http://cse512-15s.github.io/fp-fiannaca-sonyaa/roboflow.html) &nbsp;
+  [code](https://github.com/sonyaa/roboflow) &nbsp;
+  [project](https://homes.cs.washington.edu/~ztatlock/roboflow/) &nbsp;
+  <!-- TODO port roboflow project to CSE -->
+  [bib](#bib-2015-hri-roboflow-visual-robot-programming-language){aria-controls='bib-2015-hri-roboflow-visual-robot-programming-language' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2015-hri-roboflow-visual-robot-programming-language .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2015-hri-roboflow-visual-robot-programming-language,
+  author    = {Sonya Alexandrova and
+               Zachary Tatlock and
+               Maya Cakmak},
+  editor    = {Julie A. Adams and
+               William D. Smart and
+               Bilge Mutlu and
+               Leila Takayama},
+  title     = {Visual Robot Programming for Generalizable Mobile Manipulation Tasks},
+  booktitle = {Proceedings of the Tenth Annual {ACM/IEEE} International Conference on
+               Human-Robot Interaction, {HRI} 2015 Extended Abstracts,
+               Portland, OR, USA,
+               March 02 - 05, 2015},
+  pages     = {163--164},
+  publisher = {{ACM}},
+  year      = {2015},
+  url       = {https://doi.org/10.1145/2701973.2702052},
+  doi       = {10.1145/2701973.2702052},
+}
+```
+:::
+:::
+
+
 <!-- -->
 
 
@@ -1438,6 +1474,7 @@ See also:
   Network and Distributed System Security (NDSS) 2014 \
   [paper](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense.pdf) &nbsp;
   [slides](pubs/2014-ndss-safe-dispatch-vtable-hijacking-defense-slides.pdf) &nbsp;
+  [project](http://cseweb.ucsd.edu/~lerner/browser-sec.html) &nbsp;
   [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
