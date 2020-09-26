@@ -1715,7 +1715,7 @@ See also:
 :::
 
 
-<!-- -->
+<!-- 2011-03 -->
 
 
 ::: {#pub-2011-lmcs-equality-saturation-optimizations-egraphs .anchor}
@@ -1750,7 +1750,7 @@ See also:
 :::
 
 
-<!-- -->
+<!-- 2010-06 -->
 
 
 ::: {#pub-2010-pldi-xcert-extensible-verified-compilers .anchor}
@@ -1790,51 +1790,7 @@ See also:
 :::
 
 
-<!-- -->
-
-
-::: {#pub-2009-popl-equality-saturation-optimizations-egraphs .anchor}
-::: {.pub-entry}
-  **Equality Saturation: A New Approach to Optimization** \
-  [Ross Tate], [Michael Stepp], [Zachary Tatlock], [Sorin Lerner] \
-  Principles of Programming Languages (POPL) 2009 \
-  [paper](pubs/2009-popl-equality-saturation-optimizations-egraphs.pdf) &nbsp;
-  [talk](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
-  [slides](pubs/2009-popl-equality-saturation-optimizations-egraphs-slides.pdf) &nbsp;
-  [code](http://goto.ucsd.edu/~mstepp/peggy/) &nbsp;
-  [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
-  [bib](#bib-2009-popl-equality-saturation-optimizations-egraphs){aria-controls='bib-2009-popl-equality-saturation-optimizations-egraphs' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib-2009-popl-equality-saturation-optimizations-egraphs .collapse}
-::: {.card .card-body .bib-card}
-```
-
-@inproceedings{,
-  author    = {Ross Tate and
-               Michael Stepp and
-               Zachary Tatlock and
-               Sorin Lerner},
-  editor    = {Zhong Shao and
-               Benjamin C. Pierce},
-  title     = {Equality Saturation: A New Approach to Optimization},
-  booktitle = {Proceedings of the 36th {ACM} {SIGPLAN-SIGACT} Symposium on
-               Principles of Programming Languages,
-               {POPL} 2009,
-               Savannah, GA, {USA},
-               January 21-23, 2009},
-  pages     = {264--276},
-  publisher = {{ACM}},
-  year      = {2009},
-  url       = {https://doi.org/10.1145/1480881.1480915},
-  doi       = {10.1145/1480881.1480915},
-}
-```
-:::
-:::
-
-
-<!-- -->
+<!-- 2009-06 -->
 
 
 ::: {#pub-2009-pldi-pec-compiler-optimization-verification .anchor}
@@ -1879,7 +1835,51 @@ See also:
 :::
 
 
-<!-- -->
+<!-- 2009-01 -->
+
+
+::: {#pub-2009-popl-equality-saturation-optimizations-egraphs .anchor}
+::: {.pub-entry}
+  **Equality Saturation: A New Approach to Optimization** \
+  [Ross Tate], [Michael Stepp], [Zachary Tatlock], [Sorin Lerner] \
+  Principles of Programming Languages (POPL) 2009 \
+  [paper](pubs/2009-popl-equality-saturation-optimizations-egraphs.pdf) &nbsp;
+  [talk](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
+  [slides](pubs/2009-popl-equality-saturation-optimizations-egraphs-slides.pdf) &nbsp;
+  [code](http://goto.ucsd.edu/~mstepp/peggy/) &nbsp;
+  [project](https://www.cs.cornell.edu/~ross/publications/eqsat/) &nbsp;
+  [bib](#bib-2009-popl-equality-saturation-optimizations-egraphs){aria-controls='bib-2009-popl-equality-saturation-optimizations-egraphs' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2009-popl-equality-saturation-optimizations-egraphs .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{,
+  author    = {Ross Tate and
+               Michael Stepp and
+               Zachary Tatlock and
+               Sorin Lerner},
+  editor    = {Zhong Shao and
+               Benjamin C. Pierce},
+  title     = {Equality Saturation: A New Approach to Optimization},
+  booktitle = {Proceedings of the 36th {ACM} {SIGPLAN-SIGACT} Symposium on
+               Principles of Programming Languages,
+               {POPL} 2009,
+               Savannah, GA, {USA},
+               January 21-23, 2009},
+  pages     = {264--276},
+  publisher = {{ACM}},
+  year      = {2009},
+  url       = {https://doi.org/10.1145/1480881.1480915},
+  doi       = {10.1145/1480881.1480915},
+}
+```
+:::
+:::
+
+
+<!-- 2008-10 -->
 
 
 ::: {#pub-2008-oopsla-quail-deep-typechecking-and-refactoring .anchor}
