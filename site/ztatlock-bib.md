@@ -73,50 +73,6 @@
 ```
 
 ```
-@inproceedings{DBLP:conf/cpp/WoosWATEA16,
-  author    = {Doug Woos and
-               James R. Wilcox and
-               Steve Anton and
-               Zachary Tatlock and
-               Michael D. Ernst and
-               Thomas E. Anderson},
-  editor    = {Jeremy Avigad and
-               Adam Chlipala},
-  title     = {Planning for change in a formal verification of the raft consensus
-               protocol},
-  booktitle = {Proceedings of the 5th {ACM} {SIGPLAN} Conference on Certified Programs
-               and Proofs, Saint Petersburg, FL, USA, January 20-22, 2016},
-  pages     = {154--165},
-  publisher = {{ACM}},
-  year      = {2016},
-  url       = {https://doi.org/10.1145/2854065.2854081},
-  doi       = {10.1145/2854065.2854081},
-  timestamp = {Tue, 06 Nov 2018 00:00:00 +0100},
-}
-```
-
-```
-@inproceedings{DBLP:conf/pldi/MullenZTG16,
-  author    = {Eric Mullen and
-               Daryl Zuniga and
-               Zachary Tatlock and
-               Dan Grossman},
-  editor    = {Chandra Krintz and
-               Emery Berger},
-  title     = {Verified peephole optimizations for CompCert},
-  booktitle = {Proceedings of the 37th {ACM} {SIGPLAN} Conference on Programming
-               Language Design and Implementation, {PLDI} 2016, Santa Barbara, CA,
-               USA, June 13-17, 2016},
-  pages     = {448--461},
-  publisher = {{ACM}},
-  year      = {2016},
-  url       = {https://doi.org/10.1145/2908080.2908109},
-  doi       = {10.1145/2908080.2908109},
-  timestamp = {Tue, 06 Nov 2018 16:59:30 +0100},
-}
-```
-
-```
 @inproceedings{DBLP:conf/hri/AlexandrovaTC15,
   author    = {Sonya Alexandrova and
                Zachary Tatlock and

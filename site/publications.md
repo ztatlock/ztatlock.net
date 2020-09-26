@@ -1145,10 +1145,52 @@ See also:
 :::
 
 
-<!-- -->
+<!-- 2016-06 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2016-pldi-peek-verified-peepholes-compcert .anchor}
+::: {.pub-entry}
+  **Verified Peephole Optimizations for CompCert** \
+  [Eric Mullen], [Daryl Zuniga], [Zachary Tatlock], [Dan Grossman] \
+  Programming Language Design and Implementation (PLDI) 2016 \
+  [paper](pubs/2016-pldi-peek-verified-peepholes-compcert.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=h4KoLyTh0zY) &nbsp;
+  [code](https://github.com/uwplse/peek) &nbsp;
+  [project](http://peek.uwplse.org/) &nbsp;
+  [bib](#bib-2016-pldi-peek-verified-peepholes-compcert){aria-controls='bib-2016-pldi-peek-verified-peepholes-compcert' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2016-pldi-peek-verified-peepholes-compcert .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2016-pldi-peek-verified-peepholes-compcert,
+  author    = {Eric Mullen and
+               Daryl Zuniga and
+               Zachary Tatlock and
+               Dan Grossman},
+  editor    = {Chandra Krintz and
+               Emery Berger},
+  title     = {Verified peephole optimizations for CompCert},
+  booktitle = {Proceedings of the 37th {ACM} {SIGPLAN} Conference on
+               Programming Language Design and Implementation, {PLDI} 2016,
+               Santa Barbara, CA,
+               USA, June 13-17, 2016},
+  pages     = {448--461},
+  publisher = {{ACM}},
+  year      = {2016},
+  url       = {https://doi.org/10.1145/2908080.2908109},
+  doi       = {10.1145/2908080.2908109},
+}
+```
+:::
+:::
+
+
+<!-- 2016-01 -->
+
+
+::: {#pub-2016-cpp-verdi-raft-proof-engineering .anchor}
 ::: {.pub-entry}
   **Planning for Change in a Formal Verification of the Raft Consensus Protocol** \
   [Doug Woos], [James R. Wilcox], [Steve Anton], [Zachary Tatlock], [Michael D. Ernst], [Thomas E. Anderson] \
@@ -1158,37 +1200,34 @@ See also:
   [code](https://github.com/uwplse/verdi-raft) &nbsp;
   [Verdi](http://verdi.uwplse.org) &nbsp;
   [Proof Engineering](https://proofengineering.org) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2016-cpp-verdi-raft-proof-engineering){aria-controls='bib-2016-cpp-verdi-raft-proof-engineering' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2016-cpp-verdi-raft-proof-engineering .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
-```
-:::
-:::
-
-
-<!-- -->
-
-
-::: {#pub-TODO .anchor}
-::: {.pub-entry}
-  **Verified Peephole Optimizations for CompCert** \
-  [Eric Mullen], [Daryl Zuniga], [Zachary Tatlock], [Dan Grossman] \
-  Programming Language Design and Implementation (PLDI) 2016 \
-  [paper](pubs/2016-pldi-peek-verified-peepholes-compcert.pdf) &nbsp;
-  [talk](https://www.youtube.com/watch?v=h4KoLyTh0zY) &nbsp;
-  [code](https://github.com/uwplse/peek) &nbsp;
-  [project](http://peek.uwplse.org/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
-:::
-:::
-::: {#bib- .collapse}
-::: {.card .card-body .bib-card}
-```
-
+@inproceedings{2016-cpp-verdi-raft-proof-engineering,
+  author    = {Doug Woos and
+               James R. Wilcox and
+               Steve Anton and
+               Zachary Tatlock and
+               Michael D. Ernst and
+               Thomas E. Anderson},
+  editor    = {Jeremy Avigad and
+               Adam Chlipala},
+  title     = {Planning for Change in a Formal Verification
+               of the Raft Consensus Protocol},
+  booktitle = {Proceedings of the 5th {ACM} {SIGPLAN} Conference on
+               Certified Programs and Proofs, {CPP} 2016,
+               Saint Petersburg, FL, USA,
+               January 20-22, 2016},
+  pages     = {154--165},
+  publisher = {{ACM}},
+  year      = {2016},
+  url       = {https://doi.org/10.1145/2854065.2854081},
+  doi       = {10.1145/2854065.2854081},
+}
 ```
 :::
 :::
