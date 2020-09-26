@@ -1283,10 +1283,10 @@ See also:
 :::
 
 
-<!-- -->
+<!-- 2015-06 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2015-pldi-herbie-floating-point-accuracy .anchor}
 ::: {.pub-entry}
   **Automatically Improving Accuracy for Floating Point Expressions** \
   [Pavel Panchekha], [Alex Sanchez-Stern], [James R. Wilcox], [Zachary Tatlock] \
@@ -1297,23 +1297,41 @@ See also:
   [slides](pubs/2015-pldi-herbie-floating-point-accuracy-slides.pdf) &nbsp;
   [code](https://github.com/uwplse/herbie) &nbsp;
   [project](http://herbie.uwplse.org/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2015-pldi-herbie-floating-point-accuracy){aria-controls='bib-2015-pldi-herbie-floating-point-accuracy' data-toggle='collapse' role='button' aria-expanded='false'}
   <br> [Distinguished Paper Award]{.pub-award}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2015-pldi-herbie-floating-point-accuracy .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2015-pldi-herbie-floating-point-accuracy,
+  author    = {Pavel Panchekha and
+               Alex Sanchez{-}Stern and
+               James R. Wilcox and
+               Zachary Tatlock},
+  editor    = {David Grove and
+               Steve Blackburn},
+  title     = {Automatically improving accuracy for floating point expressions},
+  booktitle = {Proceedings of the 36th {ACM} {SIGPLAN} Conference on
+               Programming Language Design and Implementation,
+               Portland, OR, USA,
+               June 15-17, 2015},
+  pages     = {1--11},
+  publisher = {{ACM}},
+  year      = {2015},
+  url       = {https://doi.org/10.1145/2737924.2737959},
+  doi       = {10.1145/2737924.2737959},
+}
 ```
 :::
 :::
 
 
-<!-- -->
+<!-- 2015-06 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2015-pldi-verdi-verifying-distributed-systems .anchor}
 ::: {.pub-entry}
   **Verdi: A Framework for Implementing and Formally Verifying Distributed Systems** \
   [James R. Wilcox], [Doug Woos], [Pavel Panchekha], [Zachary Tatlock], <br class='big-only'>
@@ -1325,22 +1343,43 @@ See also:
   [poster](pubs/2015-pldi-verdi-verifying-distributed-systems-poster.pdf) &nbsp;
   [code](https://github.com/uwplse/verdi) &nbsp;
   [project](http://verdi.uwplse.org/) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2015-pldi-verdi-verifying-distributed-systems){aria-controls='bib-2015-pldi-verdi-verifying-distributed-systems' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2015-pldi-verdi-verifying-distributed-systems .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2015-pldi-verdi-verifying-distributed-systems,
+  author    = {James R. Wilcox and
+               Doug Woos and
+               Pavel Panchekha and
+               Zachary Tatlock and
+               Xi Wang and
+               Michael D. Ernst and
+               Thomas E. Anderson},
+  editor    = {David Grove and
+               Steve Blackburn},
+  title     = {Verdi: a Framework for Implementing and Formally Verifying Distributed Systems},
+  booktitle = {Proceedings of the 36th {ACM} {SIGPLAN} Conference on
+               Programming Language Design and Implementation,
+               Portland, OR, USA,
+               June 15-17, 2015},
+  pages     = {357--368},
+  publisher = {{ACM}},
+  year      = {2015},
+  url       = {https://doi.org/10.1145/2737924.2737958},
+  doi       = {10.1145/2737924.2737958},
+}
 ```
 :::
 :::
 
 
-<!-- -->
+<!-- 2015-05 -->
 
 
-::: {#pub-TODO .anchor}
+::: {#pub-2015-snapl-neutrons-radiotherapy-safety .anchor}
 ::: {.pub-entry}
   **Toward a Dependability Case Language and Workflow for a Radiation Therapy System** \
   [Michael D. Ernst], [Dan Grossman], [Jonathan Jacky], [Calvin Loncaric], <br class='big-only'>
@@ -1350,13 +1389,40 @@ See also:
   [slides](pubs/2015-snapl-neutrons-radiotherapy-safety-slides.pdf) &nbsp;
   [project](http://neutrons.uwplse.org/) &nbsp;
   [I Am CSE](https://www.youtube.com/watch?v=QdR9_TJ1br8) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2015-snapl-neutrons-radiotherapy-safety){aria-controls='bib-2015-snapl-neutrons-radiotherapy-safety' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#bib-2015-snapl-neutrons-radiotherapy-safety .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2015-snapl-neutrons-radiotherapy-safety,
+  author    = {Michael D. Ernst and
+               Dan Grossman and
+               Jonathan Jacky and
+               Calvin Loncaric and
+               Stuart Pernsteiner and
+               Zachary Tatlock and
+               Emina Torlak and
+               Xi Wang},
+  editor    = {Thomas Ball and
+               Rastislav Bod{\'{\i}}k and
+               Shriram Krishnamurthi and
+               Benjamin S. Lerner and
+               Greg Morrisett},
+  title     = {Toward a Dependability Case Language and Workflow
+               for a Radiation Therapy System},
+  booktitle = {1st Summit on Advances in Programming Languages, {SNAPL} 2015,
+               May 3-6, 2015,
+               Asilomar, California, {USA}},
+  series    = {LIPIcs},
+  volume    = {32},
+  pages     = {103--112},
+  publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year      = {2015},
+  url       = {https://doi.org/10.4230/LIPIcs.SNAPL.2015.103},
+  doi       = {10.4230/LIPIcs.SNAPL.2015.103},
+}
 ```
 :::
 :::
