@@ -282,6 +282,24 @@ Press:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2019-correctness-mpmf,
+  author    = {David Thien and
+               Bill Zorn and
+               Pavel Panchekha and
+               Zachary Tatlock},
+  editor    = {Ignacio Laguna and
+               Cindy Rubio{-}Gonz{\'{a}}lez},
+  title     = {Toward Multi-Precision, Multi-Format Numerics},
+  booktitle = {2019 {IEEE/ACM} 3rd International Workshop on
+               Software Correctness for {HPC} Applications (Correctness),
+               Denver, CO, {USA},
+               November 18, 2019},
+  pages     = {19--26},
+  publisher = {{IEEE}},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/Correctness49594.2019.00008},
+  doi       = {10.1109/Correctness49594.2019.00008},
+}
 ```
 :::
 :::
@@ -304,6 +322,27 @@ Press:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2019-cav-icing-verified-fastmath,
+  author    = {Heiko Becker and
+               Eva Darulova and
+               Magnus O. Myreen and
+               Zachary Tatlock},
+  editor    = {Isil Dillig and
+               Serdar Tasiran},
+  title     = {Icing: Supporting Fast-Math Style Optimizations in a Verified Compiler},
+  booktitle = {Computer Aided Verification - 31st International Conference,
+               {CAV} 2019,
+               New York City, NY, USA,
+               July 15-18, 2019,
+               Proceedings, Part {II}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11562},
+  pages     = {155--173},
+  publisher = {Springer},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/978-3-030-25543-5\_10},
+  doi       = {10.1007/978-3-030-25543-5\_10},
+}
 ```
 :::
 :::
@@ -328,6 +367,26 @@ Press:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2019-eurosys-dslabs,
+  author    = {Ellis Michael and
+               Doug Woos and
+               Thomas E. Anderson and
+               Michael D. Ernst and
+               Zachary Tatlock},
+  editor    = {George Candea and
+               Robbert van Renesse and
+               Christof Fetzer},
+  title     = {Teaching Rigorous Distributed Systems
+               with Efficient Model Checking},
+  booktitle = {Proceedings of the Fourteenth EuroSys Conference 2019,
+               Dresden, Germany,
+               March 25-28, 2019},
+  pages     = {32:1--32:15},
+  publisher = {{ACM}},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3302424.3303947},
+  doi       = {10.1145/3302424.3303947},
+}
 ```
 :::
 :::
@@ -1084,7 +1143,10 @@ See also:
   title     = {Investigating Safety of a Radiotherapy Machine Using System Models
                with Pluggable Checkers},
   booktitle = {Computer Aided Verification - 28th International Conference,
-               {CAV} 2016, Toronto, ON, Canada, July 17-23, 2016, Proceedings, Part {II}},
+               {CAV} 2016,
+               Toronto, ON, Canada,
+               July 17-23, 2016,
+               Proceedings, Part {II}},
   series    = {Lecture Notes in Computer Science},
   volume    = {9780},
   pages     = {23--41},
@@ -1508,6 +1570,24 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{bib-2014-osdi-jitk-verified-bpf,
+  author    = {Xi Wang and
+               David Lazar and
+               Nickolai Zeldovich and
+               Adam Chlipala and
+               Zachary Tatlock},
+  editor    = {Jason Flinn and
+               Hank Levy},
+  title     = {Jitk: {A} Trustworthy In-Kernel Interpreter Infrastructure},
+  booktitle = {11th {USENIX} Symposium on Operating Systems Design and Implementation,
+               {OSDI} '14,
+               Broomfield, CO, {USA},
+               October 6-8, 2014},
+  pages     = {33--47},
+  publisher = {{USENIX} Association},
+  year      = {2014},
+  url       = {https://www.usenix.org/conference/osdi14/technical-sessions/presentation/wang\_xi},
+}
 ```
 :::
 :::
@@ -1533,6 +1613,25 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2014-pldi-reflex-reactive-systems-coq,
+  author    = {Daniel Ricketts and
+               Valentin Robert and
+               Dongseok Jang and
+               Zachary Tatlock and
+               Sorin Lerner},
+  editor    = {Michael F. P. O'Boyle and
+               Keshav Pingali},
+  title     = {Automating Formal Proofs for Reactive Systems},
+  booktitle = {{ACM} {SIGPLAN} Conference on Programming Language Design and Implementation,
+               {PLDI} '14,
+               Edinburgh, United Kingdom -
+               June 09 - 11, 2014},
+  pages     = {452--462},
+  publisher = {{ACM}},
+  year      = {2014},
+  url       = {https://doi.org/10.1145/2594291.2594338},
+  doi       = {10.1145/2594291.2594338},
+}
 ```
 :::
 :::
@@ -1556,6 +1655,20 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2014-ndss-safe-dispatch-vtable-hijacking-defense,
+  author    = {Dongseok Jang and
+               Zachary Tatlock and
+               Sorin Lerner},
+  title     = {SafeDispatch: Securing {C++} Virtual Calls from Memory Corruption
+               Attacks},
+  booktitle = {21st Annual Network and Distributed System Security Symposium,
+               {NDSS} 2014,
+               San Diego, California, {USA},
+               February 23-26, 2014},
+  publisher = {The Internet Society},
+  year      = {2014},
+  url       = {https://www.ndss-symposium.org/ndss2014/safedispatch-securing-c-virtual-calls-memory-corruption-attacks},
+}
 ```
 :::
 :::
@@ -1583,6 +1696,20 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2012-usenix-security-quark-formal-shim-verifiction-web-browser,
+  author    = {Dongseok Jang and
+               Zachary Tatlock and
+               Sorin Lerner},
+  editor    = {Tadayoshi Kohno},
+  title     = {Establishing Browser Security Guarantees through Formal Shim Verification},
+  booktitle = {Proceedings of the 21th {USENIX} Security Symposium,
+               Bellevue, WA,
+               {USA}, August 8-10, 2012},
+  pages     = {113--128},
+  publisher = {{USENIX} Association},
+  year      = {2012},
+  url       = {https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/jang},
+}
 ```
 :::
 :::
@@ -1605,6 +1732,19 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+@article{2011-lmcs-equality-saturation-optimizations-egraphs,
+  author    = {Ross Tate and
+               Michael Stepp and
+               Zachary Tatlock and
+               Sorin Lerner},
+  title     = {Equality Saturation: {A} New Approach to Optimization},
+  journal   = {Logical Methods in Computer Science},
+  volume    = {7},
+  number    = {1},
+  year      = {2011},
+  url       = {https://doi.org/10.2168/LMCS-7(1:10)2011},
+  doi       = {10.2168/LMCS-7(1:10)2011},
+}
 ```
 :::
 :::
@@ -1628,6 +1768,23 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2010-pldi-xcert-extensible-verified-compilers,
+  author    = {Zachary Tatlock and
+               Sorin Lerner},
+  editor    = {Benjamin G. Zorn and
+               Alexander Aiken},
+  title     = {Bringing Extensibility to Verified Compilers},
+  booktitle = {Proceedings of the 2010 {ACM} {SIGPLAN} Conference on
+               Programming Language Design and Implementation,
+               {PLDI} 2010,
+               Toronto, Ontario, Canada,
+               June 5-10, 2010},
+  pages     = {111--121},
+  publisher = {{ACM}},
+  year      = {2010},
+  url       = {https://doi.org/10.1145/1806596.1806611},
+  doi       = {10.1145/1806596.1806611},
+}
 ```
 :::
 :::
@@ -1653,6 +1810,25 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{,
+  author    = {Ross Tate and
+               Michael Stepp and
+               Zachary Tatlock and
+               Sorin Lerner},
+  editor    = {Zhong Shao and
+               Benjamin C. Pierce},
+  title     = {Equality Saturation: A New Approach to Optimization},
+  booktitle = {Proceedings of the 36th {ACM} {SIGPLAN-SIGACT} Symposium on
+               Principles of Programming Languages,
+               {POPL} 2009,
+               Savannah, GA, {USA},
+               January 21-23, 2009},
+  pages     = {264--276},
+  publisher = {{ACM}},
+  year      = {2009},
+  url       = {https://doi.org/10.1145/1480881.1480915},
+  doi       = {10.1145/1480881.1480915},
+}
 ```
 :::
 :::
@@ -1678,6 +1854,26 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2009-pldi-pec-compiler-optimization-verification,
+  author    = {Sudipta Kundu and
+               Zachary Tatlock and
+               Sorin Lerner},
+  editor    = {Michael Hind and
+               Amer Diwan},
+  title     = {Proving Optimizations Correct using
+               Parameterized Program Equivalence},
+  booktitle = {Proceedings of the 2009 {ACM} {SIGPLAN} Conference on
+               Programming Language Design and Implementation,
+               {PLDI} 2009,
+               Dublin, Ireland,
+               June 15-21, 2009},
+  pages     = {327--337},
+  publisher = {{ACM}},
+  year      = {2009},
+  url       = {https://doi.org/10.1145/1542476.1542513},
+  doi       = {10.1145/1542476.1542513},
+}
+
 ```
 :::
 :::
@@ -1702,6 +1898,26 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+@inproceedings{2008-oopsla-quail-deep-typechecking-and-refactoring,
+  author    = {Zachary Tatlock and
+               Chris Tucker and
+               David Shuffelton and
+               Ranjit Jhala and
+               Sorin Lerner},
+  editor    = {Gail E. Harris},
+  title     = {Deep Typechecking and Refactoring},
+  booktitle = {Proceedings of the 23rd Annual {ACM} {SIGPLAN} Conference on
+               Object-Oriented Programming, Systems, Languages, and Applications,
+               {OOPSLA} 2008,
+               Nashville, TN, {USA},
+               October 19-23, 2008},
+  pages     = {37--52},
+  publisher = {{ACM}},
+  year      = {2008},
+  url       = {https://doi.org/10.1145/1449764.1449768},
+  doi       = {10.1145/1449764.1449768},
+}
+
 ```
 :::
 :::
@@ -1715,6 +1931,5 @@ See also:
 - [Semantic Scholar](https://www.semanticscholar.org/author/Zachary-Tatlock/2272813)
 - [ResearchGate](https://www.researchgate.net/profile/Zachary_Tatlock)
 - [ACM Digital Library](https://dl.acm.org/profile/81392605383)
-- [Publications BibTeX](ztatlock-bib.html)
 
 <!-- TODO ORCID -->
