@@ -392,6 +392,74 @@ Press:
 :::
 
 
+<!-- 2019-03 -->
+
+
+::: {#pub-2019-conga-sinking-point .anchor}
+::: {.pub-entry}
+  **Sinking Point: Dynamic Precision Tracking for Floating-Point** \
+  [Bill Zorn], [Dan Grossman], [Zachary Tatlock] \
+  Conference for Next Generation Arithmetic (CoNGA) 2019 \
+  [abstract](#abs-2019-conga-sinking-point){aria-controls='abs-2019-conga-sinking-point' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [paper](pubs/2019-conga-sinking-point.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=nsKIUWlNrUU) &nbsp;
+  [slides](TODO) &nbsp;
+  [code](https://github.com/billzorn/titanic) &nbsp;
+  [project](http://titanic.uwplse.org/) &nbsp;
+  [bib](#bib-2019-conga-sinking-point){aria-controls='bib-2019-conga-sinking-point' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#abs-2019-conga-sinking-point .collapse}
+::: {.card .card-body .abs-card}
+
+We present sinking-point, a floating-point-like number system that
+  tracks precision dynamically though computations.
+With existing floating-point number systems,
+  such as the venerable IEEE 754 standard,
+  numerical results do not inherently contain
+  any information about their precision or accuracy;
+to determine if a result is numerically accurate,
+  a separate analysis must be performed.
+By contrast, sinking-point records the precision of
+  each intermediate value and result computed,
+  so highly imprecise results can be identified immediately.
+Compared to IEEE 754 floating-point,
+  sinking-point's representation requires
+  only a few additional bits of storage,
+  and computations require only a few additional bitwise operations.
+Sinking-point is fully generalizable,
+  and can be extended to provide dynamic error tracking
+  for nearly any digital number system, including posits.
+
+:::
+:::
+::: {#bib-2019-conga-sinking-point .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{,
+  author    = {Bill Zorn and
+               Dan Grossman and
+               Zachary Tatlock},
+  title     = {Sinking Point: Dynamic Precision Tracking for Floating-Point},
+  year      = {2019},
+  isbn      = {9781450371391},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/3316279.3316283},
+  doi       = {10.1145/3316279.3316283},
+  booktitle = {Proceedings of the Conference for Next Generation Arithmetic 2019},
+  articleno = {4},
+  numpages  = {8},
+  keywords  = {Floating point, numerical analysis},
+  location  = {Singapore, Singapore},
+  series    = {CoNGA'19}
+}
+```
+:::
+:::
+
+
 <!-- -->
 
 
