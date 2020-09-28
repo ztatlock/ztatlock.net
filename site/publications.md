@@ -315,6 +315,8 @@ Press:
   Computer-Aided Verification (CAV) 2019 \
   [paper](pubs/2019-cav-icing-verified-fastmath.pdf) &nbsp;
   [slides](pubs/2019-cav-icing-verified-fastmath-slides.pdf) &nbsp;
+  [code](https://gitlab.mpi-sws.org/AVA/icing) &nbsp;
+  [project](https://gitlab.mpi-sws.org/AVA/icing) &nbsp;
   [bib](#bib-2019-cav-icing-verified-fastmath){aria-controls='bib-2019-cav-icing-verified-fastmath' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
