@@ -18,6 +18,7 @@ I have been very fortunate to work on projects
 - [Andrew Liu]
 - [Antony Hosking]
 - [Arvind Krishnamurthy]
+- [Bill Harris]
 - [Bill Zorn]
 - [Brett Saiki]
 - [Calvin Loncaric]
