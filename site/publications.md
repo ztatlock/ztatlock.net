@@ -403,7 +403,7 @@ Press:
   [abstract](#abs-2019-conga-sinking-point){aria-controls='abs-2019-conga-sinking-point' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [paper](pubs/2019-conga-sinking-point.pdf) &nbsp;
   [talk](https://www.youtube.com/watch?v=nsKIUWlNrUU) &nbsp;
-  [slides](TODO) &nbsp;
+  [slides](pubs/2019-conga-sinking-point-slides.pdf) &nbsp;
   [code](https://github.com/billzorn/titanic) &nbsp;
   [project](http://titanic.uwplse.org/) &nbsp;
   [bib](#bib-2019-conga-sinking-point){aria-controls='bib-2019-conga-sinking-point' data-toggle='collapse' role='button' aria-expanded='false'}
