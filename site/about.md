@@ -14,7 +14,7 @@ Also, my name has a
   [wicked cool anagram](https://totalcrazyhack.net/anagram.html).
 
 I spent six sunny years at
-  [UC San Diego](https://cse.ucsd.edu) working on the PhD with
+  [UC San Diego](https://cse.ucsd.edu) working on my PhD with
   my incredible advisor [Sorin Lerner].
 Throughout grad school,
   Sorin set a stellar example of how remarkable
@@ -37,3 +37,12 @@ For our Honors Project,
   domain specific language to control a giant neon sculpture over the web.
 Over nearly three years,
   I ran the lab component of Purdue’s introductory Java programming course.
+
+## Miscellaneous
+
+We have a great running group,
+  [Race Condition Running](http://raceconditionrunning.com),
+  that trots all over the city and gets brunch each week.
+
+[![Race Condition Running](thumb/2015-10-race-condition-running.jpg){.img-fluid .rounded}](http://raceconditionrunning.com)
+
