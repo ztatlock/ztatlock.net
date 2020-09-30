@@ -42,7 +42,7 @@ Over nearly three years,
 
 We have a great running group,
   [Race Condition Running](http://raceconditionrunning.com),
-  that trots all over the city and gets brunch each week.
+  that trots all over Seattle and gets brunch each week.
 
 ::: {.about-pic}
   [![Race Condition Running](thumb/2015-10-race-condition-running.jpg){.img-fluid .rounded}](http://raceconditionrunning.com)
