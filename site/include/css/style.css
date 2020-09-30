@@ -50,6 +50,9 @@ h2 {
 .monospace {
   font-family: monospace;
 }
+.center {
+  text-align: center;
+}
 
 section.footnotes {
   padding-top: 4rem;
@@ -232,3 +235,9 @@ section.footnotes {
   padding-top: 0.5rem;
 }
 
+
+/* ABOUT */
+.about-pic {
+  max-width: 500px;
+  margin: 0 auto;
+}

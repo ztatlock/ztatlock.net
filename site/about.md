@@ -44,5 +44,21 @@ We have a great running group,
   [Race Condition Running](http://raceconditionrunning.com),
   that trots all over the city and gets brunch each week.
 
-[![Race Condition Running](thumb/2015-10-race-condition-running.jpg){.img-fluid .rounded}](http://raceconditionrunning.com)
+::: {.about-pic}
+  [![Race Condition Running](thumb/2015-10-race-condition-running.jpg){.img-fluid .rounded}](http://raceconditionrunning.com)
+:::
 
+I help out with a bunch of stuff around the Allen School,
+  including [TGIF](https://sites.google.com/cs.washington.edu/tgif/).
+Sometimes [famous guests](https://www.cs.princeton.edu/~dpw/) swing by :)
+
+::: {.about-pic}
+  ![David Walker, UW Dubs, Zachary Tatlock TGIF](thumb/2016-02-tgif-dubs-dpw-ztatlock.jpg){.img-fluid .rounded} \
+:::
+
+I am a big fan of Baja hoodies.
+Luckily the [PLSE] faculty also have incredible fashion sense.
+
+::: {.about-pic}
+  [![Zachary Tatlock and UW PLSE Faculty](thumb/2015-12-plse-faculty-baja-hoodies.jpg){.img-fluid .rounded}](https://uwplse.org)
+:::
