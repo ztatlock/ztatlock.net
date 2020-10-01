@@ -163,7 +163,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Grace Oh]
+  [![Grace Oh](thumb/grace-oh-cropped.jpg){.rounded}][Grace Oh]
 :::
 ::: {.col .ra-desc}
   [[Grace Oh]]{.ra-name} \
