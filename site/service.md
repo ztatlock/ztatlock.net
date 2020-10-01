@@ -60,12 +60,16 @@
 &nbsp; &nbsp;
 [Researchr Profile](https://conf.researchr.org/profile/conf/zacharytatlock)
 
-## Mentoring
+## Mentoring and Organizing
 
-- ADA Student Hackathon 2020
-- [ADA Student Hackathon 2019](https://adacenter.org/news/ada-hosts-third-student-hackathon-12062019)
+- SRC JUMP: Applications Driving Architectures (ADA) Student Hackathon 2020
+- [SRC JUMP: Applications Driving Architectures (ADA) Student Hackathon 2019](https://adacenter.org/news/ada-hosts-third-student-hackathon-12062019)
+- [UW Verification in Practice](http://vip.cs.washington.edu/)
+    2019 Co-Organizer
 - [PLDI 2018](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers)
     Programming Languages Mentoring Workshop (PLMW) Panelist
+- [PNW PLSE 2018](http://pnwplse.org/)
+    Organizer and Program Committee Chair
 - [SPLASH 2017](https://2017.splashcon.org/committee/splash-2017-doctoral-symposium-program-committee)
     Doctoral Symposium Program Committee
 - [POPL 2016](https://popl16.sigplan.org/committee/popl-2016-organizing-committee)
@@ -76,13 +80,6 @@
     Programming Languages Mentoring Workshop (PLMW) Co-Chair
 - [Inspirations at SPLASH 2014](https://2014.splashcon.org/track/splash2014-inspirations#About)
     Co-Organizer and Speaker
-
-## Organizing
-
-- [UW Verification in Practice](http://vip.cs.washington.edu/)
-    Co-Organizer
-- [PNW PLSE 2018](http://pnwplse.org/)
-    Organizer and Program Committee Chair
 
 <!--
 
