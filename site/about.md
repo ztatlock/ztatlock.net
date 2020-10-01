@@ -48,6 +48,13 @@ We have a great running group,
   [![Race Condition Running](thumb/2015-10-race-condition-running.jpg){.img-fluid .rounded}](http://raceconditionrunning.com)
 :::
 
+I am a big fan of Baja hoodies.
+Luckily the [PLSE] faculty also have incredible fashion sense.
+
+::: {.about-pic}
+  [![Zachary Tatlock and UW PLSE Faculty](thumb/2015-12-plse-faculty-baja-hoodies.jpg){.img-fluid .rounded}](https://uwplse.org)
+:::
+
 I help out with a bunch of stuff around the Allen School,
   including [TGIF](https://sites.google.com/cs.washington.edu/tgif/).
 Sometimes [famous guests](https://www.cs.princeton.edu/~dpw/) swing by :)
@@ -56,9 +63,11 @@ Sometimes [famous guests](https://www.cs.princeton.edu/~dpw/) swing by :)
   ![David Walker, UW Dubs, Zachary Tatlock TGIF](thumb/2016-02-tgif-dubs-dpw-ztatlock.jpg){.img-fluid .rounded} \
 :::
 
-I am a big fan of Baja hoodies.
-Luckily the [PLSE] faculty also have incredible fashion sense.
+I also help
+  [Hank Levy](https://www.cs.washington.edu/people/faculty/levy)
+  and [Adriana Schulz] write the annual faculty skit where we
+  dress up and try to take things a little less seriously.
 
 ::: {.about-pic}
-  [![Zachary Tatlock and UW PLSE Faculty](thumb/2015-12-plse-faculty-baja-hoodies.jpg){.img-fluid .rounded}](https://uwplse.org)
+  ![Zachary Tatlock as Charlie Brown in UW Faculty Skit](thumb/2015-12-uw-cse-faculty-skit-charlie-brown.jpg){.img-fluid .rounded} \
 :::
