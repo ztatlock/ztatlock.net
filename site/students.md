@@ -51,7 +51,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/chandrakana-nandi-cropped.jpg){.rounded}][Chandrakana Nandi]
+  [![Chandrakana Nandi](thumb/chandrakana-nandi-cropped.jpg){.rounded}][Chandrakana Nandi]
 :::
 ::: {.col .ra-desc}
   [[Chandrakana Nandi]]{.ra-name} \
@@ -65,7 +65,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/jared-roesch-cropped.jpg){.rounded}][Jared Roesch]
+  [![Jared Roesch](thumb/jared-roesch-cropped.jpg){.rounded}][Jared Roesch]
 :::
 ::: {.col .ra-desc}
   [[Jared Roesch]]{.ra-name} \
