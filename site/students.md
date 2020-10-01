@@ -150,7 +150,7 @@
   Joined Summer 2017 (HS)
 
   - Rewrite Synthesis
-  - PL for 3D Printing and Carpentry
+  - PL for 3D Printing
 :::
 :::
 
