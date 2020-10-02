@@ -251,13 +251,27 @@
 
 ::: {.card .news-item}
 
+  <!-- -->
+  ![Konstantin Weitz and Zachary Tatlock Graduation](thumb/2017-06-konne-graduation-cropped.jpg){.card-img-top loading=lazy}
+
+::: {.card-body}
+  [Konstantin][Konstantin Weitz] (my first PhD student!)
+  graduated in June 2017 &#x1F393; &nbsp;
+  Having ascended, Konne is going off to
+  bring his wizardly mastery of networks and formal methods
+  to bear at Google.
+:::
+:::
+
+::: {.card .news-item}
+
   [![SNAPL 2017](thumb/2017-05-snapl.jpg){.card-img-top loading=lazy}](https://snapl.org/2017/papers.html)
 
 ::: {.card-body}
   Had a blast at [SNAPL](https://snapl.org/2017/) in May 2017
   catching up with folks and discussing new, big ideas in PL research!
 
-  [James][James Wilcox] presented
+  [James][James R. Wilcox] presented
   [our paper](publications.html#pub-2017-snapl-disel-pl-for-distributed-systems)
   on early ideas for "horizontal composition" of
   [verified distributed systems components](https://distributedcomponents.net/).
