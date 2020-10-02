@@ -103,7 +103,7 @@
 :::
 ::: {.col .ra-desc}
   [[Andrew Liu]]{.ra-name} \
-  Co-Advised with [Gus Smith] \
+  Co-advised with [Gus Smith] \
   Joined Summer 2020
 
 
@@ -118,7 +118,7 @@
 :::
 ::: {.col .ra-desc}
   [[Brett Saiki]]{.ra-name} \
-  Co-Advised with [Bill Zorn] and [Pavel Panchekha] \
+  Co-advised with [Bill Zorn] and [Pavel Panchekha] \
   Joined Winter 2019
 
   - Floating-point Accuracy
@@ -132,7 +132,7 @@
 :::
 ::: {.col .ra-desc}
   [[Mike He]]{.ra-name} \
-  Co-Advised with [Steven Lyubomirsky] \
+  Co-advised with [Steven Lyubomirsky] \
   Joined Winter 2019
 
   - TVM Relay
@@ -146,7 +146,7 @@
 :::
 ::: {.col .ra-desc}
   [[Adam Anderson]]{.ra-name} \
-  Co-Advised with [Chandrakana Nandi] \
+  Co-advised with [Chandrakana Nandi] \
   Joined Summer 2017 (HS)
 
   - Rewrite Synthesis
@@ -167,7 +167,7 @@
 :::
 ::: {.col .ra-desc}
   [[Grace Oh]]{.ra-name} \
-  Co-Advised with [Josh Pollock] and [Eunice Jun] \
+  Co-advised with [Josh Pollock] and [Eunice Jun] \
   Joined Summer 2020
 
   - Program State Visualization
@@ -208,10 +208,43 @@
 
 ## Undergraduate
 
-  - [Altan Haan], BS 2020 \
-      &nbsp; &nbsp; &rarr; [OctoML]
-  - [Josh Pollock], BS 2020 \
-      &nbsp; &nbsp; &rarr; PhD Student at MIT
+::: {.ras .container}
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+<!--
+  [![Altan Haan](thumb/altan-haan-cropped.jpg){.rounded}][Altan Haan]
+-->
+  [![UW Logo](thumb/logo-uw.png)][Altan Haan]
+:::
+::: {.col .ra-desc}
+  [[Altan Haan]]{.ra-name} \
+  BS 2020 &rarr; [OctoML] \
+  Thesis: *Simulating Dynamic Tensor Rematerialization*
+
+  - Dynamic Tensor Rematerialization
+  - ML Compiler Design (TVM Relay)
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Josh Pollock](thumb/josh-pollock-cropped.jpg){.rounded}][Josh Pollock]
+:::
+::: {.col .ra-desc}
+  [[Josh Pollock]]{.ra-name} \
+  BS 2020 &rarr; PhD Student at MIT \
+  Thesis: *Sidewinder: Designing Correct Program State Visualizations*
+
+  - Program State Visualization
+  - ML Compiler Design (TVM Relay)
+:::
+:::
+
+:::
+
+
+
   - [Taylor Blau], BS 2020 \
       &nbsp; &nbsp; &rarr; GitHub
   - [David Thien], BS 2019 \
