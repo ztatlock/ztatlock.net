@@ -195,6 +195,47 @@ implementation of the Raft distributed consensus protocol.
 <!-- -->
 
 
+::: {#talk-2017-08-dagstuhl-fpbench .anchor}
+::: {.talk-entry}
+  **FPBench: Toward Standard Floating Point Benchmarks** \
+  Dagstuhl on 2017-08-29 \
+  MPI-SWS on 2017-08-25 \
+  [abstract](#abs-2017-08-dagstuhl-fpbench){aria-controls='abs-2017-08-dagstuhl-fpbench' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [slides](talks/2017-08-dagstuhl-fpbench-slides.pdf) &nbsp;
+  [event](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17352) &nbsp;
+:::
+:::
+::: {#abs-2017-08-dagstuhl-fpbench .collapse}
+::: {.card .card-body .abs-card}
+
+[FPBench] is a standard format and common set of benchmarks for
+  floating-point accuracy tests.
+The goal of FPBench is to enable
+  direct comparisons between competing tools,
+  facilitate the composition of complementary tools, and
+  lower the barrier to entry for new teams working on numerical tools.
+FPBench collects benchmarks from published papers
+  in a standard format and with standard accuracy measures and metadata.
+As a single repository for benchmarks,
+  FPBench can be used to guide the development of new tools,
+  evaluate completed tools, or
+  compare existing tools on identical inputs,
+  all while avoiding duplication and the manual effort
+  and inevitable errors of translating between input formats.
+
+See also:
+
+- [Pavel][Pavel Panchekha]'s
+  [related talk](https://www.youtube.com/watch?v=WvDZ4m4fAF0)
+  on combining [Herbie] and [Herbgrind] using [FPBench].
+
+:::
+:::
+
+
+<!-- -->
+
+
 ::: {#talk-2017-02-utah-herbie-herbgrind-fpbench .anchor}
 ::: {.talk-entry}
   **Automatically Improving Accuracy for Floating Point Expressions** \

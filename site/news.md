@@ -251,6 +251,20 @@
 
 ::: {.card .news-item}
 
+  [![Floating-point Dagstuhl 2017](thumb/2017-08-dagstuhl-floating-point.jpg){.card-img-top loading=lazy}](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17352)
+
+::: {.card-body}
+  In August 2017, [Pavel][Pavel Panchekha] and I participated in a
+  [Dagstuhl Seminar on Floating-point Programs](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17352)
+  with a bunch of our friends and visited
+  [Eva][Eva Darulova] at MPI-SWS to present on
+  [Herbie], [Herbgrind], and [FPBench].
+  Check out the [talks](talks.html#talk-2017-08-dagstuhl-fpbench)!
+:::
+:::
+
+::: {.card .news-item}
+
   <!-- -->
   ![Konstantin Weitz and Zachary Tatlock Graduation](thumb/2017-06-konne-graduation-cropped.jpg){.card-img-top loading=lazy}
 
