@@ -211,11 +211,44 @@ Press:
   **Theia: Automatically Generating Correct Program State Visualizations** \
   [Josh Pollock], [Jared Roesch], [Doug Woos], [Zachary Tatlock] \
   ACM SIGPLAN Symposium on SPLASH-E 2019 \
+  [abstract](#abs-2019-splashe-theia-psv-viz){aria-controls='abs-2019-splashe-theia-psv-viz' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [paper](pubs/2019-splashe-theia-psv-viz.pdf) &nbsp;
-  [bib](#bib-){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [code](https://github.com/joshpoll/sidewinder) &nbsp;
+  [bib](#bib-2019-splashe-theia-psv-viz){aria-controls='bib-2019-splashe-theia-psv-viz' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
-::: {#bib- .collapse}
+::: {#abs-2019-splashe-theia-psv-viz .collapse}
+::: {.card .card-body .abs-card}
+
+Program state visualizations (PSVs)
+  help programmers understand hidden program state like
+  objects, references, and closures.
+Unfortunately, existing PSV tools
+  do not support custom language semantics,
+  which educators often use to
+  introduce programming languages gradually.
+They also fail to visualize key pieces of program state,
+  which can lead to incorrect and confusing visualizations.
+
+Theia, a generic PSV framework,
+  uses formal abstract machine definitions
+  to produce complete, continuous, and consistent (CCC) PSVs.
+
+To produce CCC visualizations with Theia,
+  an educator only needs to specify
+  an abstract machine and optionally customize the resulting web page,
+  allowing her to visualize custom language semantics
+  without developing a language specific tool.
+
+See also:
+
+- [Live PSV demo for the lambda calculus.](https://joshpoll.github.io/zed/)
+- [Live PSV demo for Mini Python.](https://joshpoll.github.io/Mini-python/)
+
+:::
+:::
+
+::: {#bib-2019-splashe-theia-psv-viz .collapse}
 ::: {.card .card-body .bib-card}
 ```
 
