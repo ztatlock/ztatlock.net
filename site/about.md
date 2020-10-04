@@ -71,3 +71,11 @@ I also help
 ::: {.about-pic}
   ![Zachary Tatlock as Charlie Brown in UW Faculty Skit](thumb/2015-12-uw-cse-faculty-skit-charlie-brown.jpg){.img-fluid .rounded} \
 :::
+
+There is always something happening in the Allen School;
+it can be tricky to juggle everything going on &#x1F939;
+
+::: {.about-pic-narrow}
+  ![Zachary Tatlock juggling](thumb/ztatlock-juggling.jpg){.img-fluid .rounded} \
+:::
+

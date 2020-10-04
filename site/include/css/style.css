@@ -241,3 +241,7 @@ section.footnotes {
   max-width: 500px;
   margin: 0 auto;
 }
+.about-pic-narrow {
+  max-width: 250px;
+  margin: 0 auto;
+}
