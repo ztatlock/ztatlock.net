@@ -44,7 +44,7 @@
   [[Steven Lyubomirsky]]{.ra-name} \
   Joined Autumn 2016
 
-  - TVM Relay
+  - ML Compiler Design (TVM Relay)
   - Dynamic Tensor Rematerialization
 :::
 :::
@@ -71,7 +71,7 @@
   [[Jared Roesch]]{.ra-name} \
   Joined Autumn 2015
 
-  - TVM Relay
+  - ML Compiler Design (TVM Relay)
   - [OctoML]
 :::
 :::
@@ -99,7 +99,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Andrew Liu]
+  [![Andrew Liu](thumb/andrew-liu-cropped.jpg){.rounded}][Andrew Liu]
 :::
 ::: {.col .ra-desc}
   [[Andrew Liu]]{.ra-name} \
@@ -135,7 +135,7 @@
   Co-advised with [Steven Lyubomirsky] \
   Joined Winter 2019
 
-  - TVM Relay
+  - ML Compiler Design (TVM Relay)
   - Dynamic Tensor Rematerialization
 :::
 :::
@@ -199,12 +199,49 @@
 
 ## Masters
 
-  - [Marisa Kirisame], MS 2020 \
-      &nbsp; &nbsp; &rarr; PhD Student at Utah
-  - [Logan Weber], MS 2020 \
-      &nbsp; &nbsp; &rarr; PhD Student at MIT
-  - [Alex Sanchez-Stern], MS 2015 \
-      &nbsp; &nbsp; &rarr; PhD Student at UCSD
+::: {.ras .container}
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Marisa Kirisame](thumb/logo-uw.png){.rounded}][Marisa Kirisame]
+:::
+::: {.col .ra-desc}
+  [[Marisa Kirisame]]{.ra-name} \
+  BS 2019, MS 2020 &rarr; PhD Student at Utah \
+
+  - Dynamic Tensor Rematerialization
+  - ML Compiler Design (TVM Relay)
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Logan Weber](thumb/logo-uw.png){.rounded}][Logan Weber]
+:::
+::: {.col .ra-desc}
+  [[Logan Weber]]{.ra-name} \
+  BS 2019, MS 2020 &rarr; PhD Student at MIT \
+
+  - Embedded ML Runtime Systems
+  - ML Compiler Design (TVM Relay)
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Alex Sanchez-Stern](thumb/logo-uw.png){.rounded}][Alex Sanchez-Stern]
+:::
+::: {.col .ra-desc}
+  [[Alex Sanchez-Stern]]{.ra-name} \
+  BS 2014, MS 2015 &rarr; PhD Student at UCSD \
+
+  - Automatic Floating-point Accuracy Improvement
+  - Dynamic Floating-point Error Analysis
+:::
+:::
+
+:::
+
 
 ## Undergraduate
 
@@ -296,7 +333,6 @@
 :::
 :::
 -->
-
 
 :::
 
