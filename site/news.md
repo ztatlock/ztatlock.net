@@ -312,6 +312,19 @@
 
 ::: {.card .news-item}
 ::: {.play-btn}
+  [![Roboflow Demo](thumb/2016-05-roboflow-demo.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=CEKFUMBNEmU)
+:::
+::: {.card-body}
+  In May 2016 we put together a
+  [demo](https://www.youtube.com/watch?v=CEKFUMBNEmU)
+  of our work on the
+  [RoboFlow visual programming language](https://homes.cs.washington.edu/~ztatlock/roboflow/)
+  &#x1F916;
+:::
+:::
+
+::: {.card .news-item}
+::: {.play-btn}
   [![Neutrons I Am CSE](thumb/2016-03-neutrons-iamcse.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=QdR9_TJ1br8)
 :::
 ::: {.card-body}
