@@ -241,16 +241,66 @@
 :::
 :::
 
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Taylor Blau](thumb/logo-uw.png){.rounded}][Taylor Blau]
+:::
+::: {.col .ra-desc}
+  [[Taylor Blau]]{.ra-name} \
+  BS 2020 &rarr; Github \
+
+  - PL for 3D Printing
+  - Also advised by [Talia Ringer] on Formal Verification
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![David Thien](thumb/logo-uw.png){.rounded}][David Thien]
+:::
+::: {.col .ra-desc}
+  [[David Thien]]{.ra-name} \
+  BS 2019 &rarr; PhD Student at UCSD \
+
+  - Floating-point Accuracy
+  - Mixed-precision Optimization
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Jifan Zhang](thumb/jifan-zhang-cropped.jpg){.rounded}][Jifan Zhang]
+:::
+::: {.col .ra-desc}
+  [[Jifan Zhang]]{.ra-name} \
+  BS 2019 &rarr; MS Student at UW \
+
+  - ML Compiler Design (TVM Relay)
+  - Also advised by
+    [Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/about.html)
+    on Learning Theory
+:::
+:::
+
+<!--
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![NAME](thumb/uw-logo.png){.rounded}][NAME]
+:::
+::: {.col .ra-desc}
+  [[NAME]]{.ra-name} \
+  BS YEAR &rarr; AFTER \
+
+  - RESEARCH
+  - RESEARCH
+:::
+:::
+-->
+
+
 :::
 
 
-
-  - [Taylor Blau], BS 2020 \
-      &nbsp; &nbsp; &rarr; GitHub
-  - [David Thien], BS 2019 \
-      &nbsp; &nbsp; &rarr; PhD Student at UCSD
-  - [Jifan Zhang], BS 2019 \
-      &nbsp; &nbsp; &rarr; MS Student at UW with Kevin Jamieson
   - [Melissa Hovik], BS 2018 \
       &nbsp; &nbsp; &rarr; MS Student and Instructor at UW
   - [Chen Qiu], BS 2018 \
@@ -277,6 +327,7 @@
       &nbsp; &nbsp; &rarr; Microsoft
   - [Daryl Zuniga]^1^, BS 2015 \
       &nbsp; &nbsp; &rarr; Microsoft
+
 
 ## High School
 
