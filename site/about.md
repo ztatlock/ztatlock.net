@@ -79,3 +79,11 @@ it can be tricky to juggle everything going on &#x1F939;
   ![Zachary Tatlock juggling](thumb/ztatlock-juggling.jpg){.img-fluid .rounded} \
 :::
 
+Once while interning at
+  [MSR India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/),
+  I got to drive an auto rickshaw.
+
+::: {.about-pic}
+  ![Zachary Tatlock driving an auto rickshaw](thumb/2010-08-ztatlock-rickshaw.jpg){.img-fluid .rounded} \
+:::
+
