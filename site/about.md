@@ -87,3 +87,37 @@ Once while interning at
   ![Zachary Tatlock driving an auto rickshaw](thumb/2010-08-ztatlock-rickshaw.jpg){.img-fluid .rounded} \
 :::
 
+My academic genealogy has some interesting characters:
+
+- [Royal W. Sorensen](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=222430)
+  * [Physics Tree](https://academictree.org/physics/peopleinfo.php?pid=100144)
+- [Vincent C. Rideout](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=29801)
+  * [Physics Tree](https://academictree.org/physics/peopleinfo.php?pid=100143)
+- [Gerald Estrin](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=69930)
+- [David Martin](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=70595)
+- [David Patterson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=98366)
+- [David Ungar](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=65708)
+- [Craig Chambers](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=71760)
+- [Sorin Lerner](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=66244)
+- [Zachary Tatlock](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=180839)
+
+The best bound I know my
+ [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number),
+ is 4 via [James][James R. Wilcox]:
+
+::: {.about-pic}
+  ![Zachary Tatlock Erdős number via James Wilcox](thumb/ztatlock-erdos-number-james.png){.img-fluid .rounded} \
+:::
+
+or via [Pavel][Pavel Panchekha]:
+
+::: {.about-pic}
+  ![Zachary Tatlock Erdős number via Pavel Panchekha](thumb/ztatlock-erdos-number-pavel.png){.img-fluid .rounded} \
+:::
+
+or via [Tom][Thomas E. Anderson]:
+
+::: {.about-pic-narrow}
+  ![Zachary Tatlock Erdős number via Tom Anderson](thumb/ztatlock-erdos-number-tom.png){.img-fluid .rounded} \
+:::
+
