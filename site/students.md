@@ -229,7 +229,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Alex Sanchez-Stern](thumb/logo-uw.png){.rounded}][Alex Sanchez-Stern]
+  [![Alex Sanchez-Stern](thumb/alex-sanchez-stern-cropped.jpg){.rounded}][Alex Sanchez-Stern]
 :::
 ::: {.col .ra-desc}
   [[Alex Sanchez-Stern]]{.ra-name} \
