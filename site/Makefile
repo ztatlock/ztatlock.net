@@ -9,7 +9,13 @@ PUBS_DIR=$(HOME)/Dropbox/ztatlock.net/pubs
 TALKS_DIR=$(HOME)/Dropbox/ztatlock.net/talks
 
 .PHONY: stage
-stage: $(STAGE_PAGES) $(STAGE_INCLUDE) stage/thumb stage/pubs stage/talks
+stage: \
+	$(STAGE_PAGES) \
+	$(STAGE_INCLUDE) \
+	stage/thumb \
+	stage/pubs \
+	stage/talks \
+	CV
 
 stage/%.html: %.md TEMPLATE.html REFLINKS
 	@echo PANDOC $<
@@ -22,16 +28,21 @@ stage/%.html: %.md TEMPLATE.html REFLINKS
 		$< REFLINKS --output=$@
 
 stage/%: include/%
-	cp -r $< stage/
+	cp -r $< $@
 
 stage/thumb:
-	[ -d "$(THUMB_DIR)" ] && ln -s "$(THUMB_DIR)" stage/thumb
+	[ -d "$(THUMB_DIR)" ] && ln -s "$(THUMB_DIR)" $@
 
 stage/pubs:
-	[ -d "$(PUBS_DIR)" ] && ln -s "$(PUBS_DIR)" stage/pubs
+	[ -d "$(PUBS_DIR)" ] && ln -s "$(PUBS_DIR)" $@
 
 stage/talks:
-	[ -d "$(TALKS_DIR)" ] && ln -s "$(TALKS_DIR)" stage/talks
+	[ -d "$(TALKS_DIR)" ] && ln -s "$(TALKS_DIR)" $@
+
+.PHONY: CV
+CV:
+	$(MAKE) --directory ../cv ztatlock-cv.pdf
+	cp ../cv/ztatlock-cv.pdf stage/
 
 .PHONY: sync
 sync:
