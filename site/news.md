@@ -336,6 +336,19 @@
 :::
 :::
 
+::: {.card .news-item}
+::: {.play-btn}
+  [![UCSD Holiday Sketch 2014](thumb/2014-12-ucsd-holidy-sketch-give-them-your-dissertation.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=z2kXq1Fkhvg)
+:::
+::: {.card-body}
+  I got to make a guest appearance in an
+  [inspirational ad](https://www.youtube.com/watch?v=z2kXq1Fkhvg)
+  as part of UCSD's Holiday Party in December 2014.
+  [Ed noticed](https://news.cs.washington.edu/2014/12/17/uw-cses-zach-tatlock-in-ucsd-cse-holiday-party-2014-give-them-your-dissertation/)
+  &#x1F3AC;
+:::
+:::
+
 <!--
 
 TODO
@@ -391,6 +404,10 @@ TODO
 
 * In 2010, I wrote a chapter for [Dipu][Sudipta Kundu]'s book
   [High-Level Verification](http://www.springer.com/us/book/9781441993588).
+
+We teach many important
+ [life skills](https://news.cs.washington.edu/2015/09/08/uw-cses-zach-tatlock-learns-to-wear-shoes/)
+ here in the Allen School.
 
 
 December 2015
