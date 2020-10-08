@@ -10,7 +10,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Amy Zhu]
+  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Amy Zhu]
 :::
 ::: {.col .ra-desc}
   [[Amy Zhu]]{.ra-name} \
@@ -24,7 +24,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Gus Smith](thumb/gus-smith-cropped.jpg){.rounded}][Gus Smith]
+  [![Gus Smith](thumb/gus-smith-cropped.jpg){.img-fluid .rounded}][Gus Smith]
 :::
 ::: {.col .ra-desc}
   [[Gus Smith]]{.ra-name} \
@@ -38,7 +38,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Steven Lyubomirsky](thumb/steven-lyubomirsky-cropped.jpg){.rounded}][Steven Lyubomirsky]
+  [![Steven Lyubomirsky](thumb/steven-lyubomirsky-cropped.jpg){.img-fluid .rounded}][Steven Lyubomirsky]
 :::
 ::: {.col .ra-desc}
   [[Steven Lyubomirsky]]{.ra-name} \
@@ -51,7 +51,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Chandrakana Nandi](thumb/chandrakana-nandi-cropped.jpg){.rounded}][Chandrakana Nandi]
+  [![Chandrakana Nandi](thumb/chandrakana-nandi-cropped.jpg){.img-fluid .rounded}][Chandrakana Nandi]
 :::
 ::: {.col .ra-desc}
   [[Chandrakana Nandi]]{.ra-name} \
@@ -65,7 +65,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Jared Roesch](thumb/jared-roesch-cropped.jpg){.rounded}][Jared Roesch]
+  [![Jared Roesch](thumb/jared-roesch-cropped.jpg){.img-fluid .rounded}][Jared Roesch]
 :::
 ::: {.col .ra-desc}
   [[Jared Roesch]]{.ra-name} \
@@ -78,7 +78,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Bill Zorn](thumb/bill-zorn-cropped.jpg){.rounded}][Bill Zorn]
+  [![Bill Zorn](thumb/bill-zorn-cropped.jpg){.img-fluid .rounded}][Bill Zorn]
 :::
 ::: {.col .ra-desc}
   [[Bill Zorn]]{.ra-name} \
@@ -99,7 +99,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Andrew Liu](thumb/andrew-liu-cropped.jpg){.rounded}][Andrew Liu]
+  [![Andrew Liu](thumb/andrew-liu-cropped.jpg){.img-fluid .rounded}][Andrew Liu]
 :::
 ::: {.col .ra-desc}
   [[Andrew Liu]]{.ra-name} \
@@ -114,7 +114,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Brett Saiki]
+  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Brett Saiki]
 :::
 ::: {.col .ra-desc}
   [[Brett Saiki]]{.ra-name} \
@@ -128,7 +128,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Mike He]
+  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Mike He]
 :::
 ::: {.col .ra-desc}
   [[Mike He]]{.ra-name} \
@@ -142,7 +142,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png)][Adam Anderson]
+  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Adam Anderson]
 :::
 ::: {.col .ra-desc}
   [[Adam Anderson]]{.ra-name} \
@@ -163,7 +163,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Grace Oh](thumb/grace-oh-cropped.jpg){.rounded}][Grace Oh]
+  [![Grace Oh](thumb/grace-oh-cropped.jpg){.img-fluid .rounded}][Grace Oh]
 :::
 ::: {.col .ra-desc}
   [[Grace Oh]]{.ra-name} \
@@ -188,7 +188,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Pavel Panchekha](thumb/logo-uw.png){.rounded}][Pavel Panchekha]
+  [![Pavel Panchekha](thumb/logo-uw.png){.img-fluid .rounded}][Pavel Panchekha]
 :::
 ::: {.col .ra-desc}
   [[Pavel Panchekha]]{.ra-name} \
@@ -205,7 +205,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![James Wilcox](thumb/logo-uw.png){.rounded}][James R. Wilcox]
+  [![James Wilcox](thumb/logo-uw.png){.img-fluid .rounded}][James R. Wilcox]
 :::
 ::: {.col .ra-desc}
   [[James R. Wilcox]]{.ra-name} \
@@ -221,7 +221,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Doug Woos](thumb/logo-uw.png){.rounded}][Doug Woos]
+  [![Doug Woos](thumb/logo-uw.png){.img-fluid .rounded}][Doug Woos]
 :::
 ::: {.col .ra-desc}
   [[Doug Woos]]{.ra-name} \
@@ -238,7 +238,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Stuart Pernsteiner](thumb/logo-uw.png){.rounded}][Stuart Pernsteiner]
+  [![Stuart Pernsteiner](thumb/logo-uw.png){.img-fluid .rounded}][Stuart Pernsteiner]
 :::
 ::: {.col .ra-desc}
   [[Stuart Pernsteiner]]{.ra-name} \
@@ -255,7 +255,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Eric Mullen](thumb/logo-uw.png){.rounded}][Eric Mullen]
+  [![Eric Mullen](thumb/logo-uw.png){.img-fluid .rounded}][Eric Mullen]
 :::
 ::: {.col .ra-desc}
   [[Eric Mullen]]{.ra-name} \
@@ -272,7 +272,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Konstantin Weitz](thumb/logo-uw.png){.rounded}][Konstantin Weitz]
+  [![Konstantin Weitz](thumb/logo-uw.png){.img-fluid .rounded}][Konstantin Weitz]
 :::
 ::: {.col .ra-desc}
   [[Konstantin Weitz]]{.ra-name} \
@@ -295,7 +295,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Marisa Kirisame](thumb/logo-uw.png){.rounded}][Marisa Kirisame]
+  [![Marisa Kirisame](thumb/logo-uw.png){.img-fluid .rounded}][Marisa Kirisame]
 :::
 ::: {.col .ra-desc}
   [[Marisa Kirisame]]{.ra-name} \
@@ -308,7 +308,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Logan Weber](thumb/logo-uw.png){.rounded}][Logan Weber]
+  [![Logan Weber](thumb/logo-uw.png){.img-fluid .rounded}][Logan Weber]
 :::
 ::: {.col .ra-desc}
   [[Logan Weber]]{.ra-name} \
@@ -321,7 +321,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Alex Sanchez-Stern](thumb/alex-sanchez-stern-cropped.jpg){.rounded}][Alex Sanchez-Stern]
+  [![Alex Sanchez-Stern](thumb/alex-sanchez-stern-cropped.jpg){.img-fluid .rounded}][Alex Sanchez-Stern]
 :::
 ::: {.col .ra-desc}
   [[Alex Sanchez-Stern]]{.ra-name} \
@@ -342,9 +342,9 @@
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
 <!--
-  [![Altan Haan](thumb/altan-haan-cropped.jpg){.rounded}][Altan Haan]
+  [![Altan Haan](thumb/altan-haan-cropped.jpg){.img-fluid .rounded}][Altan Haan]
 -->
-  [![UW Logo](thumb/logo-uw.png)][Altan Haan]
+  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Altan Haan]
 :::
 ::: {.col .ra-desc}
   [[Altan Haan]]{.ra-name} \
@@ -358,7 +358,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Josh Pollock](thumb/josh-pollock-cropped.jpg){.rounded}][Josh Pollock]
+  [![Josh Pollock](thumb/josh-pollock-cropped.jpg){.img-fluid .rounded}][Josh Pollock]
 :::
 ::: {.col .ra-desc}
   [[Josh Pollock]]{.ra-name} \
@@ -372,7 +372,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Taylor Blau](thumb/logo-uw.png){.rounded}][Taylor Blau]
+  [![Taylor Blau](thumb/logo-uw.png){.img-fluid .rounded}][Taylor Blau]
 :::
 ::: {.col .ra-desc}
   [[Taylor Blau]]{.ra-name} \
@@ -385,7 +385,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![David Thien](thumb/logo-uw.png){.rounded}][David Thien]
+  [![David Thien](thumb/logo-uw.png){.img-fluid .rounded}][David Thien]
 :::
 ::: {.col .ra-desc}
   [[David Thien]]{.ra-name} \
@@ -398,7 +398,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Jifan Zhang](thumb/jifan-zhang-cropped.jpg){.rounded}][Jifan Zhang]
+  [![Jifan Zhang](thumb/jifan-zhang-cropped.jpg){.img-fluid .rounded}][Jifan Zhang]
 :::
 ::: {.col .ra-desc}
   [[Jifan Zhang]]{.ra-name} \
@@ -414,7 +414,7 @@
 <!--
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![NAME](thumb/uw-logo.png){.rounded}][NAME]
+  [![NAME](thumb/uw-logo.png){.img-fluid .rounded}][NAME]
 :::
 ::: {.col .ra-desc}
   [[NAME]]{.ra-name} \
