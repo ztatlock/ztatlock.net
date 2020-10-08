@@ -74,6 +74,7 @@ I have been very fortunate to work on projects
 - [Nickolai Zeldovich]
 - [Paul Curry]
 - [Pavel Panchekha]
+- [Philip J. Guo]
 - [Ramana Kumar]
 - [Ranjit Jhala]
 - [Ross Tate]

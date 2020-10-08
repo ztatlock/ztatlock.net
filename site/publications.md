@@ -17,6 +17,65 @@
 
 <!-- HERE -->
 
+<!-- DATE TODO -->
+
+
+::: {#pub-2020-plateau-psv-model .anchor}
+::: {.pub-entry}
+  **The Essence of Program Semantics Visualizers: A Three-Axis Model** \
+  [Josh Pollock], [Grace Oh], [Eunice Jun], [Philip J. Guo], [Zachary Tatlock] \
+  Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU) 2020 \
+  [abstract](#abs-2020-plateau-psv-model){aria-controls='abs-2020-plateau-psv-model' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [paper](pubs/2020-plateau-psv-model.pdf) &nbsp;
+<!--
+  [talk](TODO) &nbsp;
+  [slides](TODO) &nbsp;
+  [code](TODO) &nbsp;
+  [project](TODO) &nbsp;
+-->
+  [bib](#bib-2020-plateau-psv-model){aria-controls='bib-2020-plateau-psv-model' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#abs-2020-plateau-psv-model .collapse}
+::: {.card .card-body .abs-card}
+
+<!-- TODO update after camera ready -->
+
+A program semantics visualizer (PSV)
+  helps illuminate a language’s semantics by
+  explaining the runtime execution of programs.
+PSVs are often used in introductory programming (CS1) courses
+  to help introduce a notional machine,
+  an abstraction of the computer that executes the language.
+But what information should PSVs present
+  to fully explain such notional machines?
+
+In this paper we propose a three-axis model
+  to assess the design of PSVs that
+  visualize execution traces.
+PSVs should help users
+  by clearly answering three questions:
+  What is the machine’s configuration at each execution step?
+  Why did an execution step take place?
+  How did an execution step change the machine’s configuration?
+We demonstrate our model’s utility for assessing PSVs by
+  explaining why, in actual classroom use, instructors have resorted
+  to manually extending Python Tutor’s visualizations.
+
+See also:
+
+- [Theia: Automatically Generating Correct Program State Visualizations](#pub-2019-splashe-theia-psv-viz)
+
+:::
+:::
+::: {#bib-2020-plateau-psv-model .collapse}
+::: {.card .card-body .bib-card}
+```
+
+```
+:::
+:::
+
 
 <!-- 2020-06 -->
 
