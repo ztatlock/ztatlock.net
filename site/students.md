@@ -184,18 +184,110 @@
 
 ## PhD
 
-  - [Pavel Panchekha]^2^, PhD 2019 \
-      &nbsp; &nbsp; &rarr; Assistant Professor at Utah
-  - [James Wilcox][James R. Wilcox], PhD 2019 \
-      &nbsp; &nbsp; &rarr; CTO at Certora
-  - [Doug Woos]^2,3^, PhD 2019 \
-      &nbsp; &nbsp; &rarr; Lecturer at Brown
-  - [Stuart Pernsteiner]^2^, PhD 2018 \
-      &nbsp; &nbsp; &rarr; Galois Inc.
-  - [Eric Mullen]^1^, PhD 2018 \
-      &nbsp; &nbsp; &rarr; Google
-  - [Konstantin Weitz]^2^, PhD 2017 \
-      &nbsp; &nbsp; &rarr; Google
+::: {.ras .container}
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Pavel Panchekha](thumb/logo-uw.png){.rounded}][Pavel Panchekha]
+:::
+::: {.col .ra-desc}
+  [[Pavel Panchekha]]{.ra-name} \
+  Co-advised with [Michael D. Ernst] \
+  PhD 2019 &rarr; Assistant Professor at Utah \
+<!--
+  Thesis: **
+-->
+
+  - Web Page Layout Verification
+  - Automatic Floating-point Accuracy Improvement
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![James Wilcox](thumb/logo-uw.png){.rounded}][James R. Wilcox]
+:::
+::: {.col .ra-desc}
+  [[James R. Wilcox]]{.ra-name} \
+  ABD 2019 &rarr; CTO at Certora \
+<!--
+  Thesis: **
+-->
+
+  - Formal Verification of Distributed Systems
+  - Automatic Inductive Invariant Inference
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Doug Woos](thumb/logo-uw.png){.rounded}][Doug Woos]
+:::
+::: {.col .ra-desc}
+  [[Doug Woos]]{.ra-name} \
+  Co-advised with [Michael D. Ernst] and [Thomas E. Anderson] \
+  PhD 2019 &rarr; Lecturer at Brown \
+<!--
+  Thesis: **
+-->
+
+  - Formal Verification of Distributed Systems
+  - Distributed Systems Visualization
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Stuart Pernsteiner](thumb/logo-uw.png){.rounded}][Stuart Pernsteiner]
+:::
+::: {.col .ra-desc}
+  [[Stuart Pernsteiner]]{.ra-name} \
+  Co-advised with [Michael D. Ernst] \
+  PhD 2018 &rarr; Galois Inc. \
+<!--
+  Thesis: **
+-->
+
+  - Radiotherapy Control System Analysis and Reliability
+  - Formal Verification of Coq-to-x86 Compilation
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Eric Mullen](thumb/logo-uw.png){.rounded}][Eric Mullen]
+:::
+::: {.col .ra-desc}
+  [[Eric Mullen]]{.ra-name} \
+  Co-advised with [Dan Grossman] \
+  PhD 2018 &rarr; Google \
+<!--
+  Thesis: **
+-->
+
+  - Formal Verification of Peephole Optimizations for CompCert
+  - Formal Verification of Coq-to-x86 Compilation
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2 .ra-pic}
+  [![Konstantin Weitz](thumb/logo-uw.png){.rounded}][Konstantin Weitz]
+:::
+::: {.col .ra-desc}
+  [[Konstantin Weitz]]{.ra-name} \
+  Co-advised with [Michael D. Ernst] \
+  PhD 2017 &rarr; Google \
+<!--
+  Thesis: **
+-->
+
+  - Formal Verification of Border Gateway Protocol Router Configurations
+  - Formal Verification of Solver-aided Tools
+:::
+:::
+
+:::
 
 ## Masters
 
