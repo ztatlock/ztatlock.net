@@ -15,7 +15,7 @@ stage: \
 	stage/thumb \
 	stage/pubs \
 	stage/talks \
-	CV
+	stage/ztatlock-cv.pdf
 
 stage/%.html: %.md TEMPLATE.html REFLINKS
 	@echo PANDOC $<
@@ -39,10 +39,9 @@ stage/pubs:
 stage/talks:
 	[ -d "$(TALKS_DIR)" ] && ln -s "$(TALKS_DIR)" $@
 
-.PHONY: CV
-CV:
+stage/ztatlock-cv.pdf: ../cv/ztatlock-cv.tex
 	$(MAKE) --directory ../cv ztatlock-cv.pdf
-	cp ../cv/ztatlock-cv.pdf stage/
+	cp ../cv/ztatlock-cv.pdf $@
 
 .PHONY: sync
 sync:

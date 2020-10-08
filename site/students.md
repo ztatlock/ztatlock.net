@@ -188,7 +188,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![Pavel Panchekha](thumb/logo-uw.png){.img-fluid .rounded}][Pavel Panchekha]
+  [![Pavel Panchekha](thumb/pavel-panchekha-cropped.jpg){.img-fluid .rounded}][Pavel Panchekha]
 :::
 ::: {.col .ra-desc}
   [[Pavel Panchekha]]{.ra-name} \
