@@ -114,7 +114,7 @@
 
 ::: {.row}
 ::: {.col-sm-2 .ra-pic}
-  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Brett Saiki]
+  [![UW Logo](thumb/brett-saiki-cropped.jpg){.img-fluid .rounded}][Brett Saiki]
 :::
 ::: {.col .ra-desc}
   [[Brett Saiki]]{.ra-name} \
