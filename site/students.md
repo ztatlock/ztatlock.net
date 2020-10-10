@@ -9,8 +9,10 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Amy Zhu]
+:::
 :::
 ::: {.col .ra-desc}
   [[Amy Zhu]]{.ra-name} \
@@ -22,9 +24,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Gus Smith](thumb/gus-smith-cropped.jpg){.img-fluid .rounded}][Gus Smith]
+:::
 :::
 ::: {.col .ra-desc}
   [[Gus Smith]]{.ra-name} \
@@ -36,9 +41,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Steven Lyubomirsky](thumb/steven-lyubomirsky-cropped.jpg){.img-fluid .rounded}][Steven Lyubomirsky]
+:::
 :::
 ::: {.col .ra-desc}
   [[Steven Lyubomirsky]]{.ra-name} \
@@ -49,9 +57,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Chandrakana Nandi](thumb/chandrakana-nandi-cropped.jpg){.img-fluid .rounded}][Chandrakana Nandi]
+:::
 :::
 ::: {.col .ra-desc}
   [[Chandrakana Nandi]]{.ra-name} \
@@ -63,9 +74,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Jared Roesch](thumb/jared-roesch-cropped.jpg){.img-fluid .rounded}][Jared Roesch]
+:::
 :::
 ::: {.col .ra-desc}
   [[Jared Roesch]]{.ra-name} \
@@ -76,9 +90,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Bill Zorn](thumb/bill-zorn-cropped.jpg){.img-fluid .rounded}][Bill Zorn]
+:::
 :::
 ::: {.col .ra-desc}
   [[Bill Zorn]]{.ra-name} \
@@ -98,8 +115,10 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Andrew Liu](thumb/andrew-liu-cropped.jpg){.img-fluid .rounded}][Andrew Liu]
+:::
 :::
 ::: {.col .ra-desc}
   [[Andrew Liu]]{.ra-name} \
@@ -112,9 +131,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![UW Logo](thumb/brett-saiki-cropped.jpg){.img-fluid .rounded}][Brett Saiki]
+:::
 :::
 ::: {.col .ra-desc}
   [[Brett Saiki]]{.ra-name} \
@@ -126,9 +148,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Mike He]
+:::
 :::
 ::: {.col .ra-desc}
   [[Mike He]]{.ra-name} \
@@ -140,9 +165,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Adam Anderson]
+:::
 :::
 ::: {.col .ra-desc}
   [[Adam Anderson]]{.ra-name} \
@@ -162,8 +190,10 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Grace Oh](thumb/grace-oh-cropped.jpg){.img-fluid .rounded}][Grace Oh]
+:::
 :::
 ::: {.col .ra-desc}
   [[Grace Oh]]{.ra-name} \
@@ -187,8 +217,10 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Pavel Panchekha](thumb/pavel-panchekha-cropped.jpg){.img-fluid .rounded}][Pavel Panchekha]
+:::
 :::
 ::: {.col .ra-desc}
   [[Pavel Panchekha]]{.ra-name} \
@@ -203,9 +235,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![James Wilcox](thumb/logo-uw.png){.img-fluid .rounded}][James R. Wilcox]
+:::
 :::
 ::: {.col .ra-desc}
   [[James R. Wilcox]]{.ra-name} \
@@ -219,9 +254,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Doug Woos](thumb/logo-uw.png){.img-fluid .rounded}][Doug Woos]
+:::
 :::
 ::: {.col .ra-desc}
   [[Doug Woos]]{.ra-name} \
@@ -236,9 +274,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Stuart Pernsteiner](thumb/logo-uw.png){.img-fluid .rounded}][Stuart Pernsteiner]
+:::
 :::
 ::: {.col .ra-desc}
   [[Stuart Pernsteiner]]{.ra-name} \
@@ -253,9 +294,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Eric Mullen](thumb/logo-uw.png){.img-fluid .rounded}][Eric Mullen]
+:::
 :::
 ::: {.col .ra-desc}
   [[Eric Mullen]]{.ra-name} \
@@ -270,9 +314,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Konstantin Weitz](thumb/logo-uw.png){.img-fluid .rounded}][Konstantin Weitz]
+:::
 :::
 ::: {.col .ra-desc}
   [[Konstantin Weitz]]{.ra-name} \
@@ -294,8 +341,10 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Marisa Kirisame](thumb/logo-uw.png){.img-fluid .rounded}][Marisa Kirisame]
+:::
 :::
 ::: {.col .ra-desc}
   [[Marisa Kirisame]]{.ra-name} \
@@ -306,9 +355,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Logan Weber](thumb/logo-uw.png){.img-fluid .rounded}][Logan Weber]
+:::
 :::
 ::: {.col .ra-desc}
   [[Logan Weber]]{.ra-name} \
@@ -319,9 +371,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Alex Sanchez-Stern](thumb/alex-sanchez-stern-cropped.jpg){.img-fluid .rounded}][Alex Sanchez-Stern]
+:::
 :::
 ::: {.col .ra-desc}
   [[Alex Sanchez-Stern]]{.ra-name} \
@@ -340,11 +395,13 @@
 ::: {.ras .container}
 
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
 <!--
   [![Altan Haan](thumb/altan-haan-cropped.jpg){.img-fluid .rounded}][Altan Haan]
 -->
   [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Altan Haan]
+:::
 :::
 ::: {.col .ra-desc}
   [[Altan Haan]]{.ra-name} \
@@ -356,9 +413,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Josh Pollock](thumb/josh-pollock-cropped.jpg){.img-fluid .rounded}][Josh Pollock]
+:::
 :::
 ::: {.col .ra-desc}
   [[Josh Pollock]]{.ra-name} \
@@ -370,9 +430,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Taylor Blau](thumb/logo-uw.png){.img-fluid .rounded}][Taylor Blau]
+:::
 :::
 ::: {.col .ra-desc}
   [[Taylor Blau]]{.ra-name} \
@@ -383,9 +446,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![David Thien](thumb/logo-uw.png){.img-fluid .rounded}][David Thien]
+:::
 :::
 ::: {.col .ra-desc}
   [[David Thien]]{.ra-name} \
@@ -396,9 +462,12 @@
 :::
 :::
 
+
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
+::: {.col-sm-2}
+::: {.ra-pic}
   [![Jifan Zhang](thumb/jifan-zhang-cropped.jpg){.img-fluid .rounded}][Jifan Zhang]
+:::
 :::
 ::: {.col .ra-desc}
   [[Jifan Zhang]]{.ra-name} \
@@ -411,10 +480,89 @@
 :::
 :::
 
+
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Melissa Hovik](thumb/logo-uw.png){.img-fluid .rounded}][Melissa Hovik]
+:::
+:::
+::: {.col .ra-desc}
+  [[Melissa Hovik]]{.ra-name} \
+  BS 2018 &rarr; MS Student and Instructor at UW \
+
+  - PL for 3D Printing
+:::
+:::
+
+
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Chen Qiu](thumb/logo-uw.png){.img-fluid .rounded}][Chen Qiu]
+:::
+:::
+::: {.col .ra-desc}
+  [[Chen Qiu]]{.ra-name} \
+  BS 2018 &rarr; MS Student at UW &rarr; Facebook \
+
+  - Floating-point Accuracy
+  - Random Numerical Testing
+:::
+:::
+
+
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Justin Adsuara](thumb/logo-uw.png){.img-fluid .rounded}][Justin Adsuara]
+:::
+:::
+::: {.col .ra-desc}
+  [[Justin Adsuara]]{.ra-name} \
+  BS 2018 &rarr; Hilton Hotels \
+
+  - Verification of Distributed Systems Under Churn
+  - Formally Verified Serialization
+:::
+:::
+
+
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Adam T. Geller](thumb/logo-uw.png){.img-fluid .rounded}][Adam T. Geller]
+:::
+:::
+::: {.col .ra-desc}
+  [[Adam T. Geller]]{.ra-name} \
+  BS 2018 &rarr; PhD Student at UBC \
+
+  - CSS Formalization in SMT
+  - Web Page Layout Verification
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Paul Curry](thumb/logo-uw.png){.img-fluid .rounded}][Paul Curry]
+:::
+:::
+::: {.col .ra-desc}
+  [[Paul Curry]]{.ra-name} \
+  BS 2018 &rarr; Xnor.ai &rarr; Apple \
+
+  - PL for 3D Printing
+:::
+:::
+
 <!--
 ::: {.row}
-::: {.col-sm-2 .ra-pic}
-  [![NAME](thumb/uw-logo.png){.img-fluid .rounded}][NAME]
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![NAME](thumb/logo-uw.png){.img-fluid .rounded}][NAME]
+:::
 :::
 ::: {.col .ra-desc}
   [[NAME]]{.ra-name} \
@@ -429,18 +577,6 @@
 :::
 
 
-  - [Melissa Hovik], BS 2018 \
-      &nbsp; &nbsp; &rarr; MS Student and Instructor at UW
-  - [Chen Qiu], BS 2018 \
-      &nbsp; &nbsp; &rarr; MS Student at UW \
-      &nbsp; &nbsp; &rarr; Facebook
-  - [Justin Adsuara], BS 2018 \
-      &nbsp; &nbsp; &rarr; Hilton Hotels
-  - [Adam Geller][Adam T. Geller], BS 2018 \
-      &nbsp; &nbsp; &rarr; PhD Student at UBC
-  - [Paul Curry], BS 2018 \
-      &nbsp; &nbsp; &rarr; Xnor.ai \
-      &nbsp; &nbsp; &rarr; Apple
   - [Luke Nelson]^4^, BS 2017 \
       &nbsp; &nbsp; &rarr; PhD Student at UW
   - [Miranda Edwards], BS 2017 \

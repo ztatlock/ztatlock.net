@@ -119,6 +119,10 @@ section.footnotes {
 .ras .row {
   margin-top: 2rem;
 }
+.ra-pic {
+  max-width: 200px;
+  margin-bottom: 1rem;
+}
 .ra-pic a img:hover {
   filter: contrast(0.9);
 }
@@ -213,10 +217,8 @@ section.footnotes {
 }
 #collabs li {
   float: left;
-  font-size: 0.9rem;
   width: 12rem;
-  padding-right: 1rem;
-  padding-top: 0.5rem;
+  padding-top: 1rem;
 }
 
 
