@@ -6,6 +6,47 @@
 <!-- -->
 
 
+::: {#talk-2020-10-intel-herbie-egg .anchor}
+::: {.talk-entry}
+  **Towards Optimizing Multi-precision, Multi-format Numerical Codes** \
+  Intel on 2020-10-09 \
+  [abstract](#abs-2020-10-intel-herbie-egg){aria-controls='abs-2020-10-intel-herbie-egg' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [slides](talks/2020-10-intel-herbie-egg-slides.pdf) &nbsp;
+:::
+:::
+::: {#abs-2020-10-intel-herbie-egg .collapse}
+::: {.card .card-body .abs-card}
+
+We have been developing new compilers, optimizers, and synthesizers
+  to help developers navigate performance / accuracy tradeoffs
+  in the numerical codes that drive many
+  modern machine learning and HPC applications.
+While nearly everything else about programming
+  changed in the last 35 years,
+  floating-point approaches have only now started to move and
+  "the dam is breaking" on IEEE 754’s hegemony.
+Our work on Herbie helps developers get "accurate enough" computations
+  to avoid escalating to higher precisions and
+  can help programmers navigate the diverse menagerie of
+  recent next-generation number systems (bfloat, posit, flexpoint, etc.)
+  for robust multi-precision, multi-format (MPMF) computing.
+Underlying this work are new equality saturation algorithms
+  inspired by classic results from the SMT
+  automated theorem proving community which
+  we use to accelerate rewrite-based search and optimization strategies.
+
+<!-- TODO
+See also:
+
+-->
+
+:::
+:::
+
+
+<!-- -->
+
+
 ::: {#talk-2020-08-madpl-backward-geometry-synthesis .anchor}
 ::: {.talk-entry}
   **Synthesizing Backward through the Geometry Pipeline** \
@@ -117,6 +158,51 @@ to develop and extend tools in the TVM ecosystem.
 
 <!-- See also: -->
 <!-- TODO -->
+
+:::
+:::
+
+
+<!-- -->
+
+
+::: {#talk-2019-09-synthetic-minds-herbie-fp-synthesis .anchor}
+::: {.talk-entry}
+  **Synthesis of Floating Point Programs and Beyond** \
+  Synthetic Minds on 2019-09-20 \
+  [abstract](#abs-2019-09-synthetic-minds-herbie-fp-synthesis){aria-controls='abs-2019-09-synthetic-minds-herbie-fp-synthesis' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [slides](talks/2019-09-synthetic-minds-herbie-fp-synthesis-slides.pdf) &nbsp;
+  [event](http://served.synthetic-minds.com/pages/conference/2019/) &nbsp;
+:::
+:::
+::: {#abs-2019-09-synthetic-minds-herbie-fp-synthesis .collapse}
+::: {.card .card-body .abs-card}
+
+Most engineering and scientific computer programs follow mathematical models
+described by real numbers, but use floating point arithmetic internally.
+Sometimes the two number systems give rather different results, and when that
+happens programmers are often ill-equipped to improve the accuracy of their
+code. Experts in numerical methods can fix these problems by rearranging
+computations, but acquiring that expertise can take years. My colleagues and I
+are working to bridge this gap with [Herbie], a tool that automatically improves
+the accuracy of floating point expressions.
+
+In this talk I describe the techniques Herbie uses to automatically
+improve floating point accuracy using a guided, heuristic search. Herbie
+applies algebraic rewrites and series expansions to generate
+potentially-more-accurate versions of the program, then samples inputs to
+evaluate, prune, and combine these candidates into a new, more-accurate
+program. We've used Herbie on expressions found everywhere from textbooks to
+large-scale surveys of open-source software, and consistently find good
+results.
+
+<!-- TODO Reincarnate is in this talk too -->
+
+
+<!-- TODO
+See also:
+
+-->
 
 :::
 :::
