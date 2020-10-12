@@ -557,53 +557,123 @@
 :::
 :::
 
-<!--
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![NAME](thumb/logo-uw.png){.img-fluid .rounded}][NAME]
+  [![Ryan Doenges](thumb/logo-uw.png){.img-fluid .rounded}][Ryan Doenges]
 :::
 :::
 ::: {.col .ra-desc}
-  [[NAME]]{.ra-name} \
-  BS YEAR &rarr; AFTER \
+  [[Ryan Doenges]]{.ra-name} \
+  BS 2017 &rarr; PhD Student at Cornell \
 
-  - RESEARCH
-  - RESEARCH
+  - Formal Verification of Distributed Systems Under Churn
 :::
 :::
--->
 
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Luke Nelson](thumb/logo-uw.png){.img-fluid .rounded}][Luke Nelson]
+:::
+:::
+::: {.col .ra-desc}
+  [[Luke Nelson]]{.ra-name} \
+  Co-advised with [Xi Wang] \
+  BS 2017 &rarr; PhD Student at UW \
+
+  - Formally verified, self-hosted eBPF JIT Compilation
+:::
 :::
 
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Miranda Edwards](thumb/logo-uw.png){.img-fluid .rounded}][Miranda Edwards]
+:::
+:::
+::: {.col .ra-desc}
+  [[Miranda Edwards]]{.ra-name} \
+  BS 2017 &rarr; Cisco Meraki \
 
-  - [Luke Nelson]^4^, BS 2017 \
-      &nbsp; &nbsp; &rarr; PhD Student at UW
-  - [Miranda Edwards], BS 2017 \
-      &nbsp; &nbsp; &rarr; Cisco Meraki
-  - [Keith Simmons], BS 2017 \
-      &nbsp; &nbsp; &rarr; Microsoft
-  - [Steve Anton], BS 2017 \
-      &nbsp; &nbsp; &rarr; Google
-  - [Ryan Doenges], BS 2017 \
-      &nbsp; &nbsp; &rarr; PhD Student at Cornell
-  - [Seth Pendergrass], BS 2016 \
-      &nbsp; &nbsp; &rarr; Microsoft
-  - [Daryl Zuniga]^1^, BS 2015 \
-      &nbsp; &nbsp; &rarr; Microsoft
+  - Formally Verified Distributed Systems
+:::
+:::
 
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Keith Simmons](thumb/logo-uw.png){.img-fluid .rounded}][Keith Simmons]
+:::
+:::
+::: {.col .ra-desc}
+  [[Keith Simmons]]{.ra-name} \
+  BS 2017 &rarr; Microsoft \
+
+  - Formally Verified Distributed Systems
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Steve Anton](thumb/logo-uw.png){.img-fluid .rounded}][Steve Anton]
+:::
+:::
+::: {.col .ra-desc}
+  [[Steve Anton]]{.ra-name} \
+  BS 2017 &rarr; Google \
+
+  - Formally Verified Distributed Systems
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Seth Pendergrass](thumb/logo-uw.png){.img-fluid .rounded}][Seth Pendergrass]
+:::
+:::
+::: {.col .ra-desc}
+  [[Seth Pendergrass]]{.ra-name} \
+  BS 2016 &rarr; Microsoft \
+
+  - PL for 3D Printing
+:::
+:::
+
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Daryl Zuniga](thumb/logo-uw.png){.img-fluid .rounded}][Daryl Zuniga]
+:::
+:::
+::: {.col .ra-desc}
+  [[Daryl Zuniga]]{.ra-name} \
+  BS 2015 &rarr; Microsoft \
+
+  - Formal Verification of Peephole Optimization in CompCert
+:::
+:::
+
+:::
 
 ## High School
 
-  - [Juliet Oh], HS 2016 \
-      &nbsp; &nbsp; &rarr; BA Student at Princeton
+::: {.ras .container}
 
-Co-advised with:
+::: {.row}
+::: {.col-sm-2}
+::: {.ra-pic}
+  [![Juliet Oh](thumb/logo-uw.png){.img-fluid .rounded}][Juliet Oh]
+:::
+:::
+::: {.col .ra-desc}
+  [[Juliet Oh]]{.ra-name} \
+  HS 2016 &rarr; BA Student at Princeton \
 
-  1. [Dan Grossman]
-  2. [Michael Ernst][Michael D. Ernst]
-  3. [Tom Anderson][Thomas E. Anderson]
-  4. [Xi Wang]
-  5. [Luis Ceze]
-  6. [Adriana Schulz]
-  7. [Pavel Panchekha]
+  - PL for 3D Printing
+:::
+:::
+
+:::
