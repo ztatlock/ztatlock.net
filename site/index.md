@@ -102,6 +102,20 @@ Check out our
 :::
 
 ::: {.card .news-item}
+
+  <!-- -->
+  [![FPTalks 2020](thumb/2020-06-fptalks.png){.card-img-top loading=lazy}](http://fpbench.org/talks/fptalks20.html)
+
+::: {.card-body}
+  In June 2020, [Pavel][Pavel Panchekha] and I organized
+  [FPTalks](http://fpbench.org/talks/fptalks20.html),
+  an [FPBench] event for folks from across the floating point research
+  community to come together and share their research and tools
+  &#x1F6E0;
+:::
+:::
+
+::: {.card .news-item}
 ::: {.play-btn}
   [![ADA DTR 2020](thumb/2020-05-ada-dtr-demo.png){.card-img-top}](https://www.youtube.com/watch?v=kxlbpwBJzA4)
 :::

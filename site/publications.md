@@ -531,7 +531,7 @@ Sinking-point is fully generalizable,
 ::: {.card .card-body .bib-card}
 ```
 
-@inproceedings{,
+@inproceedings{2019-conga-sinking-point,
   author    = {Bill Zorn and
                Dan Grossman and
                Zachary Tatlock},

@@ -63,6 +63,7 @@
 ## Mentoring and Organizing
 
 - SRC JUMP: Applications Driving Architectures (ADA) Student Hackathon 2020
+- [FPTalks 2020](http://fpbench.org/talks/fptalks20.html) Co-Organizer
 - [SRC JUMP: Applications Driving Architectures (ADA) Student Hackathon 2019](https://adacenter.org/news/ada-hosts-third-student-hackathon-12062019)
 - [UW Verification in Practice](http://vip.cs.washington.edu/)
     2019 Co-Organizer
