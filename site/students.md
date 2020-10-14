@@ -11,7 +11,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Amy Zhu]
+  [![Amy Zhu](thumb/amy-zhu-alt-02-cropped.png){.img-fluid .rounded}][Amy Zhu]
 :::
 :::
 ::: {.col .ra-desc}
@@ -397,10 +397,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-<!--
-  [![Altan Haan](thumb/altan-haan-cropped.jpg){.img-fluid .rounded}][Altan Haan]
--->
-  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Altan Haan]
+  [![Altan Haan](thumb/altan-haan-alt-02.jpg){.img-fluid .rounded}][Altan Haan]
 :::
 :::
 ::: {.col .ra-desc}
