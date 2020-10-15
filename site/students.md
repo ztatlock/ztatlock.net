@@ -239,7 +239,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![James Wilcox](thumb/logo-uw.png){.img-fluid .rounded}][James R. Wilcox]
+  [![James Wilcox](thumb/james-wilcox-alt-01-cropped.jpg){.img-fluid .rounded}][James R. Wilcox]
 :::
 :::
 ::: {.col .ra-desc}
@@ -343,7 +343,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![Marisa Kirisame](thumb/logo-uw.png){.img-fluid .rounded}][Marisa Kirisame]
+  [![Marisa Kirisame](thumb/marisa-kirisame-cropped.jpg){.img-fluid .rounded}][Marisa Kirisame]
 :::
 :::
 ::: {.col .ra-desc}
