@@ -359,7 +359,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![Logan Weber](thumb/logo-uw.png){.img-fluid .rounded}][Logan Weber]
+  [![Logan Weber](thumb/logan-weber-alt-01-cropped.jpg){.img-fluid .rounded}][Logan Weber]
 :::
 :::
 ::: {.col .ra-desc}
