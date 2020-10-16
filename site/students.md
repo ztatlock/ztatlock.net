@@ -135,7 +135,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![UW Logo](thumb/brett-saiki-cropped.jpg){.img-fluid .rounded}][Brett Saiki]
+  [![Brett Saiki](thumb/brett-saiki-cropped.jpg){.img-fluid .rounded}][Brett Saiki]
 :::
 :::
 ::: {.col .ra-desc}
@@ -152,7 +152,8 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Mike He]
+  [![Mike He](thumb/mike-he-cropped.jpg){.img-fluid .rounded}][Mike He]
+  <!-- http://students.washington.edu/dh63/ -->
 :::
 :::
 ::: {.col .ra-desc}
@@ -169,7 +170,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![UW Logo](thumb/logo-uw.png){.img-fluid .rounded}][Adam Anderson]
+  [![Adam Anderson](thumb/logo-uw.png){.img-fluid .rounded}][Adam Anderson]
 :::
 :::
 ::: {.col .ra-desc}
