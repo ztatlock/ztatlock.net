@@ -6,7 +6,8 @@
 \usepackage{nowidow}
 \usepackage{enumitem}
 
-\titleformat*{\subsection}{\large}
+\titleformat*{\section}{\Large\sc}
+\titleformat*{\subsection}{\large\it}
 \setlength{\parindent}{0pt}
 \setnowidow[6]
 
@@ -21,44 +22,63 @@
 \section*{Education}
 
 University of California, San Diego \\
-Ph.D., Computer Science \& Engineering \\
-Autumn 2014 \\
-Dissertation: Reducing the Costs of Proof Assistant Based Formal Verification \\
+Ph.D., Computer Science \& Engineering, Autumn 2014 \\
+Thesis: \textit{Reducing the Costs of Proof Assistant Based Formal Verification} \\
 Advisor: Sorin Lerner \\
 
-Purdue University \\
-B.S., Computer Science (Honors) \\
-B.S., Mathematics \\
-Spring 2007 \\
+Purdue University, West Lafayette, IN \\
+B.S., Computer Science (Honors), Spring 2007 \\
+B.S., Mathematics, Spring 2007 \\
 Advisor: Suresh Jagannathan
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Employment}
 
-University of Washington, Seattle, WA \\
-Associate Professor \\
+University of Washington, Seattle \\
 Paul G. Allen School of Computer Science \& Engineering \\
-Autumn 2019 -- Present \\
-
-University of Washington, Seattle, WA \\
-Assistant Professor \\
-Paul G. Allen School of Computer Science \& Engineering \\
-Autumn 2013 -- Autumn 2019 \\
+Associate Professor, Autumn 2019 -- Present \\
+Assistant Professor, Autumn 2013 -- Autumn 2019 \\
 
 OctoML, Seattle, WA \\
-Compilers Liaison \\
-Autumn 2019 -- Present \\
+Compilers Liaison, Autumn 2019 -- Present \\
+
+% University of California, San Diego \\
+% Computer Science \& Engineering \\
+% Graduate Research Assistant, Autumn 2007 -- Autumn 2013 \\
+% Focus: Compiler Optimization and Verification, Provable Security
+% Mentor: Sorin Lerner
 
 Microsoft Research India, Bengaluru, India \\
-Graduate Research Intern \\
-Summer 2010
+Graduate Research Intern, Summer 2010 % \\
+% Focus: Concurrent Program Testing and Analysis \\
+% Mentors: Akash Lal, Aditya Nori
+
+% Arxan Research Inc., West Lafayette, IN \\
+% Undergraduate Research Intern, Summer 2007 \\
+% Focus: Code Obfuscation Backend for Ada in GCC \\
+
+% Purdue University, West Lafayette, IN \\
+% Computer Science \\
+% Undergraduate Research Assistant, Summer 2006 \\
+% Focus: Concolic Testing for Functional Programming Languages \\
+% Mentor: Suresh Jagannathan
+
+% Caterpillar Inc.
+
+% Cummins Inc.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Publications}
 
 \subsection*{Refereed Conference and Journal Papers}
+
+\textbf{%
+  Fast and Extensible Equality Saturation
+} \\
+Max Willsey, Chandrakana Nandi, Yisu Remy Wang, Oliver Flatt, Pavel Panchekha, Zachary Tatlock \\
+Principles of Programming Languages (POPL) 2021 \\
 
 \textbf{%
 Synthesizing Structured CAD Models with
@@ -277,10 +297,22 @@ Principles of Programming Languages (POPL) 2009 \\
 Deep Typechecking and Refactoring
 } \\
 Zachary Tatlock, Chris Tucker, David Shuffelton, Ranjit Jhala, Sorin Lerner \\
-Object-Oriented Programming, Systems, Languages \& Applications (OOPSLA) 2008 \\
+Object-Oriented Programming, Systems, Languages \& Applications (OOPSLA) 2008
 
 
-\subsection*{Book Chapters, Invited Papers, Workshops, Short Papers, and Extended Abstracts}
+\subsection*{Workshops, Invited Papers, Short Papers, Extended Abstracts, and Book Chapters}
+
+\textbf{%
+  The Essence of Program Semantics Visualizers: A Three-Axis Model
+} \\
+Josh Pollock, Grace Oh, Eunice Jun, Philip J. Guo, Zachary Tatlock \\
+Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU) 2020 \\
+
+\textbf{%
+  Towards Numerical Assistants
+} \\
+Pavel Panchekha, Zachary Tatlock \\
+Numerical Software Verification (NSV) 2020 \\
 
 \textbf{%
 Toward Multi-Precision, Multi-Format Numerics
@@ -459,7 +491,8 @@ High-Level Verification: Methods and Tools for Verification of System-Level Desi
   \item Konstantin Weitz
     \begin{itemize}
       \item Ph.D. 2017 $\rightarrow$ Google
-      \item Thesis: \textit{Formal Semantics and Scalable Verification for the Border Gateway Protocol using Proof Assistants and SMT Solvers}
+      \item Thesis: \textit{Formal Semantics and Scalable Verification for the Border Gateway Protocol} \\
+        \phantom{Thesis:\,} \textit{using Proof Assistants and SMT Solvers}
       \item Co-advised with Michael D. Ernst
     \end{itemize}
 \end{enumerate}
@@ -641,15 +674,15 @@ High-Level Verification: Methods and Tools for Verification of System-Level Desi
   \item Autumn 2011 -- UCSD CSE 231: Advanced Compiler Design (Graduate)
   \item Spring 2011 -- UCSD CSE 231: Advanced Compiler Design (Graduate)
   \item Spring 2007 -- Purdue CS 180: Intro Java Programming (Undergraduate, Head Lab TA)
-  \item Autumn 2006 -- Purdue CS 180: Intro Java Programming (Undergraduate, Head Lab TA)
+  \item Fall 2006 -- Purdue CS 180: Intro Java Programming (Undergraduate, Head Lab TA)
   \item Spring 2006 -- Purdue CS 180: Intro Java Programming (Undergraduate, Head Lab TA)
-  \item Autumn 2005 -- Purdue CS 180: Intro Java Programming (Undergraduate, Head Lab TA)
+  \item Fall 2005 -- Purdue CS 180: Intro Java Programming (Undergraduate, Head Lab TA)
   \item Spring 2005 -- Purdue CS 180: Intro Java Programming (Undergraduate, Head Lab TA)
-  \item Autumn 2004 -- Purdue CS 180: Intro Java Programming (Undergraduate, Head Lab TA)
+  \item Fall 2004 -- Purdue CS 180: Intro Java Programming (Undergraduate, Head Lab TA)
   \item Spring 2004 -- Purdue CS 180: Intro Java Programming (Undergraduate, Lab TA)
 \end{itemize}
 
-\subsection*{Summer School Course}
+\subsection*{Summer School Courses}
 
 \begin{itemize}
   \item Verifying Distributed Systems Implementations in Coq \\
@@ -669,18 +702,18 @@ High-Level Verification: Methods and Tools for Verification of System-Level Desi
   \item Google Faculty Research Award 2015
   \item NSF GRFP Honorable Mention 2007
   \item Purdue Undergraduate Teaching Assistant of the Year 2006
-  \item Purdue ACM Humor Award 2005
+  \item Purdue ACM Humor Award 2004
 \end{itemize}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section*{Press and Media Coverage}
-
-\begin{itemize}
-  \item TODO carpentry compiler
-  \item TODO neutrons
-  \item TODO verdi
-  \item TODO quark
-\end{itemize}
+%% \section*{Press and Media Coverage}
+%%
+%% \begin{itemize}
+%%   \item TODO carpentry compiler
+%%   \item TODO neutrons
+%%   \item TODO verdi
+%%   \item TODO quark
+%% \end{itemize}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -725,6 +758,7 @@ High-Level Verification: Methods and Tools for Verification of System-Level Desi
   \item UW Verification in Practice 2019 Co-Organizer
   \item PLDI 2018 Programming Languages Mentoring Workshop (PLMW) Panelist
   \item PNW PLSE 2018 Organizer and Program Committee Chair
+  \item UW NSF STARS Mentor 2017
   \item SPLASH 2017 Doctoral Symposium Program Committee
   \item POPL 2016 Student Research Competition Chair
   \item PLDI 2015 Student Research Competition Committee
@@ -732,12 +766,18 @@ High-Level Verification: Methods and Tools for Verification of System-Level Desi
   \item Inspirations at SPLASH 2014 Co-Organizer and Speaker
 \end{itemize}
 
-\section*{Presentations}
+% TODO department service
 
-\begin{itemize}
-  \item TODO
-\end{itemize}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \section*{Presentations}
+%%
+%% \begin{itemize}
+%%   \item TODO
+%% \end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Grants}
 
 \begin{itemize}
