@@ -2,10 +2,29 @@
 
 # Advice
 
-Pay attention.
+You can get pretty far by:
 
-Some things worth reading:
+1. Paying attention
+2. Staying healthy
+3. Being persistent
 
+Most good general advice is just using more words
+  to emphasize these points by repetition.
+Do not worry about research strategy
+  till you establish these foundations.
+
+## Pithy Precepts
+
+::: {.blockquote .text-center}
+
+  Early to bed, early to rise, work like hell, and advertise.
+  [Ted Turner]{.blockquote-footer}
+
+:::
+
+## Reading, Watching, and Listening
+
+- [Desiderata](https://allpoetry.com/Desiderata---Words-for-Life)
 - [John Regehr's Blog](https://blog.regehr.org/)
 - [Matt Might's Blog](http://matt.might.net/articles/)
 - [Fogarty](https://homes.cs.washington.edu/~jfogarty/) on
@@ -16,6 +35,7 @@ Some things worth reading:
 - Orwell on [Politics and the English Language](http://www.orwell.ru/library/essays/politics/english/e_polit/)
 - [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x)
 - [So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html)
+- Hamming on [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 
 Some interesting opinions on conferences and opinions:
 
