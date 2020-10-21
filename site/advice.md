@@ -13,6 +13,8 @@ Most good general advice is just using more words
 Do not worry about research strategy
   till you establish these foundations.
 
+<!-- Anxiety, Carts, and Horses -->
+
 ## Pithy Precepts
 
 ::: {.blockquote .text-center}

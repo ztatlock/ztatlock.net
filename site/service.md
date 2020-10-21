@@ -67,10 +67,12 @@
 - [SRC JUMP: Applications Driving Architectures (ADA) Student Hackathon 2019](https://adacenter.org/news/ada-hosts-third-student-hackathon-12062019)
 - [UW Verification in Practice](http://vip.cs.washington.edu/)
     2019 Co-Organizer
-- [PLDI 2018](https://pldi18.sigplan.org/committee/plmw-pldi-2018-speakers)
+- [PLDI 2018](https://pldi18.sigplan.org/track/PLMW-PLDI-2018)
     Programming Languages Mentoring Workshop (PLMW) Panelist
 - [PNW PLSE 2018](http://pnwplse.org/)
     Organizer and Program Committee Chair
+- [POPL 2018](https://popl18.sigplan.org/track/PLMW-POPL-2018)
+    Programming Languages Mentoring Workshop (PLMW) Panelist
 - [SPLASH 2017](https://2017.splashcon.org/committee/splash-2017-doctoral-symposium-program-committee)
     Doctoral Symposium Program Committee
 - [POPL 2016](https://popl16.sigplan.org/committee/popl-2016-organizing-committee)
