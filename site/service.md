@@ -92,7 +92,9 @@ TODO
 
 ## PhD Committees
 
+- Emily Furst
 - Molly Carton
+- [TODO students]
 
 ## MS Committees
 

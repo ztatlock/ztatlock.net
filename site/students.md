@@ -432,12 +432,13 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![Taylor Blau](thumb/logo-uw.png){.img-fluid .rounded}][Taylor Blau]
+  [![Taylor Blau](thumb/taylor-blau-cropped.jpg){.img-fluid .rounded}][Taylor Blau]
 :::
 :::
 ::: {.col .ra-desc}
   [[Taylor Blau]]{.ra-name} \
   BS 2020 &rarr; Github \
+  Thesis: [*Verifying Strong Eventual Consistency in δ-CRDTs*](https://ttaylorr.com/publications/uw-thesis.pdf)
 
   - PL for 3D Printing
   - Also advised by [Talia Ringer] on Formal Verification
