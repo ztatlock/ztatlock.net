@@ -56,6 +56,19 @@ Check out our
 
 ::: {.card .news-item}
 
+  [![PLSE at Allen School Colloquium](thumb/2020-10-22-plse-allen-school-colloq-cnandi-szalinski.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=Po3K_BFIzAk)
+
+::: {.card-body}
+  In October 2020, [UW PLSE][PLSE] students led the
+  [Allen School Colloquium](https://www.youtube.com/watch?v=Po3K_BFIzAk).
+  Check out [Max][Max Willsey] talking about our work on [egg] and
+  [Chandrakana][Chandrakana Nandi] showing off [Szalinski][Incarnate]'s
+  ability to decompile 3D CAD designs to parameterized programs &#x1F929;
+:::
+:::
+
+::: {.card .news-item}
+
   [![egg e-graphs Website](thumb/2020-09-egg-website.png){.card-img-top}][egg]
 
 ::: {.card-body}
