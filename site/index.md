@@ -98,7 +98,8 @@ Check out our
 ::: {.card-body}
   [Pavel][Pavel Panchekha] and I gave an invited talk
   [Towards Numerical Assistants](talks.html#talk-2020-07-nsv-herbie-fpbench)
-  on [Herbie] and [FPBench] at [NSV](https://nsv2020.github.io/) in July 2020.
+  on [Herbie] and [FPBench] at [NSV](https://nsv2020.github.io/) in July 2020
+  ([paper](publications.html#pub-2020-nsv-towards-numerical-assistants)).
 :::
 :::
 
