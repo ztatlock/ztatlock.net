@@ -19,7 +19,6 @@
 
 <!-- DATE TODO -->
 
-
 ::: {#pub-2020-plateau-psv-model .anchor}
 ::: {.pub-entry}
   **The Essence of Program Semantics Visualizers: A Three-Axis Model** \
@@ -72,6 +71,72 @@ See also:
 ::: {.card .card-body .bib-card}
 ```
 
+```
+:::
+:::
+
+
+<!-- 2020-07 -->
+
+
+::: {#pub-2020-nsv-towards-numerical-assistants .anchor}
+::: {.pub-entry}
+  **Towards Numerical Assistants** \
+  [Pavel Panchekha], [Zachary Tatlock] \
+  Numerical Software Verification (NSV) 2020 \
+  [abstract](#abs-2020-nsv-towards-numerical-assistants){aria-controls='abs-2020-nsv-towards-numerical-assistants' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [paper](pubs/2020-nsv-towards-numerical-assistants.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=E2KtVa7j2eY) &nbsp;
+  [slides](pubs/2020-nsv-towards-numerical-assistants-slides.pdf) &nbsp;
+  [Herbie] &nbsp;
+  [FPBench] &nbsp;
+  [bib](#bib-2020-nsv-towards-numerical-assistants){aria-controls='bib-2020-nsv-towards-numerical-assistants' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#abs-2020-nsv-towards-numerical-assistants .collapse}
+::: {.card .card-body .abs-card}
+
+The last few years have seen an explosion of work on
+  tools that address numerical error in
+  scientific, mathematical, and engineering software.
+The resulting tools can provide essential guidance to expert non-experts:
+  scientists, mathematicians, and engineers for whom
+  mathematical computation is essential but who
+  may have little formal training in numerical methods.
+It is now time for these tools to move into practice.
+
+Practitioners need a “numerical workbench”
+  that not only succeeds as a research artifact but as a daily tool.
+We describe our experience adapting [Herbie],
+  a tool for numerical error repair,
+  from a research prototype to a reliable workhorse for daily use.
+In particular, we focus on how we worked to increase user trust
+  and use internal measurement to polish the tool.
+Looking more broadly,
+  we show that community development and
+  an investment in the generality of our tools,
+  such as through the [FPBench] project,
+  will better support users and strengthen our research community.
+
+<!-- TODO
+See also:
+-->
+:::
+:::
+::: {#bib-2020-nsv-towards-numerical-assistants .collapse}
+::: {.card .card-body .bib-card}
+<!-- TODO update once proceedings on ACM DL / DBLP -->
+```
+
+@inproceedings{2016-nsv-fpbench,
+  author    = {Pavel Panchekha and
+               Zachary Tatlock},
+  title     = {Towards Numerical Assistants},
+  booktitle = {Numerical Software Verification - 13th International Workshop, {NSV} 2020,
+               Los Angeles, CA, USA, July 20-21, 2020, [collocated with {CAV} 2020],
+               Revised Selected Papers},
+  series    = {Lecture Notes in Computer Science},
+}
 ```
 :::
 :::
@@ -657,7 +722,7 @@ Sinking-point is fully generalizable,
   [slides](https://easychair.org/smart-slide/slide/pCvQ#) &nbsp;
   [CakeML](https://cakeml.org/) &nbsp;
   [Oeuf](http://oeuf.uwplse.org/) &nbsp;
-  [bib](#bib-2018-itp-binary-code-extraction){aria-controls='bib-' data-toggle='collapse' role='button' aria-expanded='false'}
+  [bib](#bib-2018-itp-binary-code-extraction){aria-controls='bib-2018-itp-binary-code-extraction' data-toggle='collapse' role='button' aria-expanded='false'}
 :::
 :::
 ::: {#bib-2018-itp-binary-code-extraction .collapse}

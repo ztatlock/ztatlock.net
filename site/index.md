@@ -55,9 +55,9 @@ Check out our
 ## Recent News
 
 ::: {.card .news-item}
-
+::: {.play-btn .play-btn-shadow}
   [![PLSE at Allen School Colloquium](thumb/2020-10-22-plse-allen-school-colloq-cnandi-szalinski.png){.card-img-top loading=lazy}](https://www.youtube.com/watch?v=Po3K_BFIzAk)
-
+:::
 ::: {.card-body}
   In October 2020, [UW PLSE][PLSE] students led the
   [Allen School Colloquium](https://www.youtube.com/watch?v=Po3K_BFIzAk).
