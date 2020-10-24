@@ -94,10 +94,22 @@ TODO
 
 - Emily Furst
 - Molly Carton
+- Eddie Yan
 - [TODO students]
 
 ## MS Committees
 
 ## BS Honors Committees
+
+## Department Service
+
+TODO
+2009 - 2011 UCSD CSE GradCom Student Representative
+
+% TODO
+% For my undergraduate honors project,
+%   Bill Harris and I developed a domain specific language
+%   and specialized hardware to let users program
+%   an 80 foot (24 meter) neon sculpture over the web.
 
 -->
