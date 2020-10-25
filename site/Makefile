@@ -15,6 +15,7 @@ stage: \
 	stage/thumb \
 	stage/pubs \
 	stage/talks \
+	stage/sitemap.xml \
 	stage/ztatlock-cv.pdf
 
 stage/%.html: %.md TEMPLATE.html REFLINKS
@@ -38,6 +39,9 @@ stage/pubs:
 
 stage/talks:
 	[ -d "$(TALKS_DIR)" ] && ln -s "$(TALKS_DIR)" $@
+
+stage/sitemap.xml: $(PAGES) mksitemap.sh
+	./mksitemap.sh > $@
 
 stage/ztatlock-cv.pdf: ../cv/ztatlock-cv.tex
 	$(MAKE) --directory ../cv ztatlock-cv.pdf
