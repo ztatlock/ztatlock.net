@@ -10,18 +10,22 @@ done
 MYDIR="$(cd -P "$(dirname "$src")" && pwd)"
 
 cd "$MYDIR"
+SITE='https://ztatlock.net'
 
 # header
 cat <<EOF
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>$SITE/</loc>
+    <lastmod>$(date -r "index.md" "+%Y-%m-%d")</lastmod>
+  </url>
 EOF
 
-pref='https://ztatlock.net'
 function page {
   cat <<EOF
   <url>
-    <loc>$pref/$(basename "$1" .md).html</loc>
+    <loc>$SITE/$(basename "$1" .md).html</loc>
     <lastmod>$(date -r "$1" "+%Y-%m-%d")</lastmod>
   </url>
 EOF
