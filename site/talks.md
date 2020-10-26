@@ -363,4 +363,32 @@ codebases and a new format to standardize floating point benchmarks.
 <!-- -->
 
 
+::: {#talk-2016-07-msr-building-practical-verified-systems .anchor}
+::: {.talk-entry}
+  **Dijkstra and De Millo: Challenges in Applying and Teaching Verification** \
+  [Xi Wang], [Zachary Tatlock] \
+  Microsoft Research Faculty Summit on 2016-07-14 \
+  [abstract](#abs-2016-07-msr-building-practical-verified-systems){aria-controls='abs-2016-07-msr-building-practical-verified-systems' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [talk](https://youtu.be/3X-q-gi8YAk?t=3276) &nbsp;
+  [slides](talks/2016-07-msr-building-practical-verified-systems.pdf) &nbsp;
+  [event](https://www.microsoft.com/en-us/research/video/faculty-summit-2016-building-practical-verified-systems/) &nbsp;
+:::
+:::
+::: {#abs-2016-07-msr-building-practical-verified-systems .collapse}
+::: {.card .card-body .abs-card}
 
+Xi and I spoke about
+  results from the [Neutrons] project to
+  verify the safety of radiotherapy control software at UW CNTS and
+  our experience teaching systems verification in
+  [599W](https://courses.cs.washington.edu/courses/cse599w/16sp/)
+  during Spring 2016.
+
+<!-- See also: -->
+<!-- TODO -->
+
+:::
+:::
+
+
+<!-- -->

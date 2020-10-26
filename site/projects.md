@@ -6,10 +6,10 @@
 
 ::: {.row}
 ::: {.col .proj-logo}
-  [![Incarnate Logo](thumb/logo-incarnate.png)](http://incarnate.uwplse.org/)
+  [![Incarnate Logo](thumb/logo-incarnate.png)][Incarnate]
 :::
 ::: {.col}
-  [Incarnate](http://incarnate.uwplse.org/) \
+  [Incarnate] \
   PL Tools and Techniques for 3D Printing \
   <!-- TODO pubs -->
   <!-- PLDI 2020 -->
@@ -20,10 +20,10 @@
 
 ::: {.row}
 ::: {.col .proj-logo}
-  [![egg Logo](thumb/logo-egg.svg)](https://egraphs-good.github.io/)
+  [![egg Logo](thumb/logo-egg.svg)][egg]
 :::
 ::: {.col}
-  [egg](https://egraphs-good.github.io/) \
+  [egg] \
   Fast and Flexible E-graphs for Synthesis \
   <!-- TODO pubs -->
 :::
@@ -57,10 +57,10 @@
 
 ::: {.row}
 ::: {.col .proj-logo}
-  [![FPBench Logo](thumb/logo-fpbench.png)](http://fpbench.org/)
+  [![FPBench Logo](thumb/logo-fpbench.png)][FPBench]
 :::
 ::: {.col}
-  [FPBench](http://fpbench.org/) \
+  [FPBench] \
   Numerical Benchmarks, Compilers, Standards \
   <!-- TODO pubs -->
   <!-- NSV 2016 -->
@@ -169,10 +169,10 @@
 
 ::: {.row}
 ::: {.col .proj-logo}
-  [![Neutrons Logo](thumb/logo-neutrons.png)](http://neutrons.uwplse.org/)
+  [![Neutrons Logo](thumb/logo-neutrons.png)][Neutrons]
 :::
 ::: {.col}
-  [Neutrons](http://neutrons.uwplse.org/) \
+  [Neutrons] \
   Verifying Safety for Radiotherapy Control \
   [CNTS](https://staff.washington.edu/jon/cnts/) &nbsp;
   <!-- TODO pubs -->
@@ -185,10 +185,10 @@
 
 ::: {.row}
 ::: {.col .proj-logo}
-  [![Verdi Logo](thumb/logo-verdi.png)](http://verdi.uwplse.org/)
+  [![Verdi Logo](thumb/logo-verdi.png)][Verdi]
 :::
 ::: {.col}
-  [Verdi](http://verdi.uwplse.org/) \
+  [Verdi] \
   Verifying Distributed Systems Implementations \
   <!-- TODO pubs -->
   <!-- CPP 2016 -->
