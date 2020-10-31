@@ -170,7 +170,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![Adam Anderson](thumb/logo-uw.png){.img-fluid .rounded}][Adam Anderson]
+  [![Adam Anderson](thumb/adam-anderson-cropped.jpg){.img-fluid .rounded}][Adam Anderson]
 :::
 :::
 ::: {.col .ra-desc}
