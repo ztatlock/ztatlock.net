@@ -17,7 +17,66 @@
 
 <!-- HERE -->
 
-<!-- DATE TODO -->
+
+<!-- 2021-01 -->
+
+
+::: {#pub-2021-popl-egg-eqsat .anchor}
+::: {.pub-entry}
+  **egg: Fast and Extensible Equality Saturation** \
+  [Max Willsey], [Chandrakana Nandi], [Yisu Remy Wang], [Oliver Flatt], [Zachary Tatlock], [Pavel Panchekha] \
+  Principles of Programming Languages (POPL) 2021 \
+  [abstract](#abs-2021-popl-egg-eqsat){aria-controls='abs-2021-popl-egg-eqsat' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [paper](pubs/2021-popl-egg-eqsat.pdf) &nbsp;
+<!--
+  [talk](TODO) &nbsp;
+  [slides](TODO) &nbsp;
+-->
+  [code](https://github.com/egraphs-good) &nbsp;
+  [project](https://egraphs-good.github.io/) &nbsp;
+  [bib](#bib-2021-popl-egg-eqsat){aria-controls='bib-2021-popl-egg-eqsat' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#abs-2021-popl-egg-eqsat .collapse}
+::: {.card .card-body .abs-card}
+
+An e-graph efficiently represents a congruence relation over many expressions.
+Although they were originally developed in the late 1970s for use in automated
+theorem provers, a more recent technique known as equality saturation
+repurposes e-graphs to implement state-of-the-art, rewrite-driven compiler
+optimizations and program synthesizers. However, e-graphs remain unspecialized
+for this newer use case. Equality saturation workloads exhibit distinct
+characteristics and often require ad hoc e-graph extensions to incorporate
+transformations beyond purely syntactic rewrites.
+
+This work contributes two techniques that make e-graphs fast and extensible,
+specializing them to equality saturation. A new amortized invariant restoration
+technique called rebuilding takes advantage of equality saturation’s distinct
+workload, providing asymptotic speedups over current techniques in practice. A
+general mechanism called e-class analyses integrates domain-specific analyses
+into the e-graph, reducing the need for ad hoc manipulation.
+
+We implemented these techniques in a new open-source library called egg. Our
+case studies on three previously published applications of equality saturation
+highlight how egg’s performance and flexibility enable state-of-the-art results
+across diverse domains.
+
+:::
+:::
+::: {#bib-2021-popl-egg-eqsat .collapse}
+::: {.card .card-body .bib-card}
+```
+
+<!-- TODO -->
+
+```
+:::
+:::
+
+
+
+<!-- 2020-10 -->
+
 
 ::: {#pub-2020-plateau-psv-model .anchor}
 ::: {.pub-entry}
@@ -70,6 +129,8 @@ See also:
 ::: {#bib-2020-plateau-psv-model .collapse}
 ::: {.card .card-body .bib-card}
 ```
+
+<!-- TODO -->
 
 ```
 :::
