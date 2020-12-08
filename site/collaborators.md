@@ -72,6 +72,7 @@ I have been very fortunate to work on projects
 - [Miranda Edwards]
 - [Nasrine Damouche]
 - [Nickolai Zeldovich]
+- [Oliver Flatt]
 - [Paul Curry]
 - [Pavel Panchekha]
 - [Philip J. Guo]
@@ -97,6 +98,7 @@ I have been very fortunate to work on projects
 - [Valentin Robert]
 - [William R. Harris]
 - [Xi Wang]
+- [Yisu Remy Wang]
 
 :::
 
