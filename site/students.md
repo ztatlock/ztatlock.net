@@ -299,7 +299,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![Eric Mullen](thumb/logo-uw.png){.img-fluid .rounded}][Eric Mullen]
+  [![Eric Mullen](thumb/eric-mullen-cropped.jpg){.img-fluid .rounded}][Eric Mullen]
 :::
 :::
 ::: {.col .ra-desc}
