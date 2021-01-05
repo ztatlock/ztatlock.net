@@ -5,6 +5,7 @@
 <!-- TODO avoid table -->
 
 ------------ -----------------------------------------------------------------
+ Winter 2021 &nbsp; [CSE 341:  Programming Languages](https://sites.google.com/cs.washington.edu/cse341winter2021/home)
  Spring 2020 &nbsp; [CSE 505:  Graduate Programming Languages](https://courses.cs.washington.edu/courses/cse505/20sp/)
  Winter 2020 &nbsp; [CSE 341:  Programming Languages](https://sites.google.com/cs.washington.edu/cse-341-winter-2020)
  Spring 2019 &nbsp; [CSE P505: Graduate Programming Languages](https://sites.google.com/cs.washington.edu/cse-p505-19sp)
