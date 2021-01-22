@@ -67,7 +67,22 @@ across diverse domains.
 ::: {.card .card-body .bib-card}
 ```
 
-<!-- TODO -->
+@article{2021-popl-egg,
+  author    = {Max Willsey and
+               Chandrakana Nandi and
+               Yisu Remy Wang and
+               Oliver Flatt and
+               Zachary Tatlock and
+               Pavel Panchekha},
+  title     = {egg: Fast and Extensible Equality Saturation},
+  journal   = {Proceedings of the {ACM} on Programming Languages},
+  publisher = {Association for Computing Machinery},
+  volume    = {5},
+  number    = {{POPL}},
+  year      = {2021},
+  url       = {https://doi.org/10.1145/3434304},
+  doi       = {10.1145/3434304},
+}
 
 ```
 :::
