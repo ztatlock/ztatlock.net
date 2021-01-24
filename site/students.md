@@ -483,7 +483,7 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![Melissa Hovik](thumb/logo-uw.png){.img-fluid .rounded}][Melissa Hovik]
+  [![Melissa Hovik](thumb/melissa-hovik-cropped.jpg){.img-fluid .rounded}][Melissa Hovik]
 :::
 :::
 ::: {.col .ra-desc}

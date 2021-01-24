@@ -1057,6 +1057,7 @@ Sinking-point is fully generalizable,
   [paper](pubs/2017-icalepcs-epics-verification.pdf) &nbsp;
   [talk](https://www.youtube.com/watch?v=CFSnkB5z0GA) &nbsp;
   [slides](pubs/2017-icalepcs-epics-verification-slides.pdf) &nbsp;
+  [poster](pubs/2017-icalepcs-epics-verification-poster.jpg) &nbsp;
   [code](https://github.com/uwplse/neutrons) &nbsp;
   [project](http://neutrons.uwplse.org) &nbsp;
   [publisher](http://accelconf.web.cern.ch/icalepcs2017/doi/JACoW-ICALEPCS2017-TUDPL02.html) &nbsp;
