@@ -28,13 +28,13 @@
   Principles of Programming Languages (POPL) 2021 \
   [abstract](#abs-2021-popl-egg-eqsat){aria-controls='abs-2021-popl-egg-eqsat' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [paper](pubs/2021-popl-egg-eqsat.pdf) &nbsp;
-<!--
-  [talk](TODO) &nbsp;
-  [slides](TODO) &nbsp;
--->
+  [teaser](https://www.youtube.com/watch?v=ap29SzDAzP0) &nbsp;
+  [talk](https://www.youtube.com/watch?v=LKELTEOFY-s) &nbsp;
+  [slides](https://docs.google.com/presentation/d/11DllOArJyeIEV3iJFwh6PSLYpEXHF3QS3EukazmykYo) &nbsp;
   [code](https://github.com/egraphs-good) &nbsp;
   [project](https://egraphs-good.github.io/) &nbsp;
   [bib](#bib-2021-popl-egg-eqsat){aria-controls='bib-2021-popl-egg-eqsat' data-toggle='collapse' role='button' aria-expanded='false'}
+  <br> [Distinguished Paper Award]{.pub-award}
 :::
 :::
 ::: {#abs-2021-popl-egg-eqsat .collapse}
@@ -100,8 +100,8 @@ across diverse domains.
   Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU) 2020 \
   [abstract](#abs-2020-plateau-psv-model){aria-controls='abs-2020-plateau-psv-model' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [paper](pubs/2020-plateau-psv-model.pdf) &nbsp;
+  [talk](https://drive.google.com/file/d/1A1UJPzPDGLcW3qyvx5MlkQMg7iZww2ep/view) &nbsp;
 <!--
-  [talk](TODO) &nbsp;
   [slides](TODO) &nbsp;
   [code](TODO) &nbsp;
   [project](TODO) &nbsp;
