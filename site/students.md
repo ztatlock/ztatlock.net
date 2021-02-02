@@ -489,6 +489,7 @@
 ::: {.col .ra-desc}
   [[Melissa Hovik]]{.ra-name} \
   BS 2018 &rarr; MS Student and Instructor at UW \
+  [BS 2018]{.ghost} &rarr; Instructor at Caltech \
 
   - PL for 3D Printing
 :::

@@ -53,6 +53,9 @@ h2 {
 .center {
   text-align: center;
 }
+.ghost {
+  opacity: 0;
+}
 
 section.footnotes {
   padding-top: 4rem;
