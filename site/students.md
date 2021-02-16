@@ -631,12 +631,14 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![Seth Pendergrass](thumb/logo-uw.png){.img-fluid .rounded}][Seth Pendergrass]
+  [![Seth Pendergrass](thumb/seth-pendergrass-cropped.jpg){.img-fluid .rounded}][Seth Pendergrass]
 :::
 :::
 ::: {.col .ra-desc}
   [[Seth Pendergrass]]{.ra-name} \
   BS 2016 &rarr; Microsoft \
+  [BS 2016]{.ghost} &rarr; Oculus VR \
+
 
   - PL for 3D Printing
 :::
