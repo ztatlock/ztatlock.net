@@ -20,7 +20,8 @@
 ::: {#pub-2021-iclr-dtr .anchor}
 ::: {.pub-entry}
   **Dynamic Tensor Rematerialization** \
-  [Marisa Kirisame], [Steven Lyubomirsky], [Altan Haan], [Jennifer Brennan], [Mike He], [Jared Roesch], [Tianqi Chen], [Zachary Tatlock] \
+  [Marisa Kirisame], [Steven Lyubomirsky], [Altan Haan], [Jennifer Brennan], <br class='big-only'>
+  [Mike He], [Jared Roesch], [Tianqi Chen], [Zachary Tatlock] \
   International Conference on Learning Representations (ICLR) 2021 \
   [abstract](#abs-2021-iclr-dtr){aria-controls='abs-2021-iclr-dtr' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [paper](pubs/2021-iclr-dtr/paper.pdf) &nbsp;
