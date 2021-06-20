@@ -10,8 +10,10 @@
       , "Jared Roesch"
       , "Tianqi Chen"
       , "Zachary Tatlock" ]
-  , "venue": "International Conference on Learning Representations (ICLR)"
+  , "venue": "International Conference on Learning Representations"
+  , "venue_abrv": "ICLR"
   , "year": "2021"
+  , "kind": "conference"
   , "links":
       { "abstract": "pubs/2021-iclr-dtr/abstract.md"
       , "paper": "pubs/2021-iclr-dtr/paper.pdf"

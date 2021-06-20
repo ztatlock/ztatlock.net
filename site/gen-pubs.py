@@ -8,21 +8,10 @@ PUBS_JSON = '../pubs.json'
 TEMPLATE = 'publications.template'
 PUBS_MD = 'publications.md'
 
-def toggle_link(txt, tgt):
-    elts = [ f"[{txt}](#{tgt}){{"
-           , f"aria-controls='{tgt}' "
-           , f"data-toggle='collapse' "
-           , f"role='button' "
-           , f"aria-expanded='false'"
-           , f"}}" ]
-    return ''.join(elts)
-
-
-
 def break_join(elts):
-    max_line = 80
+    max_len = 80
     full_txt = ''.join(elts)
-    nlines = math.ceil(len(full_txt) / max_line)
+    nlines = math.ceil(len(full_txt) / max_len)
     ideal = math.ceil(len(full_txt) / nlines)
 
     def cands(elts, line, lines):
@@ -32,7 +21,7 @@ def break_join(elts):
             e, es = elts[0], elts[1:]
             if len(line + e) < ideal:
                 return cands(es, line + e, lines)
-            elif max_line < len(line + e):
+            elif max_len < len(line + e):
                 return cands(es, e, lines + [line])
             else:
                 # in between ideal and max, try both
@@ -40,28 +29,43 @@ def break_join(elts):
                 b = cands(es, e, lines + [line])
                 return a + b
 
-    def score(lines):
-        error = 0
-        for i in range(1, len(lines)):
-            error += abs(len(lines[i - 1]) - len(lines[i]))
-        return error
+    def error(lines):
+        err = 0
+        for i in range(len(lines) - 1):
+            err += abs(len(lines[i]) - len(lines[i + 1]))
+        return err
 
     cs = cands(elts, '', [])
-    cs = sorted(cs, key=score)
+    cs = sorted(cs, key=error)
     return "<br class='big-only'>\n  ".join(cs[0])
+
+def toggle_link(txt, tgt):
+    elts = [ f"[{txt}](#{tgt}){{"
+           , f"aria-controls='{tgt}' "
+           , f"data-toggle='collapse' "
+           , f"role='button' "
+           , f"aria-expanded='false'"
+           , f"}}" ]
+    return ''.join(elts)
 
 def pub_entry(pub):
     # format authors
     elts = ['[' + a + '], ' for a in pub['authors']]
     authors = break_join(elts).rstrip(', ')
 
+    # format venue
+    if 'venue_abrv' in pub:
+        venue = f"{pub['venue']} ({pub['venue_abrv']}) {pub['year']}"
+    else:
+        venue = f"{pub['venue']} {pub['year']}"
+
     # format links
     elts = []
     for k in pub['links']:
         if k == 'abstract':
-            elts.append(toggle_link(k, "abs-" + pub['id']))
+            elts.append(toggle_link(k, 'abs-' + pub['id']))
         elif k == 'bib':
-            elts.append(toggle_link(k, "bib-" + pub['id']))
+            elts.append(toggle_link(k, 'bib-' + pub['id']))
         else:
             elts.append(f"[{k}]({pub['links'][k]})")
     links = ' &nbsp;\n  '.join(elts)
@@ -77,7 +81,7 @@ def pub_entry(pub):
 ::: {{.pub-entry}}
   **{pub['title']}** \\
   {authors} \\
-  {pub['venue']} {pub['year']} \\
+  {venue} \\
   {links}
 :::
 :::
