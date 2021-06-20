@@ -1,4 +1,25 @@
-[ { "id": "2021-iclr-dtr"
+[ { "id": "2021-arith-pherbie"
+  , "date": "2021-06-14"
+  , "title": "Combining Precision Tuning and Rewriting"
+  , "authors":
+      [ "Brett Saiki"
+      , "Oliver Flatt"
+      , "Chandrakana Nandi"
+      , "Pavel Panchekha"
+      , "Zachary Tatlock" ]
+  , "venue": "IEEE International Symposium on Computer Arithmetic"
+  , "venue_abrv": "ARITH"
+  , "year": "2021"
+  , "kind": "conference"
+  , "links":
+      { "abstract": "pubs/2021-arith-pherbie/abstract.md"
+      , "paper": "pubs/2021-arith-pherbie/paper.pdf"
+      , "talk": "https://www.youtube.com/watch?v=ytWhp0I8KVw"
+      , "slides": "pubs/2021-arith-pherbie/slides.pdf"
+      , "code": "https://github.com/uwplse/herbie"
+      , "project": "http://herbie.uwplse.org/"
+      , "bib": "pubs/2021-arith-pherbie/bib.bib" }}
+, { "id": "2021-iclr-dtr"
   , "date": "2021-05-05"
   , "title": "Dynamic Tensor Rematerialization"
   , "authors":
@@ -14,6 +35,7 @@
   , "venue_abrv": "ICLR"
   , "year": "2021"
   , "kind": "conference"
+  , "award": "Spotlight Paper"
   , "links":
       { "abstract": "pubs/2021-iclr-dtr/abstract.md"
       , "paper": "pubs/2021-iclr-dtr/paper.pdf"
@@ -21,6 +43,5 @@
       , "slides": "pubs/2021-iclr-dtr/slides.pdf"
       , "code": "https://github.com/uwsampl/dtr-prototype"
       , "publisher": "https://openreview.net/forum?id=Vfs_2RnOD0H"
-      , "bib": "pubs/2021-iclr-dtr/bib.bib" }
-  , "award": "Spotlight Paper" }
+      , "bib": "pubs/2021-iclr-dtr/bib.bib" }}
 ]

@@ -15,6 +15,66 @@
 
 # Publications
 
+<!-- 2021-06-14 -->
+
+::: {#pub-2021-arith-pherbie .anchor}
+::: {.pub-entry}
+  **Combining Precision Tuning and Rewriting** \
+  [Brett Saiki], [Oliver Flatt], [Chandrakana Nandi], [Pavel Panchekha], [Zachary Tatlock] \
+  IEEE International Symposium on Computer Arithmetic (ARITH) 2021 \
+  [abstract](#abs-2021-arith-pherbie){aria-controls='abs-2021-arith-pherbie' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [paper](pubs/2021-arith-pherbie/paper.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=ytWhp0I8KVw) &nbsp;
+  [slides](pubs/2021-arith-pherbie/slides.pdf) &nbsp;
+  [code](https://github.com/uwplse/herbie) &nbsp;
+  [project](http://herbie.uwplse.org/) &nbsp;
+  [bib](#bib-2021-arith-pherbie){aria-controls='bib-2021-arith-pherbie' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#abs-2021-arith-pherbie .collapse}
+::: {.card .card-body .abs-card}
+
+Precision tuning and rewriting can improve both
+the accuracy and speed of floating point expressions, yet these
+techniques are typically applied separately. This paper explores
+how finer-grained interleaving of precision tuning and rewriting
+can help automatically generate a richer set of Pareto-optimal
+accuracy versus speed trade-offs.
+
+We introduce Pherbie (Pareto Herbie), a tool providing both
+precision tuning and rewriting, and evaluate interleaving these
+two strategies at different granularities. Our results demonstrate
+that finer-grained interleavings improve both the Pareto curve
+of candidate implementations and overall optimization time. On
+a popular set of tests from the FPBench suite, Pherbie finds
+both implementations that are significantly more accurate for
+a given cost and significantly faster for a given accuracy bound
+compared to baselines using precision tuning and rewriting alone
+or in sequence.
+
+:::
+:::
+::: {#bib-2021-arith-pherbie .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2021-arith-pherbie,
+  title     = {Combining Precision Tuning and Rewriting},
+  author    = {Brett Saiki and
+               Oliver Flatt and
+               Chandrakana Nandi and
+               Pavel Panchekha and
+               Zachary Tatlock},
+  booktitle = {ARITH 2021: 28th International Symposium on Computer Arithmetic},
+  publisher = {IEEE Computer Society},
+  year      = {2021},
+  doi       = {10.1109/ARITH51176.2021.00013}
+}
+
+```
+:::
+:::
+
 <!-- 2021-05-05 -->
 
 ::: {#pub-2021-iclr-dtr .anchor}

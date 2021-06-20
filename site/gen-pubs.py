@@ -9,7 +9,7 @@ TEMPLATE = 'publications.template'
 PUBS_MD = 'publications.md'
 
 def break_join(elts):
-    max_len = 80
+    max_len = 100
     full_txt = ''.join(elts)
     nlines = math.ceil(len(full_txt) / max_len)
     ideal = math.ceil(len(full_txt) / nlines)
