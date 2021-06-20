@@ -47,6 +47,7 @@ I have been very fortunate to work on projects
 - [James R. Wilcox]
 - [Jared Roesch]
 - [Jeffrey I. Lipton]
+- [Jennifer Brennan]
 - [Jifan Zhang]
 - [Jonathan Jacky]
 - [Joseph Redmon]

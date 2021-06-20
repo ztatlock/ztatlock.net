@@ -1,0 +1,24 @@
+[ { "id": "2021-iclr-dtr"
+  , "date": "2021-05-05"
+  , "title": "Dynamic Tensor Rematerialization"
+  , "authors":
+      [ "Marisa Kirisame"
+      , "Steven Lyubomirsky"
+      , "Altan Haan"
+      , "Jennifer Brennan"
+      , "Mike He"
+      , "Jared Roesch"
+      , "Tianqi Chen"
+      , "Zachary Tatlock" ]
+  , "venue": "International Conference on Learning Representations (ICLR)"
+  , "year": "2021"
+  , "links":
+      { "abstract": "pubs/2021-iclr-dtr/abstract.md"
+      , "paper": "pubs/2021-iclr-dtr/paper.pdf"
+      , "talk": "https://www.youtube.com/watch?v=S9KJ37Sx2XY"
+      , "slides": "pubs/2021-iclr-dtr/slides.pdf"
+      , "code": "https://github.com/uwsampl/dtr-prototype"
+      , "publisher": "https://openreview.net/forum?id=Vfs_2RnOD0H"
+      , "bib": "pubs/2021-iclr-dtr/bib.bib" }
+  , "award": "Spotlight Paper" }
+]

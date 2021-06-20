@@ -1,5 +1,6 @@
-PAGES=$(wildcard *.md)
-STAGE_PAGES=$(patsubst %.md,stage/%.html,$(PAGES))
+TPAGES=$(wildcard *.template)
+MPAGES=$(wildcard *.md) $(patsubst %.template,%.md,$(TPAGES))
+STAGE_PAGES=$(patsubst %.md,stage/%.html,$(MPAGES))
 
 INCLUDE=$(wildcard include/*)
 STAGE_INCLUDE=$(patsubst include/%,stage/%,$(INCLUDE))
@@ -10,13 +11,16 @@ TALKS_DIR=$(HOME)/Dropbox/ztatlock.net/talks
 
 .PHONY: stage
 stage: \
-	$(STAGE_PAGES) \
 	$(STAGE_INCLUDE) \
 	stage/thumb \
 	stage/pubs \
 	stage/talks \
 	stage/sitemap.xml \
-	stage/ztatlock-cv.pdf
+	stage/ztatlock-cv.pdf \
+	$(STAGE_PAGES)
+
+publications.md: publications.template ../pubs.json
+	python3 gen-pubs.py
 
 stage/%.html: %.md TEMPLATE.html REFLINKS
 	@echo PANDOC $<
@@ -40,7 +44,7 @@ stage/pubs:
 stage/talks:
 	[ -d "$(TALKS_DIR)" ] && ln -s "$(TALKS_DIR)" $@
 
-stage/sitemap.xml: $(PAGES) mksitemap.sh
+stage/sitemap.xml: $(MPAGES) mksitemap.sh
 	./mksitemap.sh > $@
 
 stage/ztatlock-cv.pdf: ../cv/ztatlock-cv.tex
@@ -72,4 +76,5 @@ check: stage
 
 .PHONY: clean
 clean:
+	rm -rf publications.md
 	rm -rf stage/*
