@@ -28,11 +28,11 @@
 ::: {.row}
 ::: {.col-sm-2}
 ::: {.ra-pic}
-  [![Gus Smith](thumb/gus-smith-cropped.jpg){.img-fluid .rounded}][Gus Smith]
+  [![Gus Smith](thumb/gus-smith-cropped.jpg){.img-fluid .rounded}][Gus Henry Smith]
 :::
 :::
 ::: {.col .ra-desc}
-  [[Gus Smith]]{.ra-name} \
+  [[Gus Smith][Gus Henry Smith]]{.ra-name} \
   Co-advised with [Luis Ceze] \
   Joined Autumn 2018
 
@@ -122,7 +122,7 @@
 :::
 ::: {.col .ra-desc}
   [[Andrew Liu]]{.ra-name} \
-  Co-advised with [Gus Smith] \
+  Co-advised with [Gus Smith][Gus Henry Smith] \
   Joined Summer 2020
 
 

@@ -1,4 +1,29 @@
-[ { "id": "2021-arith-pherbie"
+[
+  { "id": "2021-maps-glenside"
+  , "date": "2021-06-21"
+  , "title": "Pure Tensor Program Rewriting via Access Patterns"
+  , "authors":
+      [ "Gus Henry Smith"
+      , "Andrew Liu"
+      , "Steven Lyubomirsky"
+      , "Scott Davidson"
+      , "Joseph McMahan"
+      , "Michael Taylor"
+      , "Luis Ceze"
+      , "Zachary Tatlock" ]
+  , "venue": "Symposium on Machine Programming"
+  , "venue_abrv": "MAPS"
+  , "year": "2021"
+  , "kind": "conference"
+  , "links":
+      { "abstract": "pubs/2021-maps-glenside/abstract.md"
+      , "paper": "pubs/2021-maps-glenside/paper.pdf"
+      , "talk": "TODO : archive and youtube"
+      , "slides": "TODO : pubs/2021-maps-glenside/slides.pdf"
+      , "code": "https://github.com/gussmith23/glenside"
+      , "publisher": "https://doi.org/10.1145/3460945.3464953"
+      , "bib": "pubs/2021-maps-glenside/bib.bib" }}
+, { "id": "2021-arith-pherbie"
   , "date": "2021-06-14"
   , "title": "Combining Precision Tuning and Rewriting"
   , "authors":
