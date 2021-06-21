@@ -25,8 +25,8 @@
   Symposium on Machine Programming (MAPS) 2021 \
   [abstract](#abs-2021-maps-glenside){aria-controls='abs-2021-maps-glenside' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [paper](pubs/2021-maps-glenside/paper.pdf) &nbsp;
-  [talk](TODO) &nbsp;
-  [slides](pubs/2021-maps-glenside/slides.pdf) &nbsp;
+  [talk](TODO : archive and youtube) &nbsp;
+  [slides](TODO : pubs/2021-maps-glenside/slides.pdf) &nbsp;
   [code](https://github.com/gussmith23/glenside) &nbsp;
   [publisher](https://doi.org/10.1145/3460945.3464953) &nbsp;
   [bib](#bib-2021-maps-glenside){aria-controls='bib-2021-maps-glenside' data-toggle='collapse' role='button' aria-expanded='false'}
@@ -42,8 +42,8 @@ representations (IRs) tend to either be *pure but high-level*, making low-level
 rewrites to hardware targets inexpressible, or *low-level but impure*,
 hampering the use of term rewriting altogether.
 
-This paper introduces Glenside, a pure IR whose core abstraction —- *the access
-pattern* -— enables low-level, layout-aware, hardware-centric program rewrites.
+This paper introduces Glenside, a pure IR whose core abstraction — *the access
+pattern* — enables low-level, layout-aware, hardware-centric program rewrites.
 We demonstrate how term rewriting in Glenside can be used to map program
 fragments to hardware accelerator invocations and automatically discover
 classic data layout transformations like im2col. Glenside establishes a new
