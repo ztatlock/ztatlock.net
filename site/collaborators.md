@@ -7,6 +7,7 @@ I have been very fortunate to work on projects
 
 ::: {#collabs}
 
+- [Aarti Gupta]
 - [Adam Anderson]
 - [Adam Chlipala]
 - [Adam T. Geller]
@@ -20,6 +21,7 @@ I have been very fortunate to work on projects
 - [Arvind Krishnamurthy]
 - [Bill Harris]
 - [Bill Zorn]
+- [Bo-Yuan Huang]
 - [Brett Saiki]
 - [Calvin Loncaric]
 - [Chandrakana Nandi]
@@ -40,6 +42,7 @@ I have been very fortunate to work on projects
 - [Eunice Jun]
 - [Eva Darulova]
 - [Grace Oh]
+- [Gu-Yeon Wei]
 - [Gus Henry Smith]
 - [Haisen Zhao]
 - [Heiko Becker]
@@ -85,6 +88,7 @@ I have been very fortunate to work on projects
 - [Ryan Doenges]
 - [Scott Davidson]
 - [Seth Pendergrass]
+- [Sharad Malik]
 - [Shoaib Kamil]
 - [Sonya Alexandrova]
 - [Sorin Lerner]
@@ -97,11 +101,13 @@ I have been very fortunate to work on projects
 - [Suresh Jagannathan]
 - [Talia Ringer]
 - [Taylor Blau]
+- [Thierry Tambe]
 - [Thomas E. Anderson]
 - [Tianqi Chen]
 - [Valentin Robert]
 - [William R. Harris]
 - [Xi Wang]
+- [Yi Li]
 - [Yisu Remy Wang]
 
 :::

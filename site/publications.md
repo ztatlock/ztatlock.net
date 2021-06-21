@@ -25,8 +25,6 @@
   Symposium on Machine Programming (MAPS) 2021 \
   [abstract](#abs-2021-maps-glenside){aria-controls='abs-2021-maps-glenside' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
   [paper](pubs/2021-maps-glenside/paper.pdf) &nbsp;
-  [talk](TODO : archive and youtube) &nbsp;
-  [slides](TODO : pubs/2021-maps-glenside/slides.pdf) &nbsp;
   [code](https://github.com/gussmith23/glenside) &nbsp;
   [publisher](https://doi.org/10.1145/3460945.3464953) &nbsp;
   [bib](#bib-2021-maps-glenside){aria-controls='bib-2021-maps-glenside' data-toggle='collapse' role='button' aria-expanded='false'}
@@ -197,6 +195,47 @@ lightweight metadata on tensors.
   booktitle = {International Conference on Learning Representations},
   year      = {2021},
   url       = {https://openreview.net/forum?id=Vfs_2RnOD0H}
+}
+
+```
+:::
+:::
+
+<!-- 2021-04-15 -->
+
+::: {#pub-2021-latte-3LA .anchor}
+::: {.pub-entry}
+  **From DSLs to Accelerator-Rich Platform Implementations: Addressing the Mapping Gap** \
+  [Bo-Yuan Huang], [Steven Lyubomirsky], [Thierry Tambe], [Yi Li], [Mike He], <br class='big-only'>
+  [Gus Henry Smith], [Gu-Yeon Wei], [Aarti Gupta], [Sharad Malik], [Zachary Tatlock] \
+  Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE) 2021 \
+  [paper](pubs/2021-latte-3LA/paper.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=2U7RAeOzssA) &nbsp;
+  [slides](pubs/2021-latte-3LA/slides.pdf) &nbsp;
+  [publisher](https://capra.cs.cornell.edu/latte21/) &nbsp;
+  [bib](#bib-2021-latte-3LA){aria-controls='bib-2021-latte-3LA' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#bib-2021-latte-3LA .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2021-latte-3LA,
+  title     = {From DSLs to Accelerator-Rich Platform Implementations:
+               Addressing the Mapping Gap},
+  author    = {Bo-Yuan Huang and
+               Steven Lyubomirsky and
+               Thierry Tambe and
+               Yi Li and
+               Mike He and
+               Gus Smith and
+               Gu-Yeon Wei and
+               Aarti Gupta and
+               Sharad Malik and
+               Zachary Tatlock},
+  booktitle = {Workshop on Languages, Tools, and Techniques for Accelerator Design},
+  year      = {2021},
+  series    = {LATTE 2021},
 }
 
 ```
