@@ -54,8 +54,8 @@ def pub_entry(pub):
     authors = break_join(elts).rstrip(', ')
 
     # format venue
-    if 'venue_abrv' in pub:
-        venue = f"{pub['venue']} ({pub['venue_abrv']}) {pub['year']}"
+    if 'series' in pub:
+        venue = f"{pub['venue']} ({pub['series']}) {pub['year']}"
     else:
         venue = f"{pub['venue']} {pub['year']}"
 
