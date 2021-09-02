@@ -1,5 +1,33 @@
-[
-  { "id": "2021-maps-glenside"
+[ { "id": "2021-sff-gayatri"
+  , "date": "2021-08-02"
+  , "title": "A Roadmap Towards Parallel Printing for Desktop 3D Printers"
+  , "authors":
+      [ "Molly Aubrey Carton"
+      , "Chandrakana Nandi"
+      , "Adam Anderson"
+      , "Haisen Zhao"
+      , "Eva Darulova"
+      , "Dan Grossman"
+      , "Jeffrey I. Lipton"
+      , "Adriana Schulz"
+      , "Zachary Tatlock" ]
+  , "venue": "Solid Freeform Fabrication Symposium"
+  , "series": "SFF"
+  , "year": "2021"
+  , "kind": "conference"
+  , "todo":
+      { "talk": "TODO : archive and youtube"
+      , "publisher": "TODO DOI" }
+  , "links":
+      { "abstract": "pubs/2021-sff-gayatri/abstract.md"
+      , "paper": "pubs/2021-sff-gayatri/paper.pdf"
+      , "talk": "https://www.youtube.com/watch?v=RghmCu6399U"
+      , "slides": "pubs/2021-sff-gayatri/slides.pdf"
+      , "code": "https://github.com/chandrakananandi/gayatri-marlin"
+      , "bib": "pubs/2021-sff-gayatri/bib.bib" }}
+
+
+, { "id": "2021-maps-glenside"
   , "date": "2021-06-21"
   , "title": "Pure Tensor Program Rewriting via Access Patterns"
   , "authors":

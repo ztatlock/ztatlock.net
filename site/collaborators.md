@@ -76,6 +76,7 @@ I have been very fortunate to work on projects
 - [Mike He]
 - [Milos Gligoric]
 - [Miranda Edwards]
+- [Molly Aubrey Carton]
 - [Nasrine Damouche]
 - [Nickolai Zeldovich]
 - [Oliver Flatt]

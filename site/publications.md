@@ -15,6 +15,66 @@
 
 # Publications
 
+<!-- 2021-08-02 -->
+
+::: {#pub-2021-sff-gayatri .anchor}
+::: {.pub-entry}
+  **A Roadmap Towards Parallel Printing for Desktop 3D Printers** \
+  [Molly Aubrey Carton], [Chandrakana Nandi], [Adam Anderson], [Haisen Zhao], <br class='big-only'>
+  [Eva Darulova], [Dan Grossman], [Jeffrey I. Lipton], [Adriana Schulz], [Zachary Tatlock] \
+  Solid Freeform Fabrication Symposium (SFF) 2021 \
+  [abstract](#abs-2021-sff-gayatri){aria-controls='abs-2021-sff-gayatri' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [paper](pubs/2021-sff-gayatri/paper.pdf) &nbsp;
+  [talk](https://www.youtube.com/watch?v=RghmCu6399U) &nbsp;
+  [slides](pubs/2021-sff-gayatri/slides.pdf) &nbsp;
+  [code](https://github.com/chandrakananandi/gayatri-marlin) &nbsp;
+  [bib](#bib-2021-sff-gayatri){aria-controls='bib-2021-sff-gayatri' data-toggle='collapse' role='button' aria-expanded='false'}
+:::
+:::
+::: {#abs-2021-sff-gayatri .collapse}
+::: {.card .card-body .abs-card}
+
+3D printers with multiple extruders (or multi-headed printers) are common in
+the desktop fabrication community, but are primarily used for multi-color or
+multi-material printing, using only one extruder at a time. What if these
+multi-headed desktop printers could also be used for simultaneous parallel
+printing? While this is a relatively unexplored direction, we argue that it
+deserves further investigation: a flexible, robust, and affordable parallel
+printing ecosystem could significantly reduce fabrication time for many
+applications and further enhance the value of desktop rapid prototyping.
+
+We propose a research agenda to explore the development of a parallel printing
+pipeline, and summarize our observations from a preliminary investigation of
+simultaneous extrusion. We hope this vision will encourage and guide future
+research in developing hardware, firmware, and slicers to facilitate parallel
+3D printing.
+
+:::
+:::
+::: {#bib-2021-sff-gayatri .collapse}
+::: {.card .card-body .bib-card}
+```
+
+@inproceedings{2021-sff-gayatri,
+  title     = {A Roadmap Towards Parallel Printing for Desktop 3D Printers},
+  author    = {Chandrakana Nandi and
+               Molly Aubrey Carton and
+               Adam Anderson and
+               Haisen Zhao and
+               Eva Darulova and
+               Dan Grossman and
+               Jeffery Ian Lipton,
+               Adriana Schulz and
+               Zachary Tatlock},
+  booktitle = {32nd International Solid Freeform Fabrication Symposium, An Additive Manufacturing Conference},
+  series    = {SFF 2021},
+  year      = {2021}
+}
+
+```
+:::
+:::
+
 <!-- 2021-06-21 -->
 
 ::: {#pub-2021-maps-glenside .anchor}
