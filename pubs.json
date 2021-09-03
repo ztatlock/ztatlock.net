@@ -1,4 +1,33 @@
-[ { "id": "2021-sff-gayatri"
+[ { "id": "2021-oopsla-ruler"
+  , "date": "2021-10-17"
+  , "title": "Rewrite Rule Inference Using Equality Saturation"
+  , "authors":
+      [ "Chandrakana Nandi"
+      , "Max Willsey"
+      , "Amy Zhu"
+      , "Yisu Remy Wang"
+      , "Brett Saiki"
+      , "Adam Anderson"
+      , "Adriana Schulz"
+      , "Dan Grossman"
+      , "Zachary Tatlock" ]
+  , "venue": "Object-Oriented Programming, Systems, Languages & Applications"
+  , "series": "OOPSLA"
+  , "year": "2021"
+  , "kind": "conference"
+  , "todo":
+      { "talk": "TODO : archive and youtube"
+      , "paper": "TODO : camera ready version"
+      , "slides": "pubs/2021-oopsla-ruler/slides.pdf"
+      , "code": "TODO"
+      , "publisher": "TODO DOI"
+      , "bib": "pubs/2021-sff-gayatri/bib.bib" }
+  , "links":
+      { "abstract": "pubs/2021-oopsla-ruler/abstract.md"
+      , "paper": "pubs/2021-oopsla-ruler/paper.pdf"
+      }}
+
+, { "id": "2021-sff-gayatri"
   , "date": "2021-08-02"
   , "title": "A Roadmap Towards Parallel Printing for Desktop 3D Printers"
   , "authors":
@@ -16,8 +45,7 @@
   , "year": "2021"
   , "kind": "conference"
   , "todo":
-      { "talk": "TODO : archive and youtube"
-      , "publisher": "TODO DOI" }
+      { "publisher": "TODO DOI" }
   , "links":
       { "abstract": "pubs/2021-sff-gayatri/abstract.md"
       , "paper": "pubs/2021-sff-gayatri/paper.pdf"

@@ -15,6 +15,44 @@
 
 # Publications
 
+<!-- 2021-10-17 -->
+
+::: {#pub-2021-oopsla-ruler .anchor}
+::: {.pub-entry}
+  **Rewrite Rule Inference Using Equality Saturation** \
+  [Chandrakana Nandi], [Max Willsey], [Amy Zhu], [Yisu Remy Wang], [Brett Saiki], <br class='big-only'>
+  [Adam Anderson], [Adriana Schulz], [Dan Grossman], [Zachary Tatlock] \
+  Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2021 \
+  [abstract](#abs-2021-oopsla-ruler){aria-controls='abs-2021-oopsla-ruler' data-toggle='collapse' role='button' aria-expanded='false'} &nbsp;
+  [paper](pubs/2021-oopsla-ruler/paper.pdf)
+:::
+:::
+::: {#abs-2021-oopsla-ruler .collapse}
+::: {.card .card-body .abs-card}
+
+Many compilers, synthesizers, and theorem provers rely on rewrite rules to
+simplify expressions or prove equivalences. Developing rewrite rules can be
+difficult: rules may be subtly incorrect, profitable rules are easy to miss,
+and rulesets must be rechecked or extended whenever semantics are tweaked.
+Large rulesets can also be challenging to apply: redundant rules slow down
+rule-based search and frustrate debugging.
+
+This paper explores how equality saturation, a promising technique that uses
+e-graphs to apply rewrite rules, can also be used to infer rewrite rules.
+E-graphs can compactly represent the exponentially large sets of enumerated
+terms and potential rewrite rules. We show that equality saturation efficiently
+shrinks both sets, leading to faster synthesis of smaller, more general
+rulesets.
+
+We prototyped these strategies in a tool dubbed Ruler. Compared to a similar
+tool built on CVC4, Ruler synthesizes 5.8× smaller rulesets 25× faster without
+compromising on proving power. In an end-to-end case study, we show
+Ruler-synthesized rules which perform as well as those crafted by domain
+experts, and addressed a longstanding issue in a popular open source tool.
+
+:::
+:::
+
 <!-- 2021-08-02 -->
 
 ::: {#pub-2021-sff-gayatri .anchor}
