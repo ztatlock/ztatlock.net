@@ -6,11 +6,6 @@
 
 [ztatlock @ cs.washington.edu]{.monospace}
 
-My email is aggressively filtered.
-To raise a higher priority interrupt, please contact <br class='big-only'>
-[Anna Wehowsky](mailto:alw10@cs.washington.edu) and
-[Amanda Robles](mailto:arobles@cs.washington.edu).
-
 ## Office Phone
 
 +1 (206) 616 - 9498
