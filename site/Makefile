@@ -51,15 +51,16 @@ stage/ztatlock-cv.pdf: ../cv/ztatlock-cv.tex
 	$(MAKE) --directory ../cv ztatlock-cv.pdf
 	cp ../cv/ztatlock-cv.pdf $@
 
-.PHONY: sync
-sync:
-	rsync \
-		--verbose \
-		--recursive \
-		--copy-dirlinks \
-		--delete \
-		--force \
-		stage/ ztatlock@ztatlock.net:/var/www/ztatlock.net
+# subsumed by draft
+#.PHONY: sync
+#sync:
+#	rsync \
+#		--verbose \
+#		--recursive \
+#		--copy-dirlinks \
+#		--delete \
+#		--force \
+#		stage/ ztatlock@ztatlock.net:/var/www/ztatlock.net
 
 .PHONY: publish
 publish: stage sync
